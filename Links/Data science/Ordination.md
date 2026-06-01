@@ -1,3 +1,4 @@
+#datascience
 **Ordination** is a set of methods used to **reduce high-dimensional data into a lower-dimensional space** in order to reveal patterns, structure, or gradients in the data.
 
 ![[Pasted image 20260531151134.png]]

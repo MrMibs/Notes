@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Visualization quality measures how effectively a plot communicates information.
 

@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Goodness of fit measures how well a model or distribution **matches the observed data**.
 

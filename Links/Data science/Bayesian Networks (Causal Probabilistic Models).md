@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Bayesian networks are graphical models that represent **probabilistic relationships between variables**, often interpreted as causal structures.
 

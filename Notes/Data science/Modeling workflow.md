@@ -1,3 +1,4 @@
+#datascience
 1. rsample   → split data (train/test, cross-validation)
 2. recipes   → preprocess + feature engineering
 3. parsnip   → define model (logistic regression, RF, etc.)

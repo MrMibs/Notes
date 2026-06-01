@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Selection bias occurs when the data used for analysis is **not representative of the population of interest** because of how the data was collected or selected.
 

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "[[Data science MOC]]",
+  "search": "#datascience",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.4015625,
   "lineSizeMultiplier": 1.06979166666667,
   "collapse-forces": false,
-  "centerStrength": 0.473958333333333,
+  "centerStrength": 0.494791666666667,
   "repelStrength": 20,
-  "linkStrength": 0.510416666666667,
+  "linkStrength": 0.796875,
   "linkDistance": 30,
-  "scale": 0.45050811767577914,
+  "scale": 0.11660891579457182,
   "close": false
 }

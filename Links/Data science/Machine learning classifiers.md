@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Classifiers are models that **assign inputs to discrete categories (classes)**.
 
