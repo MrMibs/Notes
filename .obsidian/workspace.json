@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hyperparameters.md",
+                    "file": "Notes/Data science/ggplot2 syntax.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Hyperparameters"
+                  "title": "ggplot2 syntax"
                 }
               }
             ]
@@ -221,17 +221,19 @@
   },
   "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Notes/Data science/ggplot2 syntax.md",
+    "Links/Data science/Facet_wrap.md",
+    "Notes/Data science/Practical Model Quality Metrics.md",
+    "Links/Data science/Categorical ROC Curve (Receiver Operating Characteristic).md",
     "Hyperparameters.md",
     "Notes/Data science/Modeling.md",
     "Links/Data science/Symbol meaning.md",
-    "Notes/Data science/ggplot2 syntax.md",
     "Links/Data science/Functions in ggplot framework.md",
     "Links/Data science/Data types.md",
     "Notes/Data science/Filtering.md",
     "Links/Data science/Recommender systems.md",
     "Links/Data science/Selection bias.md",
     "Links/Data science/Long vs wide format.md",
-    "Notes/Data science/Practical Model Quality Metrics.md",
     "Notes/Data science/Model Quality.md",
     "Attachments/Data science/Pasted image 20260601130551.png",
     "Very important links/NMRMS/MS at AAU.md",
@@ -251,8 +253,6 @@
     "Attachments/NMRMS/Pasted image 20260524122310.png",
     "Attachments/Data science",
     "Attachments/Data science/Pasted image 20260529130308.png",
-    "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
-    "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
     "git-upload",
     "Attachments/Data science/Pasted image 20260531151458.png",
     "Attachments/Data science/Pasted image 20260531151134.png",

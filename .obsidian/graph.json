@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#datascience",
+  "search": "#datascience facet",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 13.75,
   "linkStrength": 0.53125,
   "linkDistance": 101,
-  "scale": 0.45050811767577287,
+  "scale": 0.8854989543150226,
   "close": false
 }
