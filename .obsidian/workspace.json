@@ -197,9 +197,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "f07cc9a60652eca2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -217,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623d9685add00402",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
     "Tasks/Eksamensplan.md",
     "git-upload",
