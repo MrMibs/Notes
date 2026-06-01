@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#nmrms",
+  "search": "#datascience long",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -38,14 +38,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1.4015625,
   "lineSizeMultiplier": 1.06979166666667,
   "collapse-forces": false,
-  "centerStrength": 0.432291666666667,
-  "repelStrength": 20,
-  "linkStrength": 0.796875,
-  "linkDistance": 30,
-  "scale": 0.22920135941748995,
+  "centerStrength": 0.395833333333333,
+  "repelStrength": 13.75,
+  "linkStrength": 0.53125,
+  "linkDistance": 101,
+  "scale": 0.6316046762907372,
   "close": false
 }
