@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Eksamensplan.md",
+                "file": "Omeganote.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eksamensplan"
+              "title": "Omeganote"
             }
           }
         ],
@@ -190,12 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Omeganote.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Omeganote"
             }
           },
           {
@@ -213,8 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
+    "Omeganote.md",
     "Tasks/Eksamensplan.md",
     "git-upload",
     "Attachments/Pasted image 20260531151458.png",
