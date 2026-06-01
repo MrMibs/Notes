@@ -1,4 +1,5 @@
 #datascience
+![[Pasted image 20260601130551.png]]
 [[Goodness of Fit (Model Quality Metric)]]
 [[Estimator Bias (Asymptotic Error)]]
 [[Coverage (Confidence Intervals & Category Coverage)]]
