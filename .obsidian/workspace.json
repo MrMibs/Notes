@@ -190,13 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Eksamensplan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eksamensplan"
+              "title": "Outline"
             }
           },
           {
@@ -228,10 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0d37e8b3c42e802",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Omeganote.md",
     "Tasks/Eksamensplan.md",
+    "Omeganote.md",
     "git-upload",
     "Attachments/Pasted image 20260531151458.png",
     "Links/Data science/Ordination.md",
