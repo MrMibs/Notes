@@ -1,0 +1,1 @@
+The effect causing chemical shifting, this is the name for the de-shielding effect

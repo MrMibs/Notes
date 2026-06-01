@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git-upload/Tasks/Eksamensplan.md",
+                "file": "Tasks/Eksamensplan.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,27 +190,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unavngivet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Disposition af Unavngivet"
-            }
-          },
-          {
-            "id": "caa2c19e7ba5fbe5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -228,52 +217,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
-    "git-upload/Tasks/Eksamensplan.md",
+    "Tasks/Eksamensplan.md",
     "git-upload",
-    "git-upload/Attachments/Pasted image 20260531151458.png",
-    "git-upload/Links/Data science/Ordination.md",
-    "git-upload/Tasks/Datascience til eksamen.md",
-    "git-upload/Attachments/Pasted image 20260531151134.png",
-    "git-upload/Very important links/Data science/Exploratory Data Analysis.md",
-    "git-upload/Notes/Data science/Modeling.md",
-    "git-upload/Notes/Data science/Description models.md",
-    "git-upload/Links/Data science/Prediction models.md",
-    "git-upload/Notes/Data science/Model Quality.md",
-    "git-upload/Notes/Data science/Causation Model Quality Metrics.md",
-    "git-upload/Notes/Data science/Causation models.md",
-    "git-upload/Notes/Data science/Practical Model Quality Metrics.md",
-    "git-upload/Links/Data science/Categorical ROC Curve (Receiver Operating Characteristic).md",
-    "git-upload/Links/Data science/Model testing.md",
-    "git-upload/Links/Data science/Causal Inference (Granger, IV).md",
-    "git-upload/Links/Data science/Information Content (Entropy, Mutual Information, AIC).md",
-    "git-upload/Links/Data science/Mechanistic Validation & Counterfactuals.md",
-    "git-upload/Links/Data science/Interpretability (SHAP, Feature Importance).md",
-    "git-upload/Notes/Data science/Common Pitfalls and Fallacies.md",
-    "git-upload/Links/Data science/Goodness of Fit (Model Quality Metric).md",
-    "git-upload/Links/Data science/Overconfidence.md",
-    "git-upload/Links/Data science/Confirmation bias.md",
-    "git-upload/Links/Data science/Misaligned objectives.md",
-    "git-upload/Notes/Data science/Causation model pitfalls.md",
-    "git-upload/Links/Data science/Confounding Variables.md",
-    "git-upload/Links/Data science/Storytelling Bias.md",
+    "Attachments/Pasted image 20260531151458.png",
+    "Links/Data science/Ordination.md",
+    "Tasks/Datascience til eksamen.md",
+    "Attachments/Pasted image 20260531151134.png",
+    "Very important links/Data science/Exploratory Data Analysis.md",
+    "Notes/Data science/Modeling.md",
+    "Notes/Data science/Description models.md",
+    "Links/Data science/Prediction models.md",
+    "Notes/Data science/Model Quality.md",
+    "Notes/Data science/Causation Model Quality Metrics.md",
+    "Notes/Data science/Causation models.md",
+    "Notes/Data science/Practical Model Quality Metrics.md",
+    "Links/Data science/Categorical ROC Curve (Receiver Operating Characteristic).md",
+    "Links/Data science/Model testing.md",
+    "Links/Data science/Causal Inference (Granger, IV).md",
+    "Links/Data science/Information Content (Entropy, Mutual Information, AIC).md",
+    "Links/Data science/Mechanistic Validation & Counterfactuals.md",
+    "Links/Data science/Interpretability (SHAP, Feature Importance).md",
+    "Notes/Data science/Common Pitfalls and Fallacies.md",
+    "Links/Data science/Goodness of Fit (Model Quality Metric).md",
+    "Links/Data science/Overconfidence.md",
+    "Links/Data science/Confirmation bias.md",
+    "Links/Data science/Misaligned objectives.md",
+    "Notes/Data science/Causation model pitfalls.md",
+    "Links/Data science/Confounding Variables.md",
+    "Links/Data science/Storytelling Bias.md",
     "Untitled.base",
-    "git-upload/Attachments/Pasted image 20260531124842.png",
-    "git-upload/Attachments/Pasted image 20260531134252.png",
-    "git-upload/Attachments/Pasted image 20260531134422.png",
+    "Attachments/Pasted image 20260531124842.png",
+    "Attachments/Pasted image 20260531134252.png",
+    "Attachments/Pasted image 20260531134422.png",
     "Pasted image 20260531134405.png",
-    "git-upload/Attachments/Pasted image 20260531134317.png",
+    "Attachments/Pasted image 20260531134317.png",
     "Pasted image 20260531134241.png",
-    "git-upload/Very important links/Data science",
-    "git-upload/Very important links/NMRMS",
-    "git-upload/Attachments/Pasted image 20260529140806.png",
-    "git-upload/Attachments/Pasted image 20260530125844.png",
+    "Very important links/Data science",
+    "Very important links/NMRMS",
+    "Attachments/Pasted image 20260529140806.png",
+    "Attachments/Pasted image 20260530125844.png",
     "Tasks/Untitled",
-    "git-upload/Links/Data science",
-    "git-upload/Notes/Data science",
-    "git-upload/Notes/NMRMS/Day 12",
-    "git-upload/Notes/NMRMS/Day 10",
-    "git-upload/Notes/NMRMS/Day 9"
+    "Links/Data science",
+    "Notes/Data science",
+    "Notes/NMRMS/Day 12",
+    "Notes/NMRMS/Day 10",
+    "Notes/NMRMS/Day 9"
   ]
 }

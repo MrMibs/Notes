@@ -1,0 +1,8 @@
+[[Parts of an NMR Spectrometer; Shim, Magnet, and Lock system]]
+[[The Probe - the Antenna of an NMR Spectrometer]]
+[[Field gradients I-II]]
+[[Diffusion I-III]]
+[[Sample Preparation]]
+[[Practical Aspects of Experimental Setup]]
+[[Quality Parameters of NMR Spectra]]
+[[Safety in the NMR Laboratory]]

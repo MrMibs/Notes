@@ -1,0 +1,5 @@
+[[Basics of Nuclear Spin]]
+[[Spin behavior in magnetic field]]
+[[Nuclear spins during an NMR experiment]]
+[[NMR spectra]]
+[[chemical shift & molecular structure relation]]

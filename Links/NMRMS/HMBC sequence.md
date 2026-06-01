@@ -1,0 +1,1 @@
+Heteronuclear Multiple-Quantum Coherence shows predominantly 2-4+ bond coupling between two different nuclei. Very useful for elucidating structures.

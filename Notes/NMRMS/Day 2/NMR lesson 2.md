@@ -1,0 +1,8 @@
+[[Reporting and comparing chemical shifts]]
+[[Mesomeric-effects (M-effects)]]
+[[Magnetic Anisotropy]]
+[[Scalar-coupling]]
+[[Spectrum Prediction]]
+[[CH2 groups]]
+[[Prediction of Chemical Shifts]]
+[[Table handout]]
