@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data science/Practical Model Quality Metrics.md",
+                "file": "MOCs/Data science MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practical Model Quality Metrics"
+              "title": "Data science MOC"
             }
           }
         ],
@@ -230,7 +230,10 @@
   },
   "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "MOCs/Data science MOC.md",
+    "Notes/NMRMS/Day 8/Part 5 - Accuracy.md",
     "Notes/Data science/Practical Model Quality Metrics.md",
+    "Attachments/Pasted image 20260601130551.png",
     "Links/Data science/Component precision example.md",
     "Notes/Data science/Arduino Components.md",
     "Tasks/Eksamensplan.md",
@@ -257,8 +260,6 @@
     "Links/Data science/Goodness of Fit (Model Quality Metric).md",
     "Links/Data science/Overconfidence.md",
     "Links/Data science/Confirmation bias.md",
-    "Links/Data science/Misaligned objectives.md",
-    "Notes/Data science/Causation model pitfalls.md",
     "Untitled.base",
     "Attachments/Pasted image 20260531124842.png",
     "Attachments/Pasted image 20260531134252.png",
@@ -269,7 +270,6 @@
     "Very important links/Data science",
     "Very important links/NMRMS",
     "Attachments/Pasted image 20260529140806.png",
-    "Attachments/Pasted image 20260530125844.png",
     "Tasks/Untitled",
     "Links/Data science",
     "Notes/Data science",

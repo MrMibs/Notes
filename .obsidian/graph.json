@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "precision",
+  "search": "[[Data science MOC]]",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 0.510416666666667,
   "linkDistance": 30,
-  "scale": 0.6316046762907467,
+  "scale": 0.45050811767577914,
   "close": false
 }
