@@ -1,3 +1,4 @@
+#nmrms
 Accuracy measures accuracy of the mass measurement, measure of [[Instrument performance]], illustrated below: 
 ![[Pasted image 20260528121403.png]]
 Decimal count will be specified. In an experiment, differences between exact and experimental masses can occur for a multitude of reasons including but not limited to poor calibration, low resolution and so on.

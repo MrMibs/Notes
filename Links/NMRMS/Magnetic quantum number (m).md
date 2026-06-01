@@ -1,3 +1,4 @@
+#nmrms
 The magnetic quantum number $m$ describes the orientation of angular momentum in a magnetic field. This is expressed as:
 $$ m = -I, -I+1, -I+2, \dots, I-1, I$$
 where:

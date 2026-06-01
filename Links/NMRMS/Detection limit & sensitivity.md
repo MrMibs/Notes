@@ -1,3 +1,4 @@
+#nmrms
 Too much sample can be a problem
 ![[Pasted image 20260528123402.png]]
 This is due to detector saturation. Dont go over this. Sensitivity is the relation between analyte concentration and signal, calculated as linear regression:

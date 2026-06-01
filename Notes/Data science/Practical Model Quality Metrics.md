@@ -1,5 +1,6 @@
+#datascience
 metric_set() is used here
-
+![[Pasted image 20260601130551.png]]
 ## Definition
 Practical model quality metrics measure **how well a model performs on real tasks**, usually in terms of prediction error or classification performance.
 

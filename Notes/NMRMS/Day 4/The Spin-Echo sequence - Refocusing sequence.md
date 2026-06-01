@@ -1,3 +1,4 @@
+#nmrms
 What it does: THIS IS EXCITING! THIS MEANS AT STEP B AND E WE HAVE THE SAME NUMBER!!! Thereby, we can store magnetization in the x-y plane and eliminating chemical shift evolution between the two points. This is useful for facilitating coupling and such.
 
 ![[Pasted image 20260527105611.png]]

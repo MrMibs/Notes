@@ -1,3 +1,4 @@
+#nmrms
 Your sample sets the stage for what you can and should do:
 ![[Pasted image 20260528125606.png]]
 Analytes must be on gas phase when reaching the MS (ultra high vacuum) interior

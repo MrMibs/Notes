@@ -1,3 +1,4 @@
+#nmrms
 Magnet is very important, it enhances the population difference between the $\alpha$ and $\beta$ state, which is our goal as instead of looking at transitions we look at spins which are VERY sensitive. As we know from the
 ![[Spin behavior in magnetic field#Boltzmann distribution of spin-up and spin-down states]]
 and the

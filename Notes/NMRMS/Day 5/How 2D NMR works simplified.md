@@ -1,3 +1,4 @@
+#nmrms
 In 1d we have waiting time, excitation, acquisition of data. In 2D we need to acquire data twice! In 2d we do
 
 1. Preparation: Any pulse sequence really

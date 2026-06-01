@@ -1,3 +1,4 @@
+#nmrms
 ###### Brunker autoflex speed MALDI-TOF
 - Ionization source: [[Matrix-Assisted Laser De-sorption or Ionization (MALDI)]]
 - Mass analyzer: [[Time-of-flight (TOF)]]

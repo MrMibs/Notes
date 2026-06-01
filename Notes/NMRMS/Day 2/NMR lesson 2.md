@@ -1,3 +1,4 @@
+#nmrms
 [[Reporting and comparing chemical shifts]]
 [[Mesomeric-effects (M-effects)]]
 [[Magnetic Anisotropy]]

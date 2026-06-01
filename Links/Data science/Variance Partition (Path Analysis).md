@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Variance partitioning decomposes the **variance of an outcome variable into contributions from different predictors** using a causal path structure.
 

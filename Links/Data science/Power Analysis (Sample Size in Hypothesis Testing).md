@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Power analysis determines the **probability of correctly rejecting a false null hypothesis** and helps choose adequate sample size.
 

@@ -1,3 +1,4 @@
+#nmrms
 A combination of quadrupoles and octupoles (quadrupoles with more poles).
 ![[Pasted image 20260528171335.png]]
 

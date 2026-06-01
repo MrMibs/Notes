@@ -1,3 +1,4 @@
+#nmrms
 Ionization can happen in different ways e.g. Gas Phase Ionization, we shoot it with electrons:
 ![[Pasted image 20260528112641.png]]
 Or protonation / deprotonation by donor / acceptor.

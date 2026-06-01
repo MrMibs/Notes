@@ -1,3 +1,4 @@
+#nmrms
 [[Part 1 - General introduction and MS fundamentals]]
 [[Part 2 - Mass in MS]]
 [[Part 3 - Ionization and effect on mass spectral output]]

@@ -1,3 +1,4 @@
+#nmrms
 My own invention 
 ###### c,s Notation
 $c=cos(\pi \, J \, \tau)$ and $s=sin(\pi \, J \, \tau)$.

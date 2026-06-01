@@ -1,3 +1,4 @@
+#nmrms
 In a situation like the one below:
 ![[Pasted image 20260525104024.png]]
 We see signals split, this is called J-coupling or scalar coupling. This is because they can be treated as two in solution, with one aligning with and one aligning against the magnetic field, which is almost 1-1 (briefly mentioned at the bottom of [[Spin behavior in magnetic field]])

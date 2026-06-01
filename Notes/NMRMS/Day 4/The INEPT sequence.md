@@ -1,3 +1,4 @@
+#nmrms
 We transfer magnetization from one nucleus to another! We excite H first then transfer it to carbon!
 
 ![[Pasted image 20260527125534.png]]

@@ -1,3 +1,4 @@
+#nmrms
 [[Pulses and their effect on magnetization]]
 [[Chemical shift evolution]]
 [[Describing scalar coupling]]

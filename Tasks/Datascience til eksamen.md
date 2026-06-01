@@ -1,3 +1,4 @@
+#datascience
 [[Data science MOC]]
 rdata fra datacamp til testing
 websites med dokumentation

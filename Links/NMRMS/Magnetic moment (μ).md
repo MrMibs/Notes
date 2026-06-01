@@ -1,3 +1,4 @@
+#nmrms
 A particle with angular momentum has an associated magnetic moment.
 
 $$

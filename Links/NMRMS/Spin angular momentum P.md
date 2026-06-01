@@ -1,3 +1,4 @@
+#nmrms
 Angular momentum is quantized and is a fundamental property of particles such as nuclei and electrons.
 ## Spin angular momentum P
 For a nucleus with spin quantum number I:

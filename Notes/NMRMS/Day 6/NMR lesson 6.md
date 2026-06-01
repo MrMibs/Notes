@@ -1,3 +1,4 @@
+#nmrms
 [[Parts of an NMR Spectrometer; Shim, Magnet, and Lock system]]
 [[The Probe - the Antenna of an NMR Spectrometer]]
 [[Field gradients I-II]]

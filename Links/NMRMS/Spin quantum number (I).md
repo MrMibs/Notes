@@ -1,3 +1,4 @@
+#nmrms
 The spin quantum number \(I\) describes the total nuclear spin state of a nucleus.
 
 It depends on the arrangement of protons and neutrons and is intrinsic to each isotope.

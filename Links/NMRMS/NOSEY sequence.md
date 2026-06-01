@@ -1,3 +1,4 @@
+#nmrms
 NOSEY shows cross peaks within $\leq 5Å$ internally and across atoms.
 
 Same pulse sequence as [[COSY sequence]]. It works by 3 90 deg pulses then the FID

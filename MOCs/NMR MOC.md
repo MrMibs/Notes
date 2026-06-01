@@ -1,3 +1,4 @@
+#nmrms
 [[NMR lesson 1]]
 [[NMR lesson 2]]
 [[NMR lesson 3]]

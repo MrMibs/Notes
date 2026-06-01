@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Base rate neglect occurs when ignoring the underlying probability (base rate) of an event and focusing too much on specific evidence.
 

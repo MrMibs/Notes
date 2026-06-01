@@ -1,3 +1,4 @@
+#nmrms
 [[Spin quantum number (I)]] is represented by [[Spin angular momentum P]], however it is a fundamental property existing even without kinetic energy (0 K)
 
 1896 Zeeman noticed atomic absorption lines (absorbance lines on visible spectrum) would split into 3 under magnetic field

@@ -1,3 +1,4 @@
+#nmrms
 To really understand how we encode 2 spectra into 1 we need to look at [[HSQC sequence]] and thereby its pulse sequence. it has an inept and a reverse inept
 
 ![[Pasted image 20260527140328.png]]

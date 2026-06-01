@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Exploratory Data Analysis is the process of **investigating data to understand its structure, patterns, and quality before formal modeling**.
 

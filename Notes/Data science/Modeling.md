@@ -1,3 +1,4 @@
+#datascience
 A **model** is a simplified representation of reality that helps you describe, explain, or predict data.
 
 **Descriptive statistics** can be viewed as a very simple model because they summarize the important features of a dataset using a few numbers instead of all the raw observations.

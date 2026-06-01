@@ -1,3 +1,4 @@
+#datascience
 2 types of signals exist, digital and analog signals. Package size can be e.g. 8 bit $$00010010$$This 8 bit package size would result in a 10 bit signal as we need a startbit (0) and an end bit (1) (i think they call this 8 bit in the exam)
 $$0 \, 00010010 \, 1$$
 The first one is used as it differes from the idle signal which makes it possible to discern between noise and signal. The stop one idk. Idle signal:

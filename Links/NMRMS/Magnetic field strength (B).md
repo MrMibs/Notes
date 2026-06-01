@@ -1,3 +1,4 @@
+#nmrms
 $B_0$ is the external static magnetic field applied in NMR experiments.
 
 It determines:

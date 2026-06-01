@@ -1,3 +1,4 @@
+#nmrms
 Chromatography allows us to separate complex mixtures of **analytes as a function of time**. This **creates a lot of data** and makes interpretation hard. However, chromatography is really useful as it **reduces complexity** of the sample at any time-point (not in total however) as well as **improves sensitivity** as it is easier to see separations.
 
 An example is with blood plasma which has a $10^9$ difference in concentration, which means albumin will drown the cytokine sample if you don't separate it over time. Chromatography works by putting your sample through a stationary phase, which seperates compounds based on interactions with the column.

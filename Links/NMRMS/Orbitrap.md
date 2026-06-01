@@ -1,3 +1,4 @@
+#nmrms
 Orbitrap works by oscillating ions around a central electrode. 
 ![[Pasted image 20260528164430.png]]
 Oscillations go both along x-y and z direction. The equation describing this is as follows $$\omega_z=\sqrt{\frac{k}{m/z}}$$where:

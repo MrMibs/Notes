@@ -1,3 +1,4 @@
+#nmrms
 This is based on no [[Diffusion I-III]]
 
 A magnetic field gradient is a linearly inhomogeneous magnetic field. This is useful as you can edit what you observe. A magnetic field gradient is described as:

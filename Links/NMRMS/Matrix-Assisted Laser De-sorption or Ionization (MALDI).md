@@ -1,3 +1,4 @@
+#nmrms
 We basically have a sample deposited in a solid support. You then bombard the solid with a gas, generating ions. MALDI instead requires you to put a liquid sample inside a matrix, then let it dry and put the crystal inside the MS. This means we cannot seperate analytes!
 ![[Pasted image 20260528145021.png]]
 

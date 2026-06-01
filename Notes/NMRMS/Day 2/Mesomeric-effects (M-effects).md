@@ -1,3 +1,4 @@
+#nmrms
 Say you have this molecule (aniline)
 ![[Pasted image 20260525093535.png|439]]
 It will have [[Mesomeric-effects (M-effects)]], meaning the shifts in ortho, meta, and para positions are different. This is dependent on if the NH2 group donates or withdraws electrons from the ring. NH2 donates lonepair, thereby you get:

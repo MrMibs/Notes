@@ -1,3 +1,4 @@
+#nmrms
 Old spectra look like:
 ![[Pasted image 20260525154011.png]]
 Heights of integrals are areas under peaks. As they are relative, the values dont matter much. Say we have 1-6 ratio here (we round if we need to and try with what we get). This means we have 7H which matches with sum formula C3H7I.

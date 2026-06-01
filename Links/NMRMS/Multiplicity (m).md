@@ -1,3 +1,4 @@
+#nmrms
 For more than 2 hydrogen atoms, we can do combinatorics as we can have:
 aa, ab, ba, and bb
 

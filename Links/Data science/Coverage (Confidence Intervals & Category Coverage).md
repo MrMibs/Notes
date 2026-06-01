@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Coverage measures how often a statistical interval or model **captures the true value or correct category**.
 

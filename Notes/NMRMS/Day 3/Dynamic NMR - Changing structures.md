@@ -1,3 +1,4 @@
+#nmrms
 DMF structures, notice symbols om CH3 groups indicating position and bottom exchange not possible due to double bond.
 ![[Pasted image 20260525142835.png]]
 

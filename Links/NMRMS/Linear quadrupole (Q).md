@@ -1,3 +1,4 @@
+#nmrms
 This method consists of 4 poles. The opposing poles are applied the same potential (both an AC and a DC part) and because the other 2 poles have the same but opposite sign, this will create a fluctuating magnetic field.
 ![[Pasted image 20260528161932.png]]
 ![[Pasted image 20260528162116.png]]

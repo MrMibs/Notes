@@ -1,1 +1,2 @@
+#nmrms
 We know [[Scalar-coupling]] occurs due to $\alpha$ and $\beta$ spins both being present (up and down). From [[Dynamic NMR - Changing structures]] we know that if we can make this exchange fast, we can merge the signals! This can be done by providing energy to the spins by irradiating spins. This can be done by using lots of 180 deg pulse (flipping spins every time a signal is sent) or irradiating hydrogen all the time (with enough energy they will flip themselves) using 400 MHz waves for 13C NMR.

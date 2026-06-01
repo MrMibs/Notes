@@ -1,3 +1,4 @@
+#nmrms
 The effective magnetic field $B_{\mathrm{eff}}$ is the net magnetic field experienced by a nucleus in a chemical environment.
 
 It differs from the external field $B_0$ due to electronic shielding:

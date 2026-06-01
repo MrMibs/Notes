@@ -1,3 +1,4 @@
+#nmrms
 Heteronuclear NMR spectra for $^1J$ couplings are:
 [[HSQC sequence]]
 [[HMQC sequence]]

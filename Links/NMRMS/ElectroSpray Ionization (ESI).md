@@ -1,3 +1,4 @@
+#nmrms
 ESI is producted by applying a strong electric field to a liquid passing through a capillary. This is applied after the chromatographic column and allows nL-$\mu$L/min through. It is not an ionization method, but instead allows for transference of isolated ions from ions in liquids or gasses. More like an interface, quite low energy. It produces multiple protonated ions.
 ![[Pasted image 20260528143241.png]]
 It works as illustrated below, where a cone is used and when we put liquid through it creates droplets, which are moved by the electric field. As they move, they split into smaller and smaller droplets and eventually many small protonated gas ions as solvent is removed. Solvent is removed by the desolvation gas (which evaporates solvent) using hot nitrogen. Quick note, we have a low pH in our sample to have the required (positive) ions for this method. 

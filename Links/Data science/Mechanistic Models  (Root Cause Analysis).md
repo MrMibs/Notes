@@ -1,3 +1,4 @@
+#datascience
 ## Definition
 Mechanistic models explain outcomes through **underlying processes, physical laws, or system behavior**, not just statistical correlation.
 

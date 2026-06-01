@@ -1,3 +1,4 @@
+#nmrms
 Magnetization starts in Z-axis always
 
 RF = new magnetic field

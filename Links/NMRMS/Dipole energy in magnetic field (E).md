@@ -1,3 +1,4 @@
+#nmrms
 ## Dipole energy in external magnetic field
 Nucli are small magnets, which orient randomly. External magnetic fields align them. However energy is quantized. 
 $$E=-\vec{\mu} \cdot \vec{B} = -\lvert{\vec{\mu}}\rvert \cdot \lvert \vec{B} \rvert \cdot cos(\theta)$$

@@ -1,3 +1,4 @@
+#datascience
 An exponential filter looks like this:
 $$Y_F=\alpha Y_m+(1-\alpha)Y_{F-1}$$
 where
