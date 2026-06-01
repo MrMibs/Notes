@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"MOCs/\"",
+      "color": {
+        "a": 1,
+        "rgb": 24210
+      }
+    },
+    {
+      "query": "path:\"Notes/\"",
+      "color": {
+        "a": 1,
+        "rgb": 37796
+      }
+    },
+    {
+      "query": "path:\"Very important links/\" ",
+      "color": {
+        "a": 1,
+        "rgb": 10569452
+      }
+    },
+    {
+      "query": "path:\"Links/\"",
+      "color": {
+        "a": 1,
+        "rgb": 52634
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.4015625,
+  "lineSizeMultiplier": 1.06979166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.421875,
+  "repelStrength": 13.4375,
+  "linkStrength": 0.385416666666667,
+  "linkDistance": 30,
+  "scale": 0.11660891579457162,
+  "close": false
+}
