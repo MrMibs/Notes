@@ -15,7 +15,12 @@
 - [x] Lesson 8-11
 # Uge 23
 ### Mandag
-- [ ] Download everything data-science, find documentation websites, do 2024 quiz, play with R, create dataset / make template.
+- [x] Download everything data-science, 
+- [x] find documentation websites, 
+- [ ] do 2024 quiz, 
+- [ ] play with R, 
+- [x] download r things
+- [ ] create dataset / make template.
 ### Tirsdag DATA SCIENCE EKSAMEN
 - [ ] Data science eksamen evt. NMR
 ### Onsdag
