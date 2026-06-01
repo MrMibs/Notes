@@ -1,3 +1,4 @@
+#nmrms
 In TOF we have ion generation region "sample holder" here MALDI. Then we accelerate ions using a magnetic field and the voltage accelerates ions based on their charge and the higher the mass the slower they fly:
 ![[Pasted image 20260528160426.png]]
 

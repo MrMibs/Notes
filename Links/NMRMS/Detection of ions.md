@@ -1,3 +1,4 @@
+#nmrms
 We don't really detect ions, we put them into electron multipliers.
 ![[Pasted image 20260528165331.png]]
 They hit a wall -> chain reaction -> tons of secondary electrons. This can also be done using a microchannel plate.

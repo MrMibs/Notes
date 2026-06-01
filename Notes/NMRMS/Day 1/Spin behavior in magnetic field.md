@@ -1,3 +1,4 @@
+#nmrms
 ![[Spin angular momentum P#Spin angular momentum P]]
 
 This has a related magnetic moment which is a vector connecting magnetic south and north with direction from south to north.

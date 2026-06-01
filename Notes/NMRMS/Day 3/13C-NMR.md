@@ -1,3 +1,4 @@
+#nmrms
 13C, I=0.5, TMS = 0
 
 Carbon NMR has low sensitivity as ![[Signal strength (S)]]

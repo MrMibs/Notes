@@ -1,3 +1,4 @@
+#nmrms
 [[Larmor frequency (ν)]] is affected by field strength. We dont like this. For this reason we use [[Chemical shift (PPM)]] which standardizes across magnets.
 $$\delta=\frac{\nu_{sample}-\nu_{standard}}{\nu_{standard}}\cdot10^6[PPM]$$
 This does 2 things, 1. i scales the difference in shift down to a scale of 0-something instead of using real frequency and 2. it standardizes magnetic field strength to the magnet by dividing by it, leaving the relative change in [[Magnetic moment (μ)]] and thereby [[Gyromagnetic ratio (γ)]]. To do this we need a 0ppm compound for the standard and this is chosen as the highest shielded value so all PPM values are positive. Here, TMS $(SiC_4H_{12})$ is chosen. It is inert (does not sabotage sample), volatile (removable) and soluble in most things except water (where it gets a 4 long carbon chain with SO3- Na+ on the end).

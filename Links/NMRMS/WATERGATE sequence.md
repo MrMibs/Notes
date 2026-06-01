@@ -1,3 +1,4 @@
+#nmrms
 Not really a pulse sequence on its own. Using gradients from [[Field gradients I-II]] we know for any observable signal
 $$\sum_iG_i\tau_i\gamma_ip_i=0$$
 So this sequence

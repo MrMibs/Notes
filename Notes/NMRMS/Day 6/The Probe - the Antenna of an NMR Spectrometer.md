@@ -1,3 +1,4 @@
+#nmrms
 The antenna sending and measuring pulses is called the probe.
 ![[Pasted image 20260527161045.png]]
 I consists of 2 primary things, electronics at the bottom and a stick appropriate so the antenna (top of stick) gets to where the magnetic field is strongest. The antenna is shown all the way on the right and is a helmholtz-coil (that is where your sample goes). There are many different probes, they handle different amounts of frequencies and have different features. Most antenna have 2H for deuterium lock and 1H because it is the most common NMR but from there it varies with more types of nuclei (e.g. double/triple/quadruple resonance probes). Broad-band tunable probes let you use them for a lot of things, but they are less sensitive.

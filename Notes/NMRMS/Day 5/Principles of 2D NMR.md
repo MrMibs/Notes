@@ -1,3 +1,4 @@
+#nmrms
 NOTE: In 2d NMR we have 2 types of peaks cross peaks and diagonal peaks. Diagonal are on the diagonal and cross are the others. Now to the live notes:
 
 We cant discern between 5 and 6

@@ -1,3 +1,4 @@
+#nmrms
 Samples for NMR can be either liquid or solid, however we mostly cover liquid here. Here we have a tube filled 3.5-4cm (too little griefs field homogeniety as the interface is in contact with gas and liquid, too much).
 
 This will be 550-600 $\mu L$ for 5mm tubes, 180-200$\mu L$ for 3mm tubes or $30\mu L$ for 1.7mm tubes. The **solvent used has to be deuterated** so their hydrogens don't drown the sample. This can be fixed using [[WATERGATE sequence]] or more simply just deuterated solvents.

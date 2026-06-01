@@ -1,3 +1,4 @@
+#nmrms
 We know:
 ![[Larmor frequency (ν)#Larmor frequency equation]]
 

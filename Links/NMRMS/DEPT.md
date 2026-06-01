@@ -1,3 +1,4 @@
+#nmrms
 DEPT is an acronym for "distortionless enhancement by polarization transfer"
 ![[Pasted image 20260525152436.png]]
 Where $\theta$ gives different spectra:

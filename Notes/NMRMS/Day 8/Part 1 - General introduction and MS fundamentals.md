@@ -1,3 +1,4 @@
+#nmrms
 Topic: MS for chemical biological and biotechnological science
 Learning objectives: We need to understand how MS works, what it does, interpret spectra and set up a mode of analysis for your sample
 

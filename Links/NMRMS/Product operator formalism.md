@@ -1,3 +1,4 @@
+#nmrms
 ![[Pasted image 20260526124541.png]]
 Notation written like 
 z -> 90 deg x -> -y

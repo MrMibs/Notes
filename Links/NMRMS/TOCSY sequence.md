@@ -1,3 +1,4 @@
+#nmrms
 TOtal COrrelation SpectroscopY shows crosspeaks between atoms that are connected to eachother by uninterrupted 3 (or 4) bond coupling steps within a spin system (defined as what was just written).
 ![[Pasted image 20260527184434.png]]
 Example:

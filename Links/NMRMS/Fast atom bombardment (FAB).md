@@ -1,3 +1,4 @@
+#nmrms
 ![[Pasted image 20260528145819.png]]
 We bombard a sample with a particle beam consisting of gas generating ions similarly to [[Matrix-Assisted Laser De-sorption or Ionization (MALDI)]]. The sample is dissolved in a liquid (instead of solid) matrix and throw energetic Ar or Xe atoms at it. This forms protonated molecular ions M+H, M+Na or M-H.
 

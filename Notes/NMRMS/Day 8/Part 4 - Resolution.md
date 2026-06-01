@@ -1,3 +1,4 @@
+#nmrms
 We evaluate performance before we know what we do. We measure [[Instrument performance]] based different facturs including resolution and resolving power - How well are peaks separated from each other.
 Resolution is calculated as $$R=\frac{m/z}{\Delta m/z}$$Basically the smallest relative difference that can be separated, they are either defined as $R_{10\%}$ or FWHM full width at half maximum. We typically use 10\% valley definition. NOTE RP=m/$\Delta$m NOT CAPITALIZED IT IS MASS.
 ![[Pasted image 20260528114401.png]]

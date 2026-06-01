@@ -1,3 +1,4 @@
+#nmrms
 CH2 are sometimes equivalent, this depends on chirality. If they are mirror images of each other if you substitute a H with an X.
 ![[Pasted image 20260525125202.png]]
 Not equivalent RS vs SS

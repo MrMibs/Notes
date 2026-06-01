@@ -1,3 +1,4 @@
+#nmrms
 Step 1. How many environments
 ![[Pasted image 20260525130450.png]]
 

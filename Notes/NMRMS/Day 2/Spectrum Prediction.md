@@ -1,3 +1,4 @@
+#nmrms
 [[Table handout]]
 
 Predict spectrum from structure.

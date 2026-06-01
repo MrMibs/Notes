@@ -1,3 +1,4 @@
+#nmrms
 The Larmor frequency is the precession frequency of a magnetic moment in an external magnetic field without any interferance or anything, which otherwise would be added later.
 ## Larmor frequency equation
 $$

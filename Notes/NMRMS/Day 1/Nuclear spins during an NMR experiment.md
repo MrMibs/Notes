@@ -1,3 +1,4 @@
+#nmrms
 CW NMR was the first NMR ever done, working by creating a magnetic field and sweeping with different frequency radio waves or oppositely sweeping with difference magnetic field strengths.
 
 Instead we use FT-NMR because it is better. It works by:

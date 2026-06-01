@@ -1,3 +1,4 @@
+#nmrms
 The gyromagnetic ratio $\gamma$ is a constant specific to each nuclide (isotope). Also called proportionality factor. It tells us about energy difference between alpha and beta state.
 
 It relates magnetic moment to angular momentum:

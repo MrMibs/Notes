@@ -1,3 +1,4 @@
+#nmrms
 Step 1. Insert sample and let heating do its time. 2 min for organic solvents, 5 min for water. Longer for demanding applications.
 
 Step 2. Wobbling as explained in [[The Probe - the Antenna of an NMR Spectrometer]].

@@ -1,3 +1,4 @@
+#nmrms
 The scalar coupling constant $J$ describes the strength of spin–spin coupling between nuclei in NMR.
 
 It is measured in Hz and determines the spacing between split peaks in a spectrum.

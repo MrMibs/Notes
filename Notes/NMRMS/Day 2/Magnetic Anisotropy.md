@@ -1,3 +1,4 @@
+#nmrms
 [[Magnetic Anisotropy]] occurs when electrons are not distributed spherically symmetrically (isotropically). This effect is greater with more electrons. Example:
 ![[Pasted image 20260525102148.png]]
 From this, it is clear that CH2 is de-shielded and benzene further de-shielded. This is directional, as you move the electrons from one place to another, shielding a specific direction examples below:

@@ -1,3 +1,4 @@
+#nmrms
 # Basics and Pulse Sequences
 Gradients work really well if solutions don't diffuse.
 ![[Pasted image 20260528181457.png]]

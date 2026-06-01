@@ -1,3 +1,4 @@
+#nmrms
 Ionization matters A LOT for spectrum! Important factors it affects
 - If you get fragments or mass+1 proton
 - If you have positive or negative ions (we mostly do positive)

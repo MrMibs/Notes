@@ -1,3 +1,4 @@
+#nmrms
 EI is an universal hard ionization method for gasses, it is simple, effective, sensitive, and readily used (thereby library search is available). Sample requirements are
 - Gas
 - Volatile (entirely evaporable molecule)

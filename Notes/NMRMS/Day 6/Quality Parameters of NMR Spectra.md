@@ -1,3 +1,4 @@
+#nmrms
 Spectral quality is defined by different parameters as a spectrum is good when you get information you need. However, we try to define parameters, there are 2:
 1. Sensitivity (Signal-to-noise ratio)
 2. Resolution (can i tell my samples apart?)

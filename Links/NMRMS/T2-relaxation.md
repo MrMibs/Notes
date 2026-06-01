@@ -1,3 +1,4 @@
+#nmrms
 T2 relaxation also called (spin-spin relaxation) is the loss of phase coherence between spins in the transverse plane after excitation.
 
 It does not involve energy exchange with the lattice.

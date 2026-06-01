@@ -1,2 +1,3 @@
+#nmrms
 ![[Chemical shift (PPM)]]
 
