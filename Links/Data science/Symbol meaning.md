@@ -12,6 +12,7 @@
 | `>`    | greater than       |                                |                              |
 | `<`    | less than          |                                |                              |
 | `()`   | grouping           | controls order of logic        |                              |
+| ,      | and                | and (at least in filter)       |                              |
 
 |A|B|A \| B|
 |---|---|---|

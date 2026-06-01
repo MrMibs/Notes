@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#datascience filter",
+  "search": "#datascience |",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 13.75,
   "linkStrength": 0.53125,
   "linkDistance": 101,
-  "scale": 0.32133638605035253,
+  "scale": 0.6316046762907367,
   "close": false
 }
