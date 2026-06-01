@@ -18,9 +18,9 @@
 - [x] Download everything data-science, 
 - [x] find documentation websites, 
 - [ ] do 2024 quiz, 
-- [ ] play with R, 
+- [x] play with R, 
 - [x] download r things
-- [ ] create dataset / make template.
+- [x] create dataset / make template.
 ### Tirsdag DATA SCIENCE EKSAMEN
 - [ ] Data science eksamen evt. NMR
 ### Onsdag

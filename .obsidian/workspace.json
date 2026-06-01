@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Eksamensplan.md",
+                "file": "Notes/Data science/Practical Model Quality Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eksamensplan"
+              "title": "Practical Model Quality Metrics"
             }
           }
         ],
@@ -230,6 +230,9 @@
   },
   "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Notes/Data science/Practical Model Quality Metrics.md",
+    "Links/Data science/Component precision example.md",
+    "Notes/Data science/Arduino Components.md",
     "Tasks/Eksamensplan.md",
     "Omeganote.md",
     "git-upload",
@@ -244,7 +247,6 @@
     "Notes/Data science/Model Quality.md",
     "Notes/Data science/Causation Model Quality Metrics.md",
     "Notes/Data science/Causation models.md",
-    "Notes/Data science/Practical Model Quality Metrics.md",
     "Links/Data science/Categorical ROC Curve (Receiver Operating Characteristic).md",
     "Links/Data science/Model testing.md",
     "Links/Data science/Causal Inference (Granger, IV).md",
@@ -257,8 +259,6 @@
     "Links/Data science/Confirmation bias.md",
     "Links/Data science/Misaligned objectives.md",
     "Notes/Data science/Causation model pitfalls.md",
-    "Links/Data science/Confounding Variables.md",
-    "Links/Data science/Storytelling Bias.md",
     "Untitled.base",
     "Attachments/Pasted image 20260531124842.png",
     "Attachments/Pasted image 20260531134252.png",
