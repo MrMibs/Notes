@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Links/Data science/Symbol meaning.md",
+                    "file": "Hyperparameters.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Symbol meaning"
+                  "title": "Hyperparameters"
                 }
               }
             ]
@@ -219,8 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c381f63c310e347c",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Hyperparameters.md",
+    "Notes/Data science/Modeling.md",
+    "Links/Data science/Symbol meaning.md",
     "Notes/Data science/ggplot2 syntax.md",
     "Links/Data science/Functions in ggplot framework.md",
     "Links/Data science/Data types.md",
@@ -250,9 +253,6 @@
     "Attachments/Data science/Pasted image 20260529130308.png",
     "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
     "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
-    "Notes/NMRMS/Day 9/Part 5 - Hybrid instruments.md",
-    "Notes/NMRMS/Day 9/Part 3+4 - Mass analyzers.md",
-    "Notes/NMRMS/Day 9/Part 2 - Ion sources.md",
     "git-upload",
     "Attachments/Data science/Pasted image 20260531151458.png",
     "Attachments/Data science/Pasted image 20260531151134.png",

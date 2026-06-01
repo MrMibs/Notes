@@ -27,3 +27,5 @@ Fancy words:
 Researchers and analysts **stratify** data by dividing a large population or dataset into smaller, homogeneous subgroups (called _strata_) based on shared characteristics like age, income, or location.
 
 aggregation: a collection, or the gathering of things together
+
+[[Hyperparameters]]
