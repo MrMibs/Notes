@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "#datascience",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"MOCs/\"",
@@ -38,14 +38,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.4015625,
   "lineSizeMultiplier": 1.06979166666667,
-  "collapse-forces": false,
-  "centerStrength": 0.463541666666667,
-  "repelStrength": 11.25,
-  "linkStrength": 0.729166666666667,
-  "linkDistance": 101,
-  "scale": 0.6316046762907349,
-  "close": false
+  "collapse-forces": true,
+  "centerStrength": 0.444636678200692,
+  "repelStrength": 13.3217993079585,
+  "linkStrength": 0.468858131487889,
+  "linkDistance": 30,
+  "scale": 0.6599664978811807,
+  "close": true
 }

@@ -4,50 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2a5da15f93df09",
-        "type": "split",
+        "id": "f827bf89ff33eedb",
+        "type": "tabs",
+        "dimension": 40.63706563706564,
         "children": [
           {
-            "id": "8f527d36dfc7368c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c381f63c310e347c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Data science/ggplot2 syntax.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "ggplot2 syntax"
-                }
-              }
-            ]
-          },
-          {
-            "id": "f827bf89ff33eedb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f2c075713717dd49",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
+            "id": "93c1232186b0231c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Data science/Common Pitfalls and Fallacies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Common Pitfalls and Fallacies"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
+      },
+      {
+        "id": "2d00ee7c48b568bc",
+        "type": "tabs",
+        "dimension": 59.36293436293436,
+        "children": [
+          {
+            "id": "f2c075713717dd49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "fc970a30a79e14c0",
@@ -204,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,46 +217,45 @@
   },
   "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Notes/Data science/ggplot2 syntax.md",
-    "Links/Data science/Facet_wrap.md",
-    "Notes/Data science/Practical Model Quality Metrics.md",
-    "Links/Data science/Categorical ROC Curve (Receiver Operating Characteristic).md",
+    "Notes/Data science/Common Pitfalls and Fallacies.md",
+    "Links/Data science/Ecological fallacy.md",
     "Hyperparameters.md",
-    "Notes/Data science/Modeling.md",
-    "Links/Data science/Symbol meaning.md",
-    "Links/Data science/Functions in ggplot framework.md",
-    "Links/Data science/Data types.md",
-    "Notes/Data science/Filtering.md",
-    "Links/Data science/Recommender systems.md",
-    "Links/Data science/Selection bias.md",
-    "Links/Data science/Long vs wide format.md",
-    "Notes/Data science/Model Quality.md",
-    "Attachments/Data science/Pasted image 20260601130551.png",
-    "Very important links/NMRMS/MS at AAU.md",
-    "Notes/NMRMS/Day 3/Dynamic NMR - Changing structures.md",
     "Very important links/NMRMS/Pulse sequences.md",
-    "Links/NMRMS/Homo-decoupling.md",
-    "Links/Data science/Prediction models.md",
-    "Notes/Data science/Causation Model Quality Metrics.md",
-    "Untitled.canvas",
-    "2026-06-01.md",
-    "Very important links/NMRMS/Larmor frequency (ν).md",
     "Very important links/Data science/Exploratory Data Analysis.md",
-    "Links/NMRMS/ROSEY sequence.md",
-    "Links/NMRMS/Chromatographic interface.md",
-    "Links/NMRMS/Ascend.md",
-    "Attachments/Data science/Pasted image 20260529111705.png",
-    "Attachments/NMRMS/Pasted image 20260524122310.png",
-    "Attachments/Data science",
-    "Attachments/Data science/Pasted image 20260529130308.png",
-    "git-upload",
+    "conflict-files-obsidian-git.md",
+    "Links/Data science/Bayesian Networks (Causal Probabilistic Models).md",
+    "Tasks/Eksamensplan.md",
+    "Attachments/Data science/Pasted image 20260601130551.png",
     "Attachments/Data science/Pasted image 20260531151458.png",
     "Attachments/Data science/Pasted image 20260531151134.png",
-    "Untitled.base",
-    "Attachments/Data science/Pasted image 20260531124842.png",
-    "Attachments/Data science/Pasted image 20260531134252.png",
     "Attachments/Data science/Pasted image 20260531134422.png",
-    "Pasted image 20260531134405.png",
+    "Attachments/Data science/Pasted image 20260531134317.png",
+    "Attachments/Data science/Pasted image 20260531134252.png",
+    "Attachments/Data science/Pasted image 20260531124842.png",
+    "Attachments/Data science/Pasted image 20260530125844.png",
+    "Attachments/Data science/Pasted image 20260530111413.png",
+    "Attachments/Data science/Pasted image 20260530111724.png",
+    "Attachments/Data science",
+    "Omeganote.md",
+    "git-upload",
+    "Links/Data science/Ordination.md",
+    "Tasks/Datascience til eksamen.md",
+    "Notes/Data science/Modeling.md",
+    "Notes/Data science/Description models.md",
+    "Links/Data science/Prediction models.md",
+    "Notes/Data science/Model Quality.md",
+    "Notes/Data science/Causation Model Quality Metrics.md",
+    "Notes/Data science/Causation models.md",
+    "Notes/Data science/Practical Model Quality Metrics.md",
+    "Links/Data science/Categorical ROC Curve (Receiver Operating Characteristic).md",
+    "Links/Data science/Model testing.md",
+    "Links/Data science/Causal Inference (Granger, IV).md",
+    "Links/Data science/Information Content (Entropy, Mutual Information, AIC).md",
+    "Links/Data science/Mechanistic Validation & Counterfactuals.md",
+    "Links/Data science/Interpretability (SHAP, Feature Importance).md",
+    "Links/Data science/Goodness of Fit (Model Quality Metric).md",
+    "Links/Data science/Overconfidence.md",
+    "Untitled.base",
     "Very important links/Data science",
     "Very important links/NMRMS",
     "Tasks/Untitled",
