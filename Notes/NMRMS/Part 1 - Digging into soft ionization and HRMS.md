@@ -22,7 +22,12 @@ Here we use unit mass resolution. It is really convenient sometimes and confusin
 ![[Pasted image 20260602135019.png]]
 
 
-This can be used to characterize unknown compounds, identifying predefined molecules in a sample and 
+This can be used to characterize unknown compounds, identifying predefined molecules in a sample and to identify components within a complex. Here, controlled fragmentation is key. HRMS is typically used for these as they allow for it:
+![[Pasted image 20260602135220.png]]
+EI is good for fragmentation, however this does not work for larger as we would get infinite fragments. When we ionize biomolecules via ESI or [[Matrix-Assisted Laser De-sorption or Ionization (MALDI)]] (post source decay in TOF) we get very limited fragmentation. Higher mass gives more post source decay especially in reflector mode where the ions fly for longer. This can make us lose information.
+![[Pasted image 20260602135620.png]]
+[[ElectroSpray Ionization (ESI)]] has a potential due to needing to control ions which allows for in source fragmentation. This leads to neutral losses! This can be useful as we can match these fragments to controlled fragmentation so we know what we have.
+
 
 
 

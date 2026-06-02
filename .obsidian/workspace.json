@@ -204,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,20 +218,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c381f63c310e347c",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Notes/NMRMS/Part 1 - Digging into soft ionization and HRMS.md",
+    "Pasted image 20260602135620.png",
+    "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
+    "Links/NMRMS/ElectroSpray Ionization (ESI).md",
+    "Links/NMRMS/Matrix-Assisted Laser De-sorption or Ionization (MALDI).md",
+    "Pasted image 20260602135220.png",
     "Pasted image 20260602135019.png",
     "Pasted image 20260602134919.png",
     "Pasted image 20260602134758.png",
     "Pasted image 20260602134254.png",
-    "Notes/NMRMS/Part 1 - Digging into soft ionization and HRMS.md",
     "Attachments/Data science/Pasted image 20260602133915.png",
     "Notes/NMRMS/Part 5 - DNA, sugar, and other polymers.md",
     "Notes/NMRMS/Part 2 - Induced fragmentation and tandem MS.md",
     "Notes/NMRMS/Part 3 - Shotgun bottom-up proteomics.md",
     "Notes/NMRMS/Part 4 - Modes of analysis in bottom-up proteomics.md",
     "Notes/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
-    "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
     "Attachments/Data science/Pasted image 20260602134111.png",
     "Attachments/Data science/Pasted image 20260602134052.png",
     "Very important links/NMRMS/MS at AAU.md",
@@ -252,13 +255,8 @@
     "Links/Data science/Long vs wide format.md",
     "Notes/Data science/Model Quality.md",
     "Attachments/Data science/Pasted image 20260601130551.png",
-    "Notes/NMRMS/Day 3/Dynamic NMR - Changing structures.md",
-    "Very important links/NMRMS/Pulse sequences.md",
     "Untitled.canvas",
-    "Attachments/Data science/Pasted image 20260529111705.png",
-    "Attachments/NMRMS/Pasted image 20260524122310.png",
     "Attachments/Data science",
-    "Attachments/Data science/Pasted image 20260529130308.png",
     "git-upload",
     "Untitled.base",
     "Very important links/Data science",
