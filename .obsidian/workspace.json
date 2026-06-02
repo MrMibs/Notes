@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Data science/Signal types.md",
+                "file": "Links/Data science/Component precision example.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Signal types"
+              "title": "Component precision example"
             }
           }
         ],
@@ -233,6 +233,7 @@
   },
   "active": "c3c9b4ac0e32f8d8",
   "lastOpenFiles": [
+    "Links/Data science/Signal types.md",
     "Notes/Data science/Model Quality.md",
     "Notes/Data science/Causation Model Quality Metrics.md",
     "Eksamenssvar.md",
@@ -270,7 +271,6 @@
     "Links/Data science/Information Content (Entropy, Mutual Information, AIC).md",
     "Links/Data science/Mechanistic Validation & Counterfactuals.md",
     "Links/Data science/Interpretability (SHAP, Feature Importance).md",
-    "Links/Data science/Goodness of Fit (Model Quality Metric).md",
     "Untitled.base",
     "Very important links/Data science",
     "Very important links/NMRMS",
