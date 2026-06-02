@@ -86,14 +86,14 @@ $$
 ---
 
 ## Recall (Specificity)
-- Of actual positives, how many are detected? True Positive Rate
+- Same as above but for negatives
 
 $$
-Recall = \frac{TP}{Negative=TP + FN}
+Recall = \frac{TN}{Negative=FP + TN}
 $$
 
 ### Intuition
-“How many real positives did we find?”
+“How many real negatives did we find?”
 "The model is good at excluding all the non-target elements"
 
 ---
