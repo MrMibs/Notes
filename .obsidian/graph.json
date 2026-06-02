@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#datascience",
+  "search": "#datascience analog",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 13.3217993079585,
   "linkStrength": 0.468858131487889,
   "linkDistance": 30,
-  "scale": 0.6599664978811807,
-  "close": true
+  "scale": 0.6337423996274609,
+  "close": false
 }
