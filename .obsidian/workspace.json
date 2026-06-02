@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Part 1 - Digging into soft ionization and HRMS.md",
+                    "file": "Notes/NMRMS/Part 1 - Digging into soft ionization and HRMS.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,10 +221,20 @@
   },
   "active": "c381f63c310e347c",
   "lastOpenFiles": [
-    "Pasted image 20260602134052.png",
-    "Pasted image 20260602133915.png",
+    "Pasted image 20260602135019.png",
+    "Pasted image 20260602134919.png",
+    "Pasted image 20260602134758.png",
+    "Pasted image 20260602134254.png",
+    "Notes/NMRMS/Part 1 - Digging into soft ionization and HRMS.md",
+    "Attachments/Data science/Pasted image 20260602133915.png",
+    "Notes/NMRMS/Part 5 - DNA, sugar, and other polymers.md",
+    "Notes/NMRMS/Part 2 - Induced fragmentation and tandem MS.md",
+    "Notes/NMRMS/Part 3 - Shotgun bottom-up proteomics.md",
+    "Notes/NMRMS/Part 4 - Modes of analysis in bottom-up proteomics.md",
+    "Notes/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
     "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
-    "Part 1 - Digging into soft ionization and HRMS.md",
+    "Attachments/Data science/Pasted image 20260602134111.png",
+    "Attachments/Data science/Pasted image 20260602134052.png",
     "Very important links/NMRMS/MS at AAU.md",
     "Notes/Data science/ggplot2 syntax.md",
     "Eksamenssvar.md",
@@ -243,23 +254,13 @@
     "Attachments/Data science/Pasted image 20260601130551.png",
     "Notes/NMRMS/Day 3/Dynamic NMR - Changing structures.md",
     "Very important links/NMRMS/Pulse sequences.md",
-    "Links/NMRMS/Homo-decoupling.md",
-    "Links/Data science/Prediction models.md",
-    "Notes/Data science/Causation Model Quality Metrics.md",
     "Untitled.canvas",
-    "2026-06-01.md",
-    "Very important links/NMRMS/Larmor frequency (ν).md",
     "Attachments/Data science/Pasted image 20260529111705.png",
     "Attachments/NMRMS/Pasted image 20260524122310.png",
     "Attachments/Data science",
     "Attachments/Data science/Pasted image 20260529130308.png",
     "git-upload",
-    "Attachments/Data science/Pasted image 20260531151458.png",
-    "Attachments/Data science/Pasted image 20260531151134.png",
     "Untitled.base",
-    "Attachments/Data science/Pasted image 20260531124842.png",
-    "Attachments/Data science/Pasted image 20260531134252.png",
-    "Attachments/Data science/Pasted image 20260531134422.png",
     "Very important links/Data science",
     "Very important links/NMRMS",
     "Tasks/Untitled",
