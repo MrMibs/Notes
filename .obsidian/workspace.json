@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Data science/Practical Model Quality Metrics.md",
+                "file": "Links/Data science/Data types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Practical Model Quality Metrics"
+              "title": "Data types"
             }
           }
         ],
@@ -231,12 +231,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3c9b4ac0e32f8d8",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Links/Data science/Data types.md",
+    "Notes/Data science/Practical Model Quality Metrics.md",
     "Notes/Data science/Causation Model Quality Metrics.md",
     "Notes/Data science/ggplot2 syntax.md",
     "Links/Data science/scale_x_continuous + scale_color_binned.md",
-    "Notes/Data science/Practical Model Quality Metrics.md",
     "Links/Data science/Model testing.md",
     "Links/Data science/Categorical ROC Curve (Receiver Operating Characteristic).md",
     "Notes/Data science/Modeling.md",
@@ -258,7 +259,6 @@
     "Links/Data science/Signal types.md",
     "Notes/Data science/Model Quality.md",
     "Eksamenssvar.md",
-    "Hyperparameters.md",
     "Attachments/Data science/Pasted image 20260601130551.png",
     "Attachments/Data science/Pasted image 20260531151458.png",
     "Attachments/Data science/Pasted image 20260531151134.png",
