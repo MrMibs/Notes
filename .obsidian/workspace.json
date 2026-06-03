@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
+                    "file": "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Part 6 - MS-based quantification and applications of HRMS"
+                  "title": "Hard ionization and LRMS"
                 }
               }
             ]
@@ -220,20 +220,19 @@
   },
   "active": "c381f63c310e347c",
   "lastOpenFiles": [
-    "Pasted image 20260603111852.png",
-    "Pasted image 20260603111814.png",
-    "Pasted image 20260603111719.png",
-    "Pasted image 20260603111552.png",
-    "Pasted image 20260603111431.png",
-    "Pasted image 20260603111142.png",
     "Very important links/NMRMS/Workflow summary.md",
+    "Attachments/NMRMS/Pasted image 20260603112817.png",
     "Notes/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
-    "Pasted image 20260603110757.png",
-    "Pasted image 20260603110436.png",
-    "Pasted image 20260603110402.png",
-    "Pasted image 20260603110226.png",
-    "Pasted image 20260603110058.png",
-    "Sequential walk.md",
+    "Attachments/NMRMS/Pasted image 20260603112510.png",
+    "Attachments/NMRMS/Pasted image 20260603112225.png",
+    "Attachments/NMRMS/Pasted image 20260603112052.png",
+    "Attachments/NMRMS/Pasted image 20260603112011.png",
+    "Attachments/NMRMS/Pasted image 20260603111852.png",
+    "Attachments/NMRMS/Pasted image 20260603111814.png",
+    "Attachments/NMRMS/Pasted image 20260603111719.png",
+    "Attachments/NMRMS/Pasted image 20260603111552.png",
+    "Attachments/NMRMS/Pasted image 20260603111431.png",
+    "Links/NMRMS/Sequential walk.md",
     "Notes/NMRMS/Part 3 - Shotgun bottom-up proteomics.md",
     "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
     "Notes/NMRMS/Part 5 - DNA, sugar, and other polymers.md",

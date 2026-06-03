@@ -38,5 +38,24 @@ iTRAQ is the same
 You need to mix 1:1 to get accurate samples
 ![[Pasted image 20260603111852.png]]
 
-We can also do label-free. This requires some assumptions. A common way is using maxLFQ algorithm which assumes most proteins and peptides are the same except what we change during treatment. We can then use intensity of precursor ions allowing us to do a suf
+We can also do label-free. This requires some assumptions. A common way is using maxLFQ algorithm which assumes most proteins and peptides are the same except what we change during treatment. We can then use intensity of precursor ions allowing us to do a sophisticated normalization.
+![[Pasted image 20260603112011.png]]
+
+Alternatively we can to topN. This means we take the top N most intense precursor ions and take the average. We then divide it by the sum of top3 for all proteins.
+![[Pasted image 20260603112052.png]]
+
+iBAQ does the same
+![[Pasted image 20260603112225.png]]
+But iBAQ is seen proteins and sum iBAQ is the expected. You then normalize to expected values.
+
+---
+
+MALDI-TOF imaging.
+You cut small tissue samples onto the matrix
+![[Pasted image 20260603112510.png]]
+Then you track specific areas (dotted with red), your cut samples. Then you get a 2d image. More slices gives you a 3d image. When you make this image you track intensity of something, so you need to know what you image to know how you look for patterns in it.
+
+Microbiological profiling is also possible. This is done using pattern ID and database searching. If we have microbes we shoot they will have different things in their surface. This is kind of like a barcode and very characteristic. We can then profile microorganisms.
+![[Pasted image 20260603112817.png]]
+
 
