@@ -20,4 +20,7 @@ Alkenes have allylic cleavage
 ![[Pasted image 20260603133639.png]]
 This is like alpha cleavage but for double bonds. Terminal alkenes will always result in 41 u ions. More examples:
 ![[Pasted image 20260603134028.png]]
-The center one 
+The center one should have 97 as primary product, but they break down as it is labile. E or Z doesn't matter as they fragment equally. Centering a double bond also increases the intensity of molecular ion. If we compare allylic cleavage vs saturated hydrocarbons:
+![[Pasted image 20260603134249.png]]
+We can see the +14+14+14 series, the double bond shifts this by 2. Stability follows this order:
+![[Pasted image 20260603134336.png]]
