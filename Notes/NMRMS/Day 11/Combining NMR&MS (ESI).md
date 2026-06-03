@@ -6,4 +6,4 @@
 [[Part 4 - HRMS Chromatograms and Spectra]]
 [[Part 5 - Predicting Chemical Formula]]
 [[Part 6 - NMR Structure Elucidation]]
-[[A worked example]]
+[[Part 7 - A worked example]]
