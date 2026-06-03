@@ -5,7 +5,7 @@
 [[Part 4 - Modes of analysis in bottom-up proteomics]]
 [[Part 5 - DNA, sugar, and other polymers]]
 [[Part 6 - MS-based quantification and applications of HRMS]]
-
+[[Soft ionization fragments]]
 Objectives
 HRMS principles
 Common observations in HRMS
