@@ -23,5 +23,9 @@ ONLY FOR COMPOUNDS CONTAINING EXCLUSIVELY C H O N Si P S Hal
 
 Halogens are not as ionizable as heteroatoms (O, N, S)
 ![[Pasted image 20260603130816.png]]
-Halogens create m+2 ions.
+Halogens create m+2 ions as they have an even abundance of 80 and 82. Further 43 can only call to 41 because of the even electron rule. No alpha cleavage in halogens, so sigma cleavage.
+![[Pasted image 20260603131150.png]]
 
+Br also sometimes makes a ring, which is quite stable.
+![[Pasted image 20260603131959.png]]
+Here O radical attacks bond, H attacks radical, 1,5-H shift cleaves ring again.
