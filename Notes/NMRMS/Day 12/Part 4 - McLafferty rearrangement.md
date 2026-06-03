@@ -11,3 +11,17 @@ It has requirements:
 It works as:
 ![[Pasted image 20260603134949.png]]
 Where we lose a neutral -C2H4. 
+
+Example in spectrum for
+![[Pasted image 20260603135347.png]]
+McLafferty is written as arrow H
+![[Pasted image 20260603135402.png]]
+McLafferty for COOH and ethers (COOR)
+![[Pasted image 20260603135541.png]]
+McLafferty masses
+![[Pasted image 20260603135908.png]]
+[[Gamma cleavage]]
+
+Examples
+![[Pasted image 20260603140035.png]]
+60 74 88. It is in theory doable in two ways in the last image, but Stephensons rule say
