@@ -27,4 +27,27 @@ Protein mixtures are difficult due to size since they are big, but if we cut the
 To cleave proteins we either
 1. reduce and alkylate them (by binding to the 3')
 2. Chemically cleave them using CNBr which cleaves C-terminal of Met (amino acid). Too large for bottom-up, but this is followed up by ->
-3. Enzymatic cleavage using trypsin, which cleaves after only R and K which gives predictable fragments. Also good for nicely-sized peptides. Also creates R or K at the C terminus and N terminus is always positive which gives us 2 positive charges on each fragment.
+3. Enzymatic cleavage using trypsin, which cleaves after only Argenine R and Lysine K which gives predictable fragments. Also good for nicely-sized peptides. Also creates R or K (positively charged) at the C terminus and N terminus is always positive which gives us 2 positive charges on each fragment.
+
+Peptides are fragmented into 3 sets of ions depending on the nature of the disrupted bond. a b c or x y z.
+![[Pasted image 20260603100152.png]]
+
+Fragmentation is done using either collision, electron or photon. Depending on what we use we get different fragments
+![[Pasted image 20260603100312.png]]
+Collision is most commonly used. For collision we get these fragments:
+![[Pasted image 20260603100334.png]]
+Based on which we break we can get different fragments
+![[Pasted image 20260603100408.png]]
+Because of the terminal the species will look slightly different. Depending on if we look at B or Y we calculate using these equations:
+![[Pasted image 20260603100623.png]]
+For amino acids we know:
+![[Pasted image 20260603100808.png]]
+
+--- 
+
+Workflow
+1. Create spectrum
+![[Pasted image 20260603100838.png]]
+Ask quadrupole to isolate it (done on qTOF)
+![[Pasted image 20260603100901.png]]
+We then fragment it
