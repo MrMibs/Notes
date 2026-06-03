@@ -17,7 +17,26 @@ The yellower the more correct our predictions.
 
 ---
 
-Workflow summary:
-Chromatography -> MS1 for specific peak -> fragment -> MS2 for specific peaks in MS1. Based on MS2 we predict peptide candidates and then filter each peptide to a specific signal. We can then identify proteins based on which peptides we di
-![[Pasted image 20260603110757.png]]
+![[Workflow summary]]
+
+If we can quantify peptides we can quantify proteins! We want to do it untargeted too!
+![[Pasted image 20260603111142.png]]
+We typically do this using labeling.
+
+Spiked: We introduce a known concentration of an enriched version of a peptide allowing us to quantify the amount based on the signal from the known peptide concentration. Here we assume they are intensity-wise identical pr concentration.
+
+We can also tag the proteins using stable isotope labeling with amino acids in cell culture (SILAC). Here we supply our samples with either heavy or light arginine (13C). We mix them 1:1 and we do the MS/MS analysis in one go, which gives us 2 different responses and we can compare the relative amount of each.
+![[Pasted image 20260603111431.png]]
+
+We can also tag later using isobaric tags, TMT and iTRAQ. This works by having the samples we want to compare. We put them onto the peptides The mass of the peptide needs to be the same so we can select them in MS1 as we wanted to. Then when we fragment in MS2 we can identify these reporter balance and reactive groups.
+![[Pasted image 20260603111552.png]]
+This is e.g. done using TMT
+![[Pasted image 20260603111719.png]]
+
+iTRAQ is the same
+![[Pasted image 20260603111814.png]]
+You need to mix 1:1 to get accurate samples
+![[Pasted image 20260603111852.png]]
+
+We can also do label-free. This requires some assumptions. A common way is using maxLFQ algorithm which assumes most proteins and peptides are the same except what we change during treatment. We can then use intensity of precursor ions allowing us to do a suf
 
