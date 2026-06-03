@@ -29,3 +29,6 @@ Halogens create m+2 ions as they have an even abundance of 80 and 82. Further 43
 Br also sometimes makes a ring, which is quite stable.
 ![[Pasted image 20260603131959.png]]
 Here O radical attacks bond, H attacks radical, 1,5-H shift cleaves ring again.
+![[Pasted image 20260603132105.png]]
+Preferred pathway is 56 m/z as 71 u is more stable.
+![[Pasted image 20260603132143.png|693]]
