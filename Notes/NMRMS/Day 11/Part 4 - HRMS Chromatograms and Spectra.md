@@ -34,4 +34,6 @@ And for neutral losses:
 
 ![[Pasted image 20260603165109.png]]
 
+![[Pasted image 20260603165308.png]]
+
 ---

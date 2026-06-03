@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/NMRMS/Day 11/Part 4 - HRMS Chromatograms and Spectra.md",
+                    "file": "Notes/NMRMS/Day 11/Part 6 - NMR Structure Elucidation.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Part 4 - HRMS Chromatograms and Spectra"
+                  "title": "Part 6 - NMR Structure Elucidation"
                 }
               }
             ]
@@ -221,23 +221,23 @@
   },
   "active": "c381f63c310e347c",
   "lastOpenFiles": [
-    "Pasted image 20260603165109.png",
-    "Pasted image 20260603165106.png",
     "Notes/NMRMS/Day 11/Combining NMR&MS (ESI).md",
+    "Attachments/NMRMS/Pasted image 20260603160007.png",
+    "Notes/NMRMS/Day 11/Part 6 - NMR Structure Elucidation.md",
+    "Notes/NMRMS/Day 11/A worked example.md",
     "Notes/NMRMS/Day 11/Part 5 - Predicting Chemical Formula.md",
+    "Attachments/NMRMS/Pasted image 20260603170115.png",
+    "Attachments/NMRMS/Pasted image 20260603170037.png",
+    "Attachments/NMRMS/Pasted image 20260603170001.png",
+    "Attachments/NMRMS/Pasted image 20260603165944.png",
+    "Attachments/NMRMS/Pasted image 20260603165906.png",
+    "Attachments/NMRMS/Pasted image 20260603165722.png",
     "Notes/NMRMS/Day 11/Part 4 - HRMS Chromatograms and Spectra.md",
-    "Pasted image 20260603164917.png",
-    "Pasted image 20260603164906.png",
-    "Pasted image 20260603164820.png",
-    "Pasted image 20260603164428.png",
-    "Pasted image 20260603164146.png",
-    "Pasted image 20260603163948.png",
-    "Pasted image 20260603163845.png",
-    "Pasted image 20260603163612.png",
+    "Attachments/NMRMS/Pasted image 20260603165308.png",
+    "Attachments/NMRMS/Pasted image 20260603165109.png",
+    "Attachments/NMRMS/Pasted image 20260603165106.png",
     "Notes/NMRMS/Day 11/Part 3 - Monoisotopic Mass and Isotopes.md",
     "Notes/NMRMS/Day 11/Part 2 - Equipment and Data.md",
-    "Pasted image 20260603160748.png",
-    "Notes/NMRMS/Day 11/A worked example.md",
     "Notes/NMRMS/Day 8/Part 2 - Mass in MS.md",
     "Notes/NMRMS/Day 8/Introduction to MS - basic concepts.md",
     "MOCs/MS MOC.md",
@@ -245,7 +245,6 @@
     "Very important links/NMRMS/MS at AAU.md",
     "Notes/NMRMS/Day 11/Part 1- Introduction to Natural Product Chemistry.md",
     "MOCs/NMR MOC.md",
-    "Notes/NMRMS/Day 11/NMR Structure Elucidation.md",
     "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
     "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
     "Notes/NMRMS/Day 11",
