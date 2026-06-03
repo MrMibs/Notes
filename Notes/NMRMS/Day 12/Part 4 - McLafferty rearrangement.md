@@ -24,4 +24,8 @@ McLafferty masses
 
 Examples
 ![[Pasted image 20260603140035.png]]
-60 74 88. It is in theory doable in two ways in the last image, but Stephensons rule say
+60 74 88. It is in theory doable in two ways in the last image, but [[Stephenson rule]] says the one with the larger radical dominates. Further, aromatic hydrocarbons also do McLafferty:
+![[Pasted image 20260603140141.png]]
+Benzyllic cleavage produces 91 u, McLafferty produces 92 u. They compete.
+![[Pasted image 20260603140213.png]]
+We also have a stable molecular ion which indicates ring with long side chain.
