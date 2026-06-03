@@ -30,3 +30,5 @@ Non-bio polymers:
 We need a regular backbone with labile (weak) bonds 
 ![[Pasted image 20260603104834.png]]
 This allows us to separate peaks based on fragment areas. Also works for heteropolymers exactly like DNA and peptides.
+![[Pasted image 20260603105000.png]]
+Here we can do what we always do, cut off parts and see what we have.

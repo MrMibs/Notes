@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/NMRMS/Part 5 - DNA, sugar, and other polymers.md",
+                    "file": "Notes/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Part 5 - DNA, sugar, and other polymers"
+                  "title": "Part 6 - MS-based quantification and applications of HRMS"
                 }
               }
             ]
@@ -220,22 +220,23 @@
   },
   "active": "c381f63c310e347c",
   "lastOpenFiles": [
-    "Pasted image 20260603104834.png",
-    "Notes/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
-    "Notes/NMRMS/Part 5 - DNA, sugar, and other polymers.md",
-    "Pasted image 20260603104802.png",
-    "Pasted image 20260603104712.png",
-    "Pasted image 20260603104653.png",
-    "Pasted image 20260603104623.png",
-    "Pasted image 20260603104502.png",
-    "Pasted image 20260603104252.png",
-    "Pasted image 20260603104203.png",
-    "Links/NMRMS/Soft ionization fragments.md",
+    "Sequential walk.md",
     "Notes/NMRMS/Part 3 - Shotgun bottom-up proteomics.md",
     "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
-    "Pasted image 20260603104031.png",
-    "Pasted image 20260603103957.png",
-    "Pasted image 20260603103843.png",
+    "Notes/NMRMS/Part 5 - DNA, sugar, and other polymers.md",
+    "Notes/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
+    "Attachments/NMRMS/Pasted image 20260603102105.png",
+    "Very important links/NMRMS/Pulse sequences.md",
+    "Attachments/NMRMS/Pasted image 20260603105000.png",
+    "Attachments/NMRMS/Pasted image 20260603104834.png",
+    "Pasted image 20260603104802.png",
+    "Attachments/NMRMS/Pasted image 20260603104712.png",
+    "Attachments/NMRMS/Pasted image 20260603104653.png",
+    "Attachments/NMRMS/Pasted image 20260603104623.png",
+    "Attachments/NMRMS/Pasted image 20260603104502.png",
+    "Attachments/NMRMS/Pasted image 20260603104252.png",
+    "Attachments/NMRMS/Pasted image 20260603104203.png",
+    "Links/NMRMS/Soft ionization fragments.md",
     "Notes/NMRMS/Part 4 - Modes of analysis in bottom-up proteomics.md",
     "Very important links/NMRMS/MS at AAU.md",
     "Notes/NMRMS/Part 1 - Digging into soft ionization and HRMS.md",
@@ -255,7 +256,6 @@
     "Notes/Data science/Filtering.md",
     "Links/Data science/Recommender systems.md",
     "Links/Data science/Selection bias.md",
-    "Links/Data science/Long vs wide format.md",
     "Untitled.canvas",
     "Attachments/Data science",
     "git-upload",

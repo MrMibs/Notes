@@ -6,6 +6,7 @@
 [[Part 5 - DNA, sugar, and other polymers]]
 [[Part 6 - MS-based quantification and applications of HRMS]]
 [[Soft ionization fragments]]
+[[Sequential walk]]
 Objectives
 HRMS principles
 Common observations in HRMS
