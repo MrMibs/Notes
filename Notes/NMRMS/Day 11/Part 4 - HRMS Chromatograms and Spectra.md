@@ -17,4 +17,21 @@ Extracted Ion Chromatogram shows one M/Z from the entire dataset. (marked with r
 ![[Pasted image 20260603164146.png]]
 
 ---
-Charge state is important. In ESI 
+Charge state is important. In ESI we use the equation
+$$m/z = \frac{M+nX}{n}$$
+where
+- m/z is mass to charge measured
+- M is the monoisotopic mass of the compound
+- X is the exact mass of the charge donor
+- n is the number of charges
+
+![[Pasted image 20260603164428.png]]
+![[Pasted image 20260603164917.png]]
+
+And for neutral losses:
+
+![[Pasted image 20260603164906.png]]
+
+![[Pasted image 20260603165109.png]]
+
+---

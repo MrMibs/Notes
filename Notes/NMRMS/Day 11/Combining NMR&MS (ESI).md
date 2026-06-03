@@ -4,6 +4,6 @@
 [[Part 3 - Monoisotopic Mass and Isotopes]]
 
 [[Part 4 - HRMS Chromatograms and Spectra]]
-[[Predicting Chemical Formula]]
+[[Part 5 - Predicting Chemical Formula]]
 [[NMR Structure Elucidation]]
 [[A worked example]]
