@@ -6,4 +6,4 @@
 [[NMR lesson 5]]
 [[NMR lesson 6]]
 [[NMR lesson 7]]
-[[Combining NMR&MS]]
+[[Combining NMR&MS (ESI)]]

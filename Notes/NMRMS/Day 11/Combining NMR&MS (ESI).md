@@ -3,7 +3,7 @@
 [[Part 2 - Equipment and Data]]
 [[Part 3 - Monoisotopic Mass and Isotopes]]
 
-[[HRMS Chromatograms and Spectra]]
+[[Part 4 - HRMS Chromatograms and Spectra]]
 [[Predicting Chemical Formula]]
 [[NMR Structure Elucidation]]
 [[A worked example]]
