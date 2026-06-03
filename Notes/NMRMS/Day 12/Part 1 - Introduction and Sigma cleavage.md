@@ -25,3 +25,11 @@ The fragmentation pattern seen is based on **ion stability**.
 
 Say we had a longer chain of carbon
 ![[Pasted image 20260603123957.png]]
+The weight of this is 120 from carbons and 22 from hydrogens. As this is a radical, this is all the mass we get. Many fragments are produced as the sample has no preference for electronegativity containing the charge. This means it undergoes in a random manner, but we still see a distribution. Also interpeak distance is 14 which is CH2.
+![[Pasted image 20260603124347.png]]
+
+Say we branch our sample:
+![[Pasted image 20260603124412.png]]
+Bonds adjacent to branches are more lablie. Further:
+![[Pasted image 20260603124441.png]]
+So depending on where we split we change relative intensity. The [[Molecular ion]] is also gone in branched alkanes.

@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
+                    "file": "Notes/NMRMS/Day 12/Part 2 - Alpha cleavage.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Part 1 - Introduction and Sigma cleavage"
+                  "title": "Part 2 - Alpha cleavage"
                 }
               }
             ]
@@ -220,19 +220,20 @@
   },
   "active": "c381f63c310e347c",
   "lastOpenFiles": [
-    "Pasted image 20260603123957.png",
-    "Pasted image 20260603123608.png",
-    "Pasted image 20260603123842.png",
+    "Pasted image 20260603125007.png",
+    "Pasted image 20260603124937.png",
     "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
-    "Pasted image 20260603123433.png",
-    "Pasted image 20260603123330.png",
-    "Pasted image 20260603123304.png",
-    "Pasted image 20260603123204.png",
-    "Pasted image 20260603122956.png",
+    "Links/NMRMS/Molecular ion.md",
+    "Attachments/NMRMS/Pasted image 20260603122221.png",
+    "Attachments/NMRMS/Pasted image 20260603124441.png",
+    "Attachments/NMRMS/Pasted image 20260603124412.png",
+    "Attachments/NMRMS/Pasted image 20260603124347.png",
+    "Attachments/NMRMS/Pasted image 20260603123957.png",
+    "Pasted image 20260603123608.png",
+    "Attachments/NMRMS/Pasted image 20260603123842.png",
+    "Attachments/NMRMS/Pasted image 20260603123433.png",
+    "Attachments/NMRMS/Pasted image 20260603123330.png",
     "Very important links/NMRMS/MS at AAU.md",
-    "Pasted image 20260603122514.png",
-    "Pasted image 20260603122221.png",
-    "Pasted image 20260603122449.png",
     "Notes/NMRMS/Day 10/Part 1 - Digging into soft ionization and HRMS.md",
     "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
     "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
@@ -255,7 +256,6 @@
     "Notes/Data science/ggplot2 syntax.md",
     "Eksamenssvar.md",
     "Links/Data science/Facet_wrap.md",
-    "Notes/Data science/Practical Model Quality Metrics.md",
     "Untitled.canvas",
     "Attachments/Data science",
     "git-upload",
