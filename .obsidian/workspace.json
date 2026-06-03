@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
+                    "file": "Notes/NMRMS/Day 11/Combining NMR&MS.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Part 6 - Characteristic ions, interpretation and advanced methods"
+                  "title": "Combining NMR&MS"
                 }
               }
             ]
@@ -220,28 +220,29 @@
   },
   "active": "c381f63c310e347c",
   "lastOpenFiles": [
-    "Pasted image 20260603151020.png",
-    "Pasted image 20260603150901.png",
-    "Pasted image 20260603150817.png",
-    "Pasted image 20260603150708.png",
-    "Pasted image 20260603150555.png",
+    "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
+    "Notes/NMRMS/Day 11/Combining NMR&MS.md",
+    "Notes/NMRMS/Day 11",
+    "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
+    "Attachments/NMRMS/Pasted image 20260603150555.png",
+    "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
+    "Attachments/NMRMS/Pasted image 20260603151554.png",
+    "Pasted image 20260603151456.png",
+    "Attachments/NMRMS/Pasted image 20260603151403.png",
+    "Attachments/NMRMS/Pasted image 20260603151020.png",
+    "Attachments/NMRMS/Pasted image 20260603150901.png",
+    "Attachments/NMRMS/Pasted image 20260603150817.png",
+    "Attachments/NMRMS/Pasted image 20260603150708.png",
     "Attachments/NMRMS/Pasted image 20260524122310.png",
     "Attachments/NMRMS/Pasted image 20260603150021.png",
-    "Attachments/NMRMS/Pasted image 20260603145500.png",
-    "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
     "Notes/NMRMS/Day 12/Part 5 - Derivatization.md",
-    "Attachments/NMRMS/Pasted image 20260603145931.png",
-    "Attachments/NMRMS/Pasted image 20260603145828.png",
-    "Attachments/NMRMS/Pasted image 20260603145734.png",
     "Notes/NMRMS/Day 12/Part 4 - McLafferty rearrangement.md",
     "Links/NMRMS/Gamma cleavage.md",
     "Notes/NMRMS/Day 12/Part 3 - Benzylic and allylic cleavage.md",
     "Links/NMRMS/Rings and double bonds equivalence.md",
-    "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
     "Links/NMRMS/Molecular ion.md",
     "Notes/NMRMS/Day 12/Part 2 - Alpha cleavage.md",
     "Links/NMRMS/Stephenson rule.md",
-    "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
     "Very important links/NMRMS/MS at AAU.md",
     "Notes/NMRMS/Day 10/Part 1 - Digging into soft ionization and HRMS.md",
     "Very important links/NMRMS/Workflow summary.md",
@@ -265,7 +266,6 @@
     "Tasks/Untitled",
     "Links/Data science",
     "Notes/Data science",
-    "Notes/NMRMS/Day 12",
-    "Notes/NMRMS/Day 10"
+    "Notes/NMRMS/Day 12"
   ]
 }
