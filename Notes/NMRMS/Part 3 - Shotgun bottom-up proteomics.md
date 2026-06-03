@@ -51,3 +51,13 @@ Workflow
 Ask quadrupole to isolate it (done on qTOF)
 ![[Pasted image 20260603100901.png]]
 We then fragment it
+![[Pasted image 20260603100919.png]]
+This shows only Y-ions (idk how we know that). We then look at the spectrum
+![[Pasted image 20260603101013.png]]
+And we can, based on mass differences, find fragments.
+![[Pasted image 20260603101117.png]]
+This gives us a peptide sequence
+![[Pasted image 20260603101139.png]]
+In reality it looks more like this:
+![[Pasted image 20260603101158.png]]
+Where it is more complicated, but computers can do it.
