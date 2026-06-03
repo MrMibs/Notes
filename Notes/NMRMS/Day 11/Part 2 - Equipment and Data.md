@@ -13,12 +13,15 @@ Column separates and is heated to 40C - Reverse phase is typically used (Hydroph
 
 ---
 ![[Pasted image 20260603154441.png]]
+![[Pasted image 20260603155305.png]]
 
 ---
 ![[Pasted image 20260603154451.png]]
 
 ---
 ![[Pasted image 20260603154511.png]]
+Remember quadrupole lets you select what you want to study and do MS/MS
+![[Pasted image 20260603155632.png]]
 
 ---
 
