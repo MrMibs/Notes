@@ -10,4 +10,13 @@ Natural product chemistry requires an organism. We can study what they produce.
 
 Primary metabolism produces glycolysis. Secondary metabolism builds from products of this:
 ![[Pasted image 20260603153056.png]]
+They are rich in functional groups and highly active, which makes sense as they don't directly contribute to survival of the organism. This means they are highly active and useful for medicine.
+![[Pasted image 20260603153346.png]]
+
+
+
+
+
+
+
 

@@ -1,6 +1,6 @@
 #nmrms 
-[[Introduction to Natural Product Chemistry]]
-[[Equipment and Data]]
+[[Part 1- Introduction to Natural Product Chemistry]]
+[[Part 2 - Equipment and Data]]
 [[Monoisotopic Mass and Isotopes]]
 
 [[HRMS Chromatograms and Spectra]]
