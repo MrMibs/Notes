@@ -4,7 +4,7 @@ How do we go from MS1 to MS2?
 ![[Pasted image 20260603101358.png]]
 In reality it is not that pretty
 ![[Pasted image 20260603101504.png]]
-To select MS1 fragments we do either untargeted analysis / discovery mode. This allows us to identify all proteins in sample. We go fish! Here we create large datasets and need a lot of computing power to interpret this. 
+To select MS1 fragments we do either **untargeted analysis / discovery mode**. This allows us to identify all proteins in sample. We go fish! Here we create large datasets and need a lot of computing power to interpret this. 
 ![[Pasted image 20260603101737.png]]
 
 If we got through all these peaks sequentially, start with the ones marked on the left then mark new ones on the right, we can go through a lot of them.
@@ -25,3 +25,17 @@ They differ based on selection window definition.
 You can combine DDA and DIA using a long gradient in chromatography (LC) which gives ad DDA analysis matched to a database search, which tells us what we are interested in. We can then do DIA.
 
 If you have bad MS2 spectra you will have less coverage of B and Y ions which only allows us to get fragments of the wanted information. 
+![[Pasted image 20260603102946.png]]
+If 2 peptides get the same score
+![[Pasted image 20260603103031.png]]
+We make assumptions. 
+
+The one on the left is normal, the one on the right is rare. Therefore we think the left one is the correct one. Peptides also come from different proteins:
+![[Pasted image 20260603103132.png]]
+Based on these 3 peptides we likely look at protein A. We sum them in groups and then present the lead theory.
+![[Pasted image 20260603103310.png]]
+When we know what we think we have, we can quantify what we want to know. This is called **targeted proteomics**. This is studied a lot right now, here we can separate using
+- Pre fraction (decreases complexity)
+- Affinity enrichment (phospho-proteins for phosphor only)
+- Organelle enrichment (isolate membrane proteins only from the membrane itself)
+- Multiple reaction monitoring (MRM) where we look at specific precursor ions reducing datapoints.
