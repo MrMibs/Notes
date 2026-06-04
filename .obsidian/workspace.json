@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Eksamensplan.md",
+                "file": "Links/NMRMS/TOCSY sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Eksamensplan"
+              "title": "TOCSY sequence"
             }
           }
         ]
@@ -214,9 +214,14 @@
   },
   "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
+    "Links/NMRMS/NOSEY sequence.md",
+    "Links/NMRMS/TOCSY sequence.md",
+    "Links/NMRMS/COSY sequence.md",
+    "Links/NMRMS/ROSEY sequence.md",
+    "Links/NMRMS/DEPT.md",
+    "Tasks/Eksamensplan.md",
     "Tasks/Datascience til eksamen.md",
     "Attachments/NMRMS/Pasted image 20260603112011.png",
-    "Tasks/Eksamensplan.md",
     "Attachments/NMRMS/Pasted image 20260527142916.png",
     "Attachments/NMRMS/Pasted image 20260603170406.png",
     "Attachments/NMRMS/Pasted image 20260527142856.png",
@@ -245,12 +250,7 @@
     "Notes/NMRMS/Day 11/Part 1- Introduction to Natural Product Chemistry.md",
     "MOCs/NMR MOC.md",
     "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
-    "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
     "Notes/NMRMS/Day 11",
-    "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
-    "Notes/NMRMS/Day 12/Part 5 - Derivatization.md",
-    "Notes/NMRMS/Day 12/Part 4 - McLafferty rearrangement.md",
-    "Links/NMRMS/Gamma cleavage.md",
     "Untitled.canvas",
     "Attachments/Data science",
     "git-upload",

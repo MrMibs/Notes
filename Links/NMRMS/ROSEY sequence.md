@@ -1,2 +1,2 @@
 #nmrms
-Same pulse sequence as [[TOCSY sequence]] which is explained in slightly more detail in that one. It says the same as NOSEY but some molecular weights 2-3kg/mol are not able to do NOSEY
+Same pulse sequence as [[TOCSY sequence]] which is explained in slightly more detail in that one. It says the same as [[NOSEY sequence]] but some molecular weights 2-3kg/mol are not able to do NOSEY
