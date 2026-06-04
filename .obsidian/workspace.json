@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/NMRMS/TOCSY sequence.md",
+                "file": "DOSY sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TOCSY sequence"
+              "title": "DOSY sequence"
             }
           }
         ]
@@ -214,6 +214,8 @@
   },
   "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "DOSY sequence.md",
+    "Very important links/NMRMS/Pulse sequences.md",
     "Links/NMRMS/TOCSY sequence.md",
     "Links/NMRMS/NOSEY sequence.md",
     "Links/NMRMS/COSY sequence.md",
@@ -234,7 +236,6 @@
     "Very important links/NMRMS/Part 7 - A worked example.md",
     "Links/NMRMS/Rings and double bonds equivalence.md",
     "Notes/NMRMS/Day 11/Part 4 - HRMS Chromatograms and Spectra.md",
-    "Very important links/NMRMS/Pulse sequences.md",
     "Very important links/NMRMS/Workflow summary.md",
     "Very important links/NMRMS/Part 6 - NMR Structure Elucidation.md",
     "Very important links/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
@@ -249,7 +250,6 @@
     "Very important links/NMRMS/MS at AAU.md",
     "Notes/NMRMS/Day 11/Part 1- Introduction to Natural Product Chemistry.md",
     "MOCs/NMR MOC.md",
-    "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
     "Notes/NMRMS/Day 11",
     "Untitled.canvas",
     "Attachments/Data science",
