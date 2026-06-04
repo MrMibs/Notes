@@ -17,22 +17,22 @@
 ### Mandag
 - [x] Download everything data-science, 
 - [x] find documentation websites, 
-- [ ] do 2024 quiz, 
+- [x] do 2024 quiz, 
 - [x] play with R, 
 - [x] download r things
 - [x] create dataset / make template.
 ### Tirsdag DATA SCIENCE EKSAMEN
-- [ ] Data science eksamen evt. NMR
+- [x] Data science eksamen evt. NMR
 ### Onsdag
-- [ ] NMR MS, MS 4 evt. NMR 7 hvis det er muligt og nødvendigt og noget men det er det nok ik.
+- [x] NMR MS, MS 4 evt. NMR 7 hvis det er muligt og nødvendigt og noget men det er det nok ik.
 ### Torsdag
-- [ ] Opgaveregning
+- [ ] Opgaveregning F18
 ### Fredag
-- [ ] Opgaveregning
+- [ ] Opgaveregning F19 F22 F22RE
 ### Lørdag
-- [ ] Opgaveregning
+- [ ] Opgaveregning F23 F23RE F24 F24RE
 ### Søndag
-- [ ] Opgaveregning
+- [ ] Opgaveregning F25 F25RE (F26)
 # Uge 24
 ### Mandag NMR EKSAMEN
 - [ ] NMR eksamen
