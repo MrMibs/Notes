@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#nmrms",
+  "search": "#nmrms T2",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 101,
-  "scale": 0.45050811767575505,
+  "scale": 0.8854989543149869,
   "close": false
 }
