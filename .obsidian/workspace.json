@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NMRMS/Day 2/Prediction of Chemical Shifts.md",
+                "file": "Notes/NMRMS/Day 2/Scalar-coupling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prediction of Chemical Shifts"
+              "title": "Scalar-coupling"
             }
           }
         ]
@@ -212,8 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57afefe10b00c1cd",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Notes/NMRMS/Day 2/Scalar-coupling.md",
+    "Links/NMRMS/Coupling constant (J).md",
+    "Notes/NMRMS/Day 2/Prediction of Chemical Shifts.md",
     "Notes/NMRMS/Day 2/Spectrum Prediction.md",
     "Notes/NMRMS/Day 2/Table handout.md",
     "Notes/NMRMS/Day 2/NMR lesson 2.md",
@@ -247,9 +250,6 @@
     "Very important links/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
     "Notes/NMRMS/Day 11/Combining NMR&MS (ESI).md",
     "Very important links/NMRMS/Part 5 - Predicting Chemical Formula.md",
-    "Notes/NMRMS/Day 11/Part 3 - Monoisotopic Mass and Isotopes.md",
-    "Notes/NMRMS/Day 11/Part 2 - Equipment and Data.md",
-    "Notes/NMRMS/Day 8/Part 2 - Mass in MS.md",
     "Notes/NMRMS/Day 11",
     "Untitled.canvas",
     "Attachments/Data science",
