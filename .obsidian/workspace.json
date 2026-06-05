@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NMRMS/Day 2/Scalar-coupling.md",
+                "file": "Notes/NMRMS/Day 2/CH2 groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scalar-coupling"
+              "title": "CH2 groups"
             }
           }
         ]
@@ -214,10 +214,10 @@
   },
   "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
+    "Notes/NMRMS/Day 2/Scalar-coupling.md",
     "Notes/NMRMS/Day 3/Spectrum Interpretation.md",
     "Links/NMRMS/COSY sequence.md",
     "Links/NMRMS/Rings and double bonds equivalence.md",
-    "Notes/NMRMS/Day 2/Scalar-coupling.md",
     "Links/NMRMS/Coupling constant (J).md",
     "Notes/NMRMS/Day 2/Prediction of Chemical Shifts.md",
     "Notes/NMRMS/Day 2/Spectrum Prediction.md",
