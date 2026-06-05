@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#nmrms COSY",
+  "search": "#nmrms coup",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 101,
-  "scale": 0.6316046762907098,
+  "scale": 0.6316046762907093,
   "close": false
 }

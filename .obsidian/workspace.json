@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/NMRMS/COSY sequence.md",
+                "file": "Notes/NMRMS/Day 2/Scalar-coupling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "COSY sequence"
+              "title": "Scalar-coupling"
             }
           }
         ]
@@ -214,6 +214,8 @@
   },
   "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
+    "Notes/NMRMS/Day 3/Spectrum Interpretation.md",
+    "Links/NMRMS/COSY sequence.md",
     "Links/NMRMS/Rings and double bonds equivalence.md",
     "Notes/NMRMS/Day 2/Scalar-coupling.md",
     "Links/NMRMS/Coupling constant (J).md",
@@ -228,7 +230,6 @@
     "Very important links/NMRMS/Pulse sequences.md",
     "Links/NMRMS/TOCSY sequence.md",
     "Links/NMRMS/NOSEY sequence.md",
-    "Links/NMRMS/COSY sequence.md",
     "Links/NMRMS/ROSEY sequence.md",
     "Links/NMRMS/DEPT.md",
     "Tasks/Eksamensplan.md",
@@ -249,7 +250,6 @@
     "Very important links/NMRMS/Part 6 - NMR Structure Elucidation.md",
     "Very important links/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
     "Notes/NMRMS/Day 11/Combining NMR&MS (ESI).md",
-    "Very important links/NMRMS/Part 5 - Predicting Chemical Formula.md",
     "Notes/NMRMS/Day 11",
     "Untitled.canvas",
     "Attachments/Data science",
