@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NMRMS/Day 2/Scalar-coupling.md",
+                "file": "Links/NMRMS/Rings and double bonds equivalence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scalar-coupling"
+              "title": "Rings and double bonds equivalence"
             }
           }
         ]
@@ -212,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
     "Notes/NMRMS/Day 2/Scalar-coupling.md",
     "Links/NMRMS/Coupling constant (J).md",

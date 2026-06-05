@@ -7,3 +7,4 @@ where:
 - N = Nitrogen
 
 Even-electron ions have 0.5 r+d more than expected.
+
