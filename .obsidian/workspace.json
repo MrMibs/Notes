@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/NMRMS/Dipole energy in magnetic field (E).md",
+                "file": "Notes/NMRMS/Day 6/Parts of an NMR Spectrometer; Shim, Magnet, and Lock system.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dipole energy in magnetic field (E)"
+              "title": "Parts of an NMR Spectrometer; Shim, Magnet, and Lock system"
             }
           }
         ]
@@ -212,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
     "Links/NMRMS/Dipole energy in magnetic field (E).md",
     "Links/NMRMS/Magnetic field strength (B).md",
