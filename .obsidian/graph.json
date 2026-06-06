@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#nmrms",
+  "search": "#nmrms resolution",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 101,
-  "scale": 0.6316046762907065,
+  "scale": 0.45050811767575116,
   "close": false
 }
