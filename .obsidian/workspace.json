@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/NMRMS/DEPT.md",
+                "file": "Notes/NMRMS/Day 10/Part 3 - Shotgun bottom-up proteomics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DEPT"
+              "title": "Part 3 - Shotgun bottom-up proteomics"
             }
           }
         ]
@@ -212,8 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
+    "Links/NMRMS/Soft ionization fragments.md",
+    "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
+    "Notes/NMRMS/Day 10/Part 4 - Modes of analysis in bottom-up proteomics.md",
+    "Notes/NMRMS/Day 8/Introduction to MS - basic concepts.md",
     "Links/NMRMS/DEPT.md",
     "Links/NMRMS/HSQC sequence.md",
     "Notes/NMRMS/Day 1/Nuclear spins during an NMR experiment.md",
@@ -236,10 +240,6 @@
     "DOSY sequence.md",
     "Very important links/NMRMS/Pulse sequences.md",
     "Links/NMRMS/TOCSY sequence.md",
-    "Links/NMRMS/NOSEY sequence.md",
-    "Links/NMRMS/ROSEY sequence.md",
-    "Tasks/Eksamensplan.md",
-    "Tasks/Datascience til eksamen.md",
     "Attachments/NMRMS/Pasted image 20260603112011.png",
     "Attachments/NMRMS/Pasted image 20260527142916.png",
     "Attachments/NMRMS/Pasted image 20260603170406.png",
