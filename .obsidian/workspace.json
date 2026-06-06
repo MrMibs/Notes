@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NMRMS/Day 6/Parts of an NMR Spectrometer; Shim, Magnet, and Lock system.md",
+                "file": "Notes/NMRMS/Day 2/CH2 groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Parts of an NMR Spectrometer; Shim, Magnet, and Lock system"
+              "title": "CH2 groups"
             }
           }
         ]
@@ -214,6 +214,7 @@
   },
   "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
+    "Notes/NMRMS/Day 6/Parts of an NMR Spectrometer; Shim, Magnet, and Lock system.md",
     "Links/NMRMS/Dipole energy in magnetic field (E).md",
     "Links/NMRMS/Magnetic field strength (B).md",
     "Links/NMRMS/DEPT.md",
@@ -249,7 +250,6 @@
     "Attachments/NMRMS/Pasted image 20260527105542.png",
     "Very important links/NMRMS/Part 7 - A worked example.md",
     "Notes/NMRMS/Day 11/Part 4 - HRMS Chromatograms and Spectra.md",
-    "Very important links/NMRMS/Workflow summary.md",
     "Notes/NMRMS/Day 11",
     "Untitled.canvas",
     "Attachments/Data science",
