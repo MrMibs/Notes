@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#nmrms CH2",
+  "search": "#nmrms",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 101,
-  "scale": 0.6316046762907093,
+  "scale": 0.32133638605033804,
   "close": false
 }
