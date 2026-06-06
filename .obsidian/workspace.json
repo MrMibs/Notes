@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NMRMS/Day 2/CH2 groups.md",
+                "file": "Notes/NMRMS/Day 1/Nuclear spins during an NMR experiment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CH2 groups"
+              "title": "Nuclear spins during an NMR experiment"
             }
           }
         ]
@@ -214,11 +214,12 @@
   },
   "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
+    "Links/NMRMS/T1-relaxation.md",
+    "Links/NMRMS/DEPT.md",
+    "Notes/NMRMS/Day 2/CH2 groups.md",
     "Notes/NMRMS/Day 6/Parts of an NMR Spectrometer; Shim, Magnet, and Lock system.md",
     "Links/NMRMS/Dipole energy in magnetic field (E).md",
     "Links/NMRMS/Magnetic field strength (B).md",
-    "Links/NMRMS/DEPT.md",
-    "Notes/NMRMS/Day 2/CH2 groups.md",
     "Notes/NMRMS/Day 2/Scalar-coupling.md",
     "Notes/NMRMS/Day 3/Spectrum Interpretation.md",
     "Links/NMRMS/COSY sequence.md",
@@ -230,7 +231,6 @@
     "Notes/NMRMS/Day 2/NMR lesson 2.md",
     "Links/NMRMS/Chemical shift (PPM).md",
     "Links/NMRMS/T2-relaxation.md",
-    "Links/NMRMS/T1-relaxation.md",
     "DOSY sequence.md",
     "Very important links/NMRMS/Pulse sequences.md",
     "Links/NMRMS/TOCSY sequence.md",
