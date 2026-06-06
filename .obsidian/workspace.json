@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NMRMS/Day 1/Nuclear spins during an NMR experiment.md",
+                "file": "Links/NMRMS/DEPT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Nuclear spins during an NMR experiment"
+              "title": "DEPT"
             }
           }
         ]
@@ -212,10 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57afefe10b00c1cd",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Links/NMRMS/T1-relaxation.md",
     "Links/NMRMS/DEPT.md",
+    "Links/NMRMS/HSQC sequence.md",
+    "Notes/NMRMS/Day 1/Nuclear spins during an NMR experiment.md",
+    "Links/NMRMS/T1-relaxation.md",
     "Notes/NMRMS/Day 2/CH2 groups.md",
     "Notes/NMRMS/Day 6/Parts of an NMR Spectrometer; Shim, Magnet, and Lock system.md",
     "Links/NMRMS/Dipole energy in magnetic field (E).md",
@@ -248,8 +250,6 @@
     "Attachments/NMRMS/Pasted image 20260528190924.png",
     "Attachments/NMRMS/Pasted image 20260603171658.png",
     "Attachments/NMRMS/Pasted image 20260527105542.png",
-    "Very important links/NMRMS/Part 7 - A worked example.md",
-    "Notes/NMRMS/Day 11/Part 4 - HRMS Chromatograms and Spectra.md",
     "Notes/NMRMS/Day 11",
     "Untitled.canvas",
     "Attachments/Data science",
