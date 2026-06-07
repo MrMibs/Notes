@@ -11,7 +11,7 @@ Aromatic systems show high stability and strong molecular ion peaks.
 ![[Pasted image 20260603150817.png]]
 
 Appendix 8 is useful for a further list of these such as McL.
-![[Pasted image 20260603150901.png]]
+![[Pasted image 20260603150901.png|697]]
 
 Halogens are separated by M+2, M+4, M+6 (as they have +2 isotopes)
 ![[Pasted image 20260603151020.png]]

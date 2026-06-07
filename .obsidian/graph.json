@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#nmrms tryp",
+  "search": "#nmrms",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 101,
-  "scale": 0.22920135941747716,
+  "scale": 0.6316046762907032,
   "close": false
 }
