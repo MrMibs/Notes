@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
+                "file": "Notes/NMRMS/Day 12/Part 4 - McLafferty rearrangement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Part 6 - Characteristic ions, interpretation and advanced methods"
+              "title": "Part 4 - McLafferty rearrangement"
             }
           }
         ]
@@ -214,6 +214,7 @@
   },
   "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
+    "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
     "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
     "MOCs/MS MOC.md",
     "Very important links/NMRMS/Pulse sequences.md",
@@ -239,7 +240,6 @@
     "Links/NMRMS/HSQC sequence.md",
     "Notes/NMRMS/Day 1/Nuclear spins during an NMR experiment.md",
     "Links/NMRMS/T1-relaxation.md",
-    "Notes/NMRMS/Day 2/CH2 groups.md",
     "Attachments/NMRMS/Pasted image 20260603112011.png",
     "Attachments/NMRMS/Pasted image 20260527142916.png",
     "Attachments/NMRMS/Pasted image 20260603170406.png",
