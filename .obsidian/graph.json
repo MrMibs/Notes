@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "#nmrms MCL",
+  "search": "#nmrms",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"MOCs/\"",
@@ -38,14 +38,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -2,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.4015625,
   "lineSizeMultiplier": 1.06979166666667,
   "collapse-forces": false,
-  "centerStrength": 0.552083333333333,
+  "centerStrength": 0.524221453287197,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 101,
-  "scale": 0.8854989543149749,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.15435766901010708,
+  "close": true
 }
