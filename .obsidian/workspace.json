@@ -12,15 +12,12 @@
             "id": "93c1232186b0231c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Very important links/NMRMS/MS at AAU.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachments/Data science/Pasted image 20260602133915.png"
               },
-              "icon": "lucide-file",
-              "title": "MS at AAU"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260602133915"
             }
           }
         ]
@@ -214,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "93c1232186b0231c",
   "lastOpenFiles": [
     "Very important links/NMRMS/MS at AAU.md",
     "Links/NMRMS/ElectroSpray Ionization (ESI).md",
