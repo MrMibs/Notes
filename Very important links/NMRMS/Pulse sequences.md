@@ -18,6 +18,7 @@ Different types include 1D:
 - [[TOCSY sequence]]
 - [[NOSEY sequence]]
 - [[ROSEY sequence]]
+- [[DOSY sequence]]
 Strange and dangerous (3d, C-C and phase filtering):
 - [[Inadequate sequence]]
 - [[HNCO spectrum]]

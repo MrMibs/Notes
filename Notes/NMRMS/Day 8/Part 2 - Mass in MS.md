@@ -20,8 +20,9 @@ Mass exists in many forms
 Rel. atomic mass is a weighted average e.g. for Br we would see 79.9 Da
 Average mass: Sum of the rel. atomic mass of elements in a molecule
 Nominal mass is the integer mass of the most abundant isotope e.g. 12 for C, 16 for O
+###### Monoisotopic mass
 Monoisotopic mass: Sum of masses using most abundant isotope of each mass e.g. 15.99491 for O, H for 1.00782
-
+######
 For ethanol with average, nominal and monoisotopic we get 46.0694, 46, and 46.0183 respectively, the difference compounds.
 
 What mass you use depends on your needs, below is a table showing probability of encountering an x+1, x+2 or so on in an atom with a given number of carbons.

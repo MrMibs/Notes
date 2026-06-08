@@ -1,7 +1,16 @@
 #nmrms
-[[MS3 part 1]]
-[[MS3 part 2]]
-[[MS3 part 3]]
-[[MS3 part 4]]
-[[MS3 part 5]]
-[[MS3 part 6]]
+[[Part 1 - Digging into soft ionization and HRMS]]
+[[Part 2 - Induced fragmentation and tandem MS]]
+[[Part 3 - Shotgun bottom-up proteomics]]
+[[Part 4 - Modes of analysis in bottom-up proteomics]]
+[[Part 5 - DNA, sugar, and other polymers]]
+[[Part 6 - MS-based quantification and applications of HRMS]]
+[[Soft ionization fragments]]
+[[Sequential walk]]
+Objectives
+HRMS principles
+Common observations in HRMS
+Understand controlled fragmentation
+Interpret MS and MS/MS spectra from HRMS for organic polymers
+Reason for limited MS-based quantification
+

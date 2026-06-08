@@ -1,0 +1,9 @@
+#nmrms 
+[[Part 1- Introduction to Natural Product Chemistry]]
+[[Part 2 - Equipment and Data]]
+[[Part 3 - Monoisotopic Mass and Isotopes]]
+
+[[Part 4 - HRMS Chromatograms and Spectra]]
+[[Part 5 - Predicting Chemical Formula]]
+[[Part 6 - NMR Structure Elucidation]]
+[[Part 7 - A worked example]]

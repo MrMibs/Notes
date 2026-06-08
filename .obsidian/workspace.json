@@ -4,30 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f827bf89ff33eedb",
+        "id": "f96f4277375a3281",
         "type": "tabs",
-        "dimension": 40.63706563706564,
         "children": [
           {
-            "id": "93c1232186b0231c",
+            "id": "57afefe10b00c1cd",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "Notes/NMRMS/Day 12/Part 4 - McLafferty rearrangement.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Part 4 - McLafferty rearrangement"
             }
           }
         ]
       },
       {
-        "id": "2d00ee7c48b568bc",
+        "id": "f827bf89ff33eedb",
         "type": "tabs",
-        "dimension": 59.362934362934354,
         "children": [
           {
             "id": "f2c075713717dd49",
@@ -98,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fc970a30a79e14c0",
@@ -213,44 +211,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93c1232186b0231c",
+  "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
-    "Links/NMRMS/EXCY sequence.md",
-    "Links/NMRMS/HMBC sequence.md",
+    "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
+    "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
+    "MOCs/MS MOC.md",
+    "Very important links/NMRMS/Pulse sequences.md",
+    "DOSY sequence.md",
+    "Links/NMRMS/ROSEY sequence.md",
+    "Links/NMRMS/NOSEY sequence.md",
+    "Links/NMRMS/TOCSY sequence.md",
     "Links/NMRMS/HMQC sequence.md",
-    "Links/NMRMS/COSY sequence.md",
-    "Notes/Data science/Common Pitfalls and Fallacies.md",
-    "Links/Data science/Symbol meaning.md",
-    "Links/Data science/Data types.md",
-    "Notes/Data science/Practical Model Quality Metrics.md",
-    "Notes/Data science/Causation Model Quality Metrics.md",
-    "Notes/Data science/ggplot2 syntax.md",
-    "Links/Data science/scale_x_continuous + scale_color_binned.md",
-    "Links/Data science/Model testing.md",
-    "Links/Data science/Categorical ROC Curve (Receiver Operating Characteristic).md",
-    "Notes/Data science/Modeling.md",
-    "Notes/Data science/Modeling workflow.md",
-    "Links/Data science/Reification.md",
-    "Links/Data science/Selection bias.md",
-    "Links/Data science/Ecological fallacy.md",
-    "Links/Data science/Simpson’s paradox.md",
-    "Links/Data science/Cherry-picking.md",
-    "Links/Data science/Overfitting to noise.md",
-    "Notes/Data science/Description models.md",
-    "Links/Data science/Bayesian Networks (Causal Probabilistic Models).md",
-    "Very important links/Data science/Exploratory Data Analysis.md",
-    "Links/Data science/Machine learning classifiers.md",
-    "Links/Data science/Prediction models.md",
-    "Attachments/Data science/Pasted image 20260601130551.png",
-    "Attachments/Data science/Pasted image 20260531151458.png",
-    "Attachments/Data science/Pasted image 20260531151134.png",
-    "Attachments/Data science/Pasted image 20260531134422.png",
-    "Attachments/Data science/Pasted image 20260531134317.png",
-    "Attachments/Data science/Pasted image 20260531134252.png",
-    "Attachments/Data science/Pasted image 20260531124842.png",
-    "Attachments/Data science/Pasted image 20260530125844.png",
-    "Attachments/Data science/Pasted image 20260530111413.png",
-    "Attachments/Data science/Pasted image 20260530111724.png",
+    "Notes/NMRMS/Day 10/Part 3 - Shotgun bottom-up proteomics.md",
+    "Links/NMRMS/Soft ionization fragments.md",
+    "Links/NMRMS/Sequential walk.md",
+    "Notes/NMRMS/Day 10/Part 5 - DNA, sugar, and other polymers.md",
+    "Very important links/NMRMS/Workflow summary.md",
+    "Notes/NMRMS/Day 10/Part 4 - Modes of analysis in bottom-up proteomics.md",
+    "Very important links/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
+    "Notes/NMRMS/Day 8/Part 4 - Resolution.md",
+    "Notes/NMRMS/Day 6/Quality Parameters of NMR Spectra.md",
+    "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
+    "Links/NMRMS/Magnetic field strength (B).md",
+    "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
+    "Notes/NMRMS/Day 8/Introduction to MS - basic concepts.md",
+    "Links/NMRMS/DEPT.md",
+    "Links/NMRMS/HSQC sequence.md",
+    "Notes/NMRMS/Day 1/Nuclear spins during an NMR experiment.md",
+    "Links/NMRMS/T1-relaxation.md",
+    "Attachments/NMRMS/Pasted image 20260603112011.png",
+    "Attachments/NMRMS/Pasted image 20260527142916.png",
+    "Attachments/NMRMS/Pasted image 20260603170406.png",
+    "Attachments/NMRMS/Pasted image 20260527142856.png",
+    "Attachments/NMRMS/Pasted image 20260603104031.png",
+    "Attachments/NMRMS/Pasted image 20260527140307.png",
+    "Attachments/NMRMS/Pasted image 20260603165106.png",
+    "Attachments/NMRMS/Pasted image 20260528190924.png",
+    "Attachments/NMRMS/Pasted image 20260603171658.png",
+    "Attachments/NMRMS/Pasted image 20260527105542.png",
+    "Notes/NMRMS/Day 11",
+    "Untitled.canvas",
     "Attachments/Data science",
     "git-upload",
     "Untitled.base",
@@ -259,7 +259,6 @@
     "Tasks/Untitled",
     "Links/Data science",
     "Notes/Data science",
-    "Notes/NMRMS/Day 12",
-    "Notes/NMRMS/Day 10"
+    "Notes/NMRMS/Day 12"
   ]
 }
