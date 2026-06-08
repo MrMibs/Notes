@@ -12,14 +12,15 @@
             "id": "93c1232186b0231c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
-                "aRef": ""
+                "file": "Very important links/NMRMS/MS at AAU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: graph.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "MS at AAU"
             }
           }
         ]
@@ -215,6 +216,12 @@
   },
   "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Very important links/NMRMS/MS at AAU.md",
+    "Links/NMRMS/ElectroSpray Ionization (ESI).md",
+    "Links/NMRMS/Electron Ionization (EI).md",
+    "Links/NMRMS/Matrix-Assisted Laser De-sorption or Ionization (MALDI).md",
+    "Links/NMRMS/Chromatographic interface.md",
+    "Links/NMRMS/Detection of ions.md",
     "Notes/NMRMS/Day 11/Part 4 - HRMS Chromatograms and Spectra.md",
     "Notes/NMRMS/Day 11/Part 3 - Monoisotopic Mass and Isotopes.md",
     "Notes/NMRMS/Day 11/Part 1- Introduction to Natural Product Chemistry.md",
@@ -246,12 +253,6 @@
     "Attachments/NMRMS/Pasted image 20260603171356.png",
     "Links/NMRMS/EXCY sequence.md",
     "Links/NMRMS/HMBC sequence.md",
-    "Links/NMRMS/HMQC sequence.md",
-    "Links/NMRMS/COSY sequence.md",
-    "Notes/Data science/Common Pitfalls and Fallacies.md",
-    "Links/Data science/Symbol meaning.md",
-    "Links/Data science/Data types.md",
-    "Notes/Data science/Practical Model Quality Metrics.md",
     "Attachments/Data science",
     "git-upload",
     "Untitled.base",
