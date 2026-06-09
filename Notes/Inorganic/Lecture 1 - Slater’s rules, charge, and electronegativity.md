@@ -58,6 +58,10 @@ Which means we can calculate effective nuclear charge as $Z_{eff}=Z-\sigma=11-8.
 | Spin quantum number (mₛ)                        | +½, −½          | Defines the electron spin orientation ("spin up" or "spin down"). (2 electrons pr shape) |
 note quantum number also called $m_I$ and we know this from NMR. Then the values of the slater shield constants are given as:
 
-![[Pasted image 20260609104547.png]]
+| Electron of interest | Electrons in same group (n=n) | n=n and angular quantum number < l | Electrons in group(s) with principal quantum number n−1 | Electrons in all group(s) with principal quantum number < n−1 |
+| -------------------- | ----------------------------- | ---------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
+| [1s]                 | 0.30                          | 0                                  | 0                                                       | 0                                                             |
+| [ns, np]             | 0.35                          | 0.85                               | 0.85                                                    | 1.00                                                          |
+| [nd] or [nf]         | 0.35                          | 1.00                               | 1.00                                                    | 1.00                                                          |
 
-Meaning electrons in the same group (unless its 1s) is 0.35. Electrons below in shell is 0.85 and below that again it is 1.
+Where the third column means "Electrons in the **same shell** but in orbitals with **lower angular momentum** than the electron you're calculating $Z_{eff}$ for."
