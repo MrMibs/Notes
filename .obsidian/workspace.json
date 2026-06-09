@@ -43,17 +43,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
+                "file": "Links/Inorganic/Molecular Orbital Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 -The covalent bond and its theories"
+              "title": "Molecular Orbital Theory"
+            }
+          },
+          {
+            "id": "9604390d353c63b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/Inorganic/Lewis structure.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lewis structure"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f827bf89ff33eedb",
@@ -243,14 +258,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac3434eb336d2f3a",
+  "active": "9604390d353c63b6",
   "lastOpenFiles": [
+    "Pasted image 20260609115404.png",
+    "Links/Inorganic/Lewis structure.md",
+    "Pasted image 20260609115312.png",
+    "Pasted image 20260609115341.png",
+    "Links/Inorganic",
+    "Attachments/Inorganic/Pasted image 20260609113305.png",
+    "Links/Inorganic/Molecular Orbital Theory.md",
+    "Links/Inorganic/VSEPR model.md",
+    "Links/Inorganic/Valence Bond Theory.md",
+    "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
     "Tasks/Eksamensplan.md",
     "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
-    "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
-    "Pasted image 20260609114154.png",
-    "Pasted image 20260609114141.png",
-    "Pasted image 20260609113305.png",
+    "Attachments/Inorganic/Pasted image 20260609114154.png",
+    "Attachments/Inorganic/Pasted image 20260609114141.png",
     "MOCs/Inorganic MOC.md",
     "Attachments/Inorganic/Pasted image 20260609102716.png",
     "Attachments/Untitled.md",
@@ -276,12 +299,6 @@
     "Notes/Inorganic",
     "Notes/NMRMS/Day 12/Part 4 - McLafferty rearrangement.md",
     "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
-    "MOCs/MS MOC.md",
-    "Very important links/NMRMS/Pulse sequences.md",
-    "Links/NMRMS/ROSEY sequence.md",
-    "Links/NMRMS/NOSEY sequence.md",
-    "Attachments/NMRMS/Pasted image 20260603112011.png",
-    "Attachments/NMRMS/Pasted image 20260527142916.png",
     "Notes/NMRMS/Day 11",
     "Untitled.canvas",
     "Attachments/Data science",
@@ -289,7 +306,6 @@
     "Untitled.base",
     "Very important links/Data science",
     "Very important links/NMRMS",
-    "Tasks/Untitled",
-    "Links/Data science"
+    "Tasks/Untitled"
   ]
 }
