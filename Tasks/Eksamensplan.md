@@ -39,10 +39,10 @@
 ### Tirsdag
 - [ ] 1+2
 ### Onsdag
-- [ ] 3-8
+- [ ] 3-7
 - [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
 ### Torsdag
-- [ ] 9-12
+- [ ] 8-12
 ### Fredag
 - [ ] idk
 ### Lørdag

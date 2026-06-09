@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Inorganic/Molecular Orbitals Theory.md",
+                "file": "Tasks/Eksamensplan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Molecular Orbitals Theory"
+              "title": "Eksamensplan"
             }
           }
         ],
@@ -258,7 +258,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "9604390d353c63b6",
   "lastOpenFiles": [
     "Links/Inorganic/Molecular Orbitals Theory.md",
     "Attachments/Inorganic/Lecture_2-44-47.pdf",
