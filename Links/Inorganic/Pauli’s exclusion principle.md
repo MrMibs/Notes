@@ -1,3 +1,4 @@
+#inorganic 
 - No two electrons in an atom can have the same set of all four quantum numbers (n, l, mₗ, mₛ).  
 - Each orbital can hold max 2 electrons.  
 - These two electrons must have **opposite spins** (+½ and −½).
