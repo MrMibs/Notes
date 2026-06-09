@@ -71,3 +71,11 @@ Say we look at 4f we get 3 in the same shell, 54 below from Xe and the 6s$^2$ el
 
 Thereby we get:
 $$54 \cdot 1 + 2 \cdot 1 + 3 \cdot 0.35= 57.05$$
+Further, ionic radii can be estimated from this value, thereby:
+![[Pasted image 20260609113305.png]]
+
+This leads to the concept of Electronegativity, which is "the power of an atom in a molecule to attract electrons for itself". It is calculated as the geometric average of the dissociation energy between a bond with 2 of the same atoms:
+$$D(A-B) = \sqrt{D(A-A) \times D(B-B)}$$
+where
+- D(A-B) is the dissociation energy of the A-B bond
+- D(A-A) is the dissociation energy of the A-B bond
