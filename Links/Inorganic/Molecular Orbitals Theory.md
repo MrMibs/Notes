@@ -22,3 +22,11 @@ The energy difference is not always so clear between S and P
 ![[Pasted image 20260609125719.png]]
 Example with N$_2$
 ![[Pasted image 20260609125808.png]]
+A harder example is:
+Using molecular orbital diagrams, predict which of the following gas-phase reaction is the more favored and give your reasoning. You can assume that all the species in this exercise have MO structure similar to that of carbon monoxide.
+NO + CN $\rightarrow$ $NO^+$ + $CN^-$
+NO + CN $\rightarrow$ $NO^-$ + $CN^+$
+![[Lecture_2-44-47.pdf]]
+
+This however is not so hard, as we know the amount of electrons and their distribution, it is easy to see if 14 14 or 16 12 is the better distribution of electrons and in this case 14 14 wins. So 
+NO + CN $\rightarrow$ $NO^+$ + $CN^-$ is more favorable

@@ -258,15 +258,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9604390d353c63b6",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Pasted image 20260609125808.png",
-    "Pasted image 20260609125719.png",
-    "Pasted image 20260609125630.png",
     "Links/Inorganic/Molecular Orbitals Theory.md",
+    "Attachments/Inorganic/Lecture_2-44-47.pdf",
+    "Attachments/Inorganic/Pasted image 20260609125808.png",
+    "Attachments/Inorganic/Pasted image 20260609125719.png",
+    "Attachments/Inorganic/Pasted image 20260609125630.png",
     "Links/Inorganic/Hund’s principle.md",
-    "Pasted image 20260609125257.png",
-    "Pasted image 20260609125156.png",
+    "Attachments/Inorganic/Pasted image 20260609125257.png",
+    "Attachments/Inorganic/Pasted image 20260609125156.png",
     "Links/Inorganic/VSEPR model.md",
     "Links/Inorganic/Pauli’s exclusion principle.md",
     "Links/Inorganic/Aufbau rule.md",
@@ -281,7 +282,6 @@
     "Attachments/Inorganic/Pasted image 20260609115341.png",
     "MOCs/Inorganic MOC.md",
     "Attachments/Inorganic/Pasted image 20260609120102.png",
-    "Attachments/Inorganic/Pasted image 20260609115831.png",
     "Links/Inorganic",
     "Tasks/Eksamensplan.md",
     "Attachments/Untitled.md",
@@ -305,7 +305,6 @@
     "Attachments/Data science",
     "git-upload",
     "Untitled.base",
-    "Very important links/Data science",
-    "Very important links/NMRMS"
+    "Very important links/Data science"
   ]
 }
