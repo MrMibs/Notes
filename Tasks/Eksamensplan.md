@@ -26,19 +26,49 @@
 ### Onsdag
 - [x] NMR MS, MS 4 evt. NMR 7 hvis det er muligt og nødvendigt og noget men det er det nok ik.
 ### Torsdag
-- [ ] Opgaveregning F18
+- [x] Opgaveregning F18
 ### Fredag
-- [ ] Opgaveregning F19 F22 F22RE
+- [x] Opgaveregning F19 F22 F22RE
 ### Lørdag
-- [ ] Opgaveregning F23 F23RE F24 F24RE
+- [x] Opgaveregning F23 F23RE F24 F24RE
 ### Søndag
-- [ ] Opgaveregning F25 F25RE (F26)
+- [x] Opgaveregning F25 F25RE (F26)
 # Uge 24
 ### Mandag NMR EKSAMEN
-- [ ] NMR eksamen
+- [x] NMR eksamen
 ### Tirsdag
+- [ ] 4
 ### Onsdag
+- [ ] 8
 ### Torsdag
+- [ ] 12
 ### Fredag
+- [ ] idk
 ### Lørdag
+- [ ] idk
 ### Søndag
+- [ ] idk
+# Uge 25
+### Mandag NMR EKSAMEN
+- [ ] Uorganisk eksamen
+### Tirsdag
+- [ ] Læs kilder
+### Onsdag
+- [ ] Læs kilder
+### Torsdag
+- [ ] Læs kilder O-tricluster, ladningskompensation, modifier i glas osv.
+### Fredag
+- [ ] Tag noter i selve projektet
+### Lørdag
+- [ ] Noget med fremlæggelse / andet / kilder
+### Søndag
+- [ ] Noget med fremlæggelse / andet / kilder
+# Uge 26
+### Mandag NMR EKSAMEN
+- [ ] Noget med fremlæggelse / andet / kilder
+### Tirsdag
+- [ ] Noget med fremlæggelse / andet / kilder
+### Onsdag
+- [ ] Noget med fremlæggelse / andet / kilder
+### Torsdag
+- [ ] Projekt eksamen

@@ -4,28 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f827bf89ff33eedb",
+        "id": "f96f4277375a3281",
         "type": "tabs",
-        "dimension": 40.63706563706564,
         "children": [
           {
-            "id": "93c1232186b0231c",
+            "id": "57afefe10b00c1cd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Data science/Pasted image 20260602133915.png"
+                "file": "MOCs/Uorganisk MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260602133915"
+              "icon": "lucide-file",
+              "title": "Uorganisk MOC"
             }
           }
         ]
       },
       {
-        "id": "2d00ee7c48b568bc",
+        "id": "f827bf89ff33eedb",
         "type": "tabs",
-        "dimension": 59.362934362934354,
         "children": [
           {
             "id": "f2c075713717dd49",
@@ -96,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fc970a30a79e14c0",
@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,45 +212,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93c1232186b0231c",
+  "active": "57afefe10b00c1cd",
   "lastOpenFiles": [
-    "Very important links/NMRMS/MS at AAU.md",
-    "Links/NMRMS/ElectroSpray Ionization (ESI).md",
-    "Links/NMRMS/Electron Ionization (EI).md",
-    "Links/NMRMS/Matrix-Assisted Laser De-sorption or Ionization (MALDI).md",
-    "Links/NMRMS/Chromatographic interface.md",
-    "Links/NMRMS/Detection of ions.md",
-    "Notes/NMRMS/Day 11/Part 4 - HRMS Chromatograms and Spectra.md",
-    "Notes/NMRMS/Day 11/Part 3 - Monoisotopic Mass and Isotopes.md",
-    "Notes/NMRMS/Day 11/Part 1- Introduction to Natural Product Chemistry.md",
-    "Notes/NMRMS/Day 11/Part 2 - Equipment and Data.md",
-    "Notes/NMRMS/Day 11/Combining NMR&MS (ESI).md",
-    "Notes/NMRMS/Day 11",
-    "Notes/NMRMS/Day 10/Part 5 - DNA, sugar, and other polymers.md",
-    "Notes/NMRMS/Day 10/Part 4 - Modes of analysis in bottom-up proteomics.md",
+    "MOCs/Uorganisk MOC.md",
+    "Links/NMRMS/DOSY sequence.md",
+    "Tasks/Eksamensplan.md",
+    "Notes/NMRMS/Day 12/Part 4 - McLafferty rearrangement.md",
+    "Notes/NMRMS/Day 12/Part 6 - Characteristic ions, interpretation and advanced methods.md",
+    "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
+    "MOCs/MS MOC.md",
+    "Very important links/NMRMS/Pulse sequences.md",
+    "Links/NMRMS/ROSEY sequence.md",
+    "Links/NMRMS/NOSEY sequence.md",
+    "Links/NMRMS/TOCSY sequence.md",
+    "Links/NMRMS/HMQC sequence.md",
     "Notes/NMRMS/Day 10/Part 3 - Shotgun bottom-up proteomics.md",
-    "Notes/NMRMS/Day 10/Part 2 - Induced fragmentation and tandem MS.md",
-    "Notes/NMRMS/Day 10/Part 1 - Digging into soft ionization and HRMS.md",
-    "Links/NMRMS/Stephenson rule.md",
     "Links/NMRMS/Soft ionization fragments.md",
     "Links/NMRMS/Sequential walk.md",
-    "Links/NMRMS/Rings and double bonds equivalence.md",
-    "Links/NMRMS/Molecular ion.md",
-    "Links/NMRMS/Gamma cleavage.md",
-    "Links/Data science/Hyperparameters.md",
-    "DOSY sequence.md",
-    "Attachments/NMRMS/Pasted image 20260603171831.png",
-    "Attachments/NMRMS/Pasted image 20260603171755.png",
-    "Attachments/NMRMS/Pasted image 20260603171744.png",
-    "Attachments/NMRMS/Pasted image 20260603171723.png",
-    "Attachments/NMRMS/Pasted image 20260603171707.png",
-    "Attachments/NMRMS/Pasted image 20260603171621.png",
-    "Attachments/NMRMS/Pasted image 20260603171541.png",
-    "Attachments/NMRMS/Pasted image 20260603171509.png",
-    "Attachments/NMRMS/Pasted image 20260603171501.png",
-    "Attachments/NMRMS/Pasted image 20260603171356.png",
-    "Links/NMRMS/EXCY sequence.md",
-    "Links/NMRMS/HMBC sequence.md",
+    "Notes/NMRMS/Day 10/Part 5 - DNA, sugar, and other polymers.md",
+    "Very important links/NMRMS/Workflow summary.md",
+    "Notes/NMRMS/Day 10/Part 4 - Modes of analysis in bottom-up proteomics.md",
+    "Very important links/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
+    "Notes/NMRMS/Day 8/Part 4 - Resolution.md",
+    "Notes/NMRMS/Day 6/Quality Parameters of NMR Spectra.md",
+    "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
+    "Links/NMRMS/Magnetic field strength (B).md",
+    "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
+    "Notes/NMRMS/Day 8/Introduction to MS - basic concepts.md",
+    "Links/NMRMS/DEPT.md",
+    "Attachments/NMRMS/Pasted image 20260603112011.png",
+    "Attachments/NMRMS/Pasted image 20260527142916.png",
+    "Attachments/NMRMS/Pasted image 20260603170406.png",
+    "Attachments/NMRMS/Pasted image 20260527142856.png",
+    "Attachments/NMRMS/Pasted image 20260603104031.png",
+    "Attachments/NMRMS/Pasted image 20260527140307.png",
+    "Attachments/NMRMS/Pasted image 20260603165106.png",
+    "Attachments/NMRMS/Pasted image 20260528190924.png",
+    "Attachments/NMRMS/Pasted image 20260603171658.png",
+    "Attachments/NMRMS/Pasted image 20260527105542.png",
+    "Notes/NMRMS/Day 11",
+    "Untitled.canvas",
     "Attachments/Data science",
     "git-upload",
     "Untitled.base",
