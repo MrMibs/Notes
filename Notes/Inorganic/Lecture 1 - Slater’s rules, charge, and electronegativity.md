@@ -1,3 +1,4 @@
+#inorganic
 3 bond types exist:
 ![[Pasted image 20260609102740.png]]
 Ionic bonds, where atoms donate electrons to each other
@@ -47,6 +48,16 @@ Example: Calculating effective nuclear charge on the outer shell electrons of So
 Here we look at 3s$^1$, which means we have 0 electrons in the same shell, 8 in the shell below and 2 in the shell below that.
 $0\cdot 0.35+8\cdot0.85+2\cdot1=8.80$
 
-Which means we can calculate effective nuclear charge as $Z_{eff}=Z-\sigma=11-8.80=2.20$. It is, however, not always clear what is higher and lower in energy. Therefore, we need to look at principal quantum numbers.
+Which means we can calculate effective nuclear charge as $Z_{eff}=Z-\sigma=11-8.80=2.20$. It is, however, not always clear what is higher and lower in energy. Therefore, we need to look at quantum numbers. Here we have: 
+
+| Quantum number                                  | Allowed values  | Meaning                                                                                  |
+| ----------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------- |
+| Principal quantum number (n)                    | 1, 2, 3, 4, ... | Defines the energy level (shell) and average distance from the nucleus.                  |
+| Azimuthal / Angular momentum quantum number (l) | 0 → n−1         | Defines the subshell and orbital shape. l = 0 (s), 1 (p), 2 (d), 3 (f).                  |
+| [[Magnetic quantum number (m)]]                 | −l → +l         | Defines the orientation of an orbital in space.                                          |
+| Spin quantum number (mₛ)                        | +½, −½          | Defines the electron spin orientation ("spin up" or "spin down"). (2 electrons pr shape) |
+note quantum number also called $m_I$ and we know this from NMR. Then the values of the slater shield constants are given as:
 
 ![[Pasted image 20260609104547.png]]
+
+Meaning electrons in the same group (unless its 1s) is 0.35. Electrons below in shell is 0.85 and below that again it is 1.

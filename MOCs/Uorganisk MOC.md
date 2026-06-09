@@ -1,3 +1,4 @@
+#inorganic
 [[Lecture 1 - Slater’s rules, charge, and electronegativity]]
 [[Lecture 2 -The covalent bond and its theories]]
 [[Lecture 3 - Packing atoms and metallic bonding]]
