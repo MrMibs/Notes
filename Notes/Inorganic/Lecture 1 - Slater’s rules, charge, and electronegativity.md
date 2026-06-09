@@ -66,5 +66,8 @@ note quantum number also called $m_I$ and we know this from NMR. Then the values
 
 Where the third column means "Electrons in the **same shell** but in orbitals with **lower angular momentum** than the electron you're calculating $Z_{eff}$ for." So nd and nf counts everything below it as 1. e.g.
 $$Nd = [Xe] \, 4f^4 \, 6s^2$$
-Say we look at 4f we get 3 in the same shell, 54 below from Xe and the 6s$^2$ electrons are not counted.
+Say we look at 4f we get 3 in the same shell, 54 below from Xe and the 6s$^2$ electrons are also counted as they are written to the left of 4f$^4$:
+1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁶ 5s² 4d¹⁰ 5p⁶ 6s² 4f⁴
 
+Thereby we get:
+$$54 \cdot 1 + 2 \cdot 1 + 3 \cdot 0.35= 57.05$$
