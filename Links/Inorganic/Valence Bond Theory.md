@@ -8,3 +8,9 @@ To provide enough unpaired electrons in each atom for the maximum bond formation
 
 ![[Lecture_2-15-20.pdf]]
 
+Now we can explain bonding, geometry and electron placement. 
+
+# Paramagnetism
+We can still, however, not explain why e.g. O2 is paramagnetic i.e. has unpaired electrons. This means the material is attracted to external magnetic fields as it gets magnetized in the same direction as this field.
+![[Pasted image 20260609124147.png]]
+
