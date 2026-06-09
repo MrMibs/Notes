@@ -64,4 +64,7 @@ note quantum number also called $m_I$ and we know this from NMR. Then the values
 | [ns, np]             | 0.35                          | 0.85                               | 0.85                                                    | 1.00                                                          |
 | [nd] or [nf]         | 0.35                          | 1.00                               | 1.00                                                    | 1.00                                                          |
 
-Where the third column means "Electrons in the **same shell** but in orbitals with **lower angular momentum** than the electron you're calculating $Z_{eff}$ for."
+Where the third column means "Electrons in the **same shell** but in orbitals with **lower angular momentum** than the electron you're calculating $Z_{eff}$ for." So nd and nf counts everything below it as 1. e.g.
+$$Nd = [Xe] \, 4f^4 \, 6s^2$$
+Say we look at 4f we get 3 in the same shell, 54 below from Xe and the 6s$^2$ electrons are not counted.
+
