@@ -18,4 +18,35 @@ Factors affecting this is
 In e.g. Helium we have 2 electrons close to the core and they are on opposite sides so they push each other away. In Li however we have a third electron that is shielded by inside electrons and the core hasn't gotten significantly stronger which explains the trend seen.
 
 Slater proposed a way to calculate the effective nuclear charge, taking shielding and attraction into account to create a model of the attraction seen.
-$$Z_{eff}=Z-\omega$$
+$$Z_{eff}=Z-\sigma$$
+where:
+- $Z_{eff}$ is the effective nuclear charge
+- $Z$ is the atomic number (amount of protons = attraction)
+- $\sigma$ is the Slater's shield constant
+e.g.
+He: $Z_{eff}=2-0.30=1.70$
+Li: $Z_{eff}=3-(0.85\cdot 2)=1.30$
+
+Spin has a lot of orientations and nuances, how do we take orbitals into account?
+
+**Very formally**
+1. All electrons in orbitals of greater principal quantum number contribute 0.
+2. Each electron in the same principal quantum number contributes 0.35, except for the (1s) group, where the other electron contributes only 0.30.
+3. If the reference is a ns or np electron, we count 0.85 for each electron with principal quantum number (n–1), and 1.00 for each electron with principal quantum number (n–2) or less.
+4. If the reference is a nd or nf electron, we count 1.00 and for electrons with principal quantum number n and a smaller azimuthal quantum number l, and for from each electron with principal quantum number (n–1) or less.
+![[Pasted image 20260609104048.png]]
+
+In practice:
+Step 1: Write the electron configuration, separating the different sub-
+shells: e.g. (1s) (2s, 2p) (3s, 3p) (3d) (4s, 4p) (4d) (4f) (5s, 5p) . . .
+Step 2: Identify the electron of interest, and ignore all electrons in higher groups, because, these do not shield electrons in lower groups
+Step 3: Use the Slater's Rules. Be aware that rules for s or p electron are different from those for a d or f electron.
+![[Pasted image 20260609104048.png]]
+
+Example: Calculating effective nuclear charge on the outer shell electrons of Sodium 1s$^2$ 2s$^2$ 2p$^6$ 3s$^1$
+Here we look at 3s$^1$, which means we have 0 electrons in the same shell, 8 in the shell below and 2 in the shell below that.
+$0\cdot 0.35+8\cdot0.85+2\cdot1=8.80$
+
+Which means we can calculate effective nuclear charge as $Z_{eff}=Z-\sigma=11-8.80=2.20$. It is, however, not always clear what is higher and lower in energy. Therefore, we need to look at principal quantum numbers.
+
+![[Pasted image 20260609104547.png]]
