@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/Uorganisk MOC.md",
+                "file": "Lecture 1 - Slater’s rules, charge, and electronegativity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Uorganisk MOC"
+              "title": "Lecture 1 - Slater’s rules, charge, and electronegativity"
             }
           }
         ]
@@ -212,8 +212,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
+    "Lecture 12a - Synthesis of Magnetite Nanoparticles.md",
+    "Notes/Inorganic",
+    "Lecture 6 - Solvent systems and acid-base behavior.md",
+    "Lecture 4 - Ionic solids.md",
+    "Lecture 11 - Experimental chemistry - Potassium Ferrioxalate.md",
+    "Lecture 9 - Iron chemistry.md",
+    "Lecture 2 -The covalent bond and its theories.md",
+    "Lecture 3 - Packing atoms and metallic bonding.md",
+    "Lecture 10 - Metal Organic Frameworks.md",
+    "Lecture 5 - Inorganic Thermodynamics.md",
+    "Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
+    "Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
+    "Lecture 8 - Transition metal complexes - isomers and reactivity.md",
     "MOCs/Uorganisk MOC.md",
     "Lecture 1 - Slater’s rules, charge, and electronegativity.md",
     "Links/NMRMS/DOSY sequence.md",
@@ -227,19 +240,6 @@
     "Links/NMRMS/NOSEY sequence.md",
     "Links/NMRMS/TOCSY sequence.md",
     "Links/NMRMS/HMQC sequence.md",
-    "Notes/NMRMS/Day 10/Part 3 - Shotgun bottom-up proteomics.md",
-    "Links/NMRMS/Soft ionization fragments.md",
-    "Links/NMRMS/Sequential walk.md",
-    "Notes/NMRMS/Day 10/Part 5 - DNA, sugar, and other polymers.md",
-    "Very important links/NMRMS/Workflow summary.md",
-    "Notes/NMRMS/Day 10/Part 4 - Modes of analysis in bottom-up proteomics.md",
-    "Very important links/NMRMS/Part 6 - MS-based quantification and applications of HRMS.md",
-    "Notes/NMRMS/Day 8/Part 4 - Resolution.md",
-    "Notes/NMRMS/Day 6/Quality Parameters of NMR Spectra.md",
-    "Notes/NMRMS/Day 12/Part 1 - Introduction and Sigma cleavage.md",
-    "Links/NMRMS/Magnetic field strength (B).md",
-    "Notes/NMRMS/Day 10/Soft ionization and HRMS.md",
-    "Notes/NMRMS/Day 8/Introduction to MS - basic concepts.md",
     "Attachments/NMRMS/Pasted image 20260603112011.png",
     "Attachments/NMRMS/Pasted image 20260527142916.png",
     "Attachments/NMRMS/Pasted image 20260603170406.png",
@@ -259,7 +259,6 @@
     "Very important links/NMRMS",
     "Tasks/Untitled",
     "Links/Data science",
-    "Notes/Data science",
-    "Notes/NMRMS/Day 12"
+    "Notes/Data science"
   ]
 }
