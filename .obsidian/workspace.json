@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
+                "file": "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Slater’s rules, charge, and electronegativity"
+              "title": "Lecture 2 -The covalent bond and its theories"
             }
           }
         ],
@@ -245,10 +245,13 @@
   },
   "active": "ac3434eb336d2f3a",
   "lastOpenFiles": [
-    "Pasted image 20260609113305.png",
-    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
-    "MOCs/Inorganic MOC.md",
     "Tasks/Eksamensplan.md",
+    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
+    "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
+    "Pasted image 20260609114154.png",
+    "Pasted image 20260609114141.png",
+    "Pasted image 20260609113305.png",
+    "MOCs/Inorganic MOC.md",
     "Attachments/Inorganic/Pasted image 20260609102716.png",
     "Attachments/Untitled.md",
     "Attachments/Inorganic",
@@ -265,7 +268,6 @@
     "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics.md",
     "Notes/Inorganic/Lecture 4 - Ionic solids.md",
     "Notes/Inorganic/Lecture 3 - Packing atoms and metallic bonding.md",
-    "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
     "Links/NMRMS/Magnetic quantum number (m).md",
     "Attachments/Inorganic/Pasted image 20260609104547.png",
     "Attachments/Inorganic/Pasted image 20260609104048.png",
@@ -280,9 +282,6 @@
     "Links/NMRMS/NOSEY sequence.md",
     "Attachments/NMRMS/Pasted image 20260603112011.png",
     "Attachments/NMRMS/Pasted image 20260527142916.png",
-    "Attachments/NMRMS/Pasted image 20260603170406.png",
-    "Attachments/NMRMS/Pasted image 20260527142856.png",
-    "Attachments/NMRMS/Pasted image 20260603104031.png",
     "Notes/NMRMS/Day 11",
     "Untitled.canvas",
     "Attachments/Data science",

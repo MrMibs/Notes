@@ -78,4 +78,19 @@ This leads to the concept of Electronegativity, which is "the power of an atom i
 $$D(A-B) = \sqrt{D(A-A) \times D(B-B)}$$
 where
 - D(A-B) is the dissociation energy of the A-B bond
-- D(A-A) is the dissociation energy of the A-B bond
+- D(A-A) is the dissociation energy of the A-A bond
+- D(B-B) is the dissociation energy of the B-B bond
+
+e.g.
+D (Cl2) = 242 KJ mol$^{-1}$
+D (H2) = 432 KJ mol$^{-1}$
+$$\sqrt{242 \cdot 432}=323 \, kJ/mol$$
+This is an estimate and far off due to not considering the polar contribution, which in this case is **105kJ/mol!!!!!!**.
+
+For the sake of having it we also have Allred-Rochow electronegativity scale 
+$$\chi^{AR} = 3590 \frac{Z_{eff}}{r_{cov}^2} + 0.744$$ (radius expressed in pm = 0.01Å)
+
+![[Pasted image 20260609114141.png]]
+
+And Bond continuum / bond triangle
+![[Pasted image 20260609114154.png]]
