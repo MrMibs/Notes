@@ -51,24 +51,9 @@
               "icon": "lucide-file",
               "title": "Molecular Orbitals Theory"
             }
-          },
-          {
-            "id": "9604390d353c63b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Eksamensplan.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Eksamensplan"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "f827bf89ff33eedb",
@@ -258,8 +243,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9604390d353c63b6",
+  "active": "ac3434eb336d2f3a",
   "lastOpenFiles": [
+    "Tasks/Eksamensplan.md",
     "Links/Inorganic/Molecular Orbitals Theory.md",
     "Attachments/Inorganic/Lecture_2-44-47.pdf",
     "Attachments/Inorganic/Pasted image 20260609125808.png",
@@ -283,7 +269,6 @@
     "MOCs/Inorganic MOC.md",
     "Attachments/Inorganic/Pasted image 20260609120102.png",
     "Links/Inorganic",
-    "Tasks/Eksamensplan.md",
     "Attachments/Untitled.md",
     "Attachments/Inorganic",
     "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",

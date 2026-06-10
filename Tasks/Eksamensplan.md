@@ -50,7 +50,7 @@
 ### Søndag
 - [ ] idk
 # Uge 25
-### Mandag NMR EKSAMEN
+### Mandag UORGANISK EKSAMEN
 - [ ] Uorganisk eksamen
 ### Tirsdag
 - [ ] Læs kilder
@@ -65,11 +65,11 @@
 ### Søndag
 - [ ] Noget med fremlæggelse / andet / kilder
 # Uge 26
-### Mandag NMR EKSAMEN
+### Mandag
 - [ ] Noget med fremlæggelse / andet / kilder
 ### Tirsdag
 - [ ] Noget med fremlæggelse / andet / kilder
 ### Onsdag
 - [ ] Noget med fremlæggelse / andet / kilder
-### Torsdag
+### Torsdag PROJEKT EKSAMEN
 - [ ] Projekt eksamen
