@@ -30,3 +30,29 @@ NO + CN $\rightarrow$ $NO^-$ + $CN^+$
 
 This however is not so hard, as we know the amount of electrons and their distribution, it is easy to see if 14 14 or 16 12 is the better distribution of electrons and in this case 14 14 wins. So 
 NO + CN $\rightarrow$ $NO^+$ + $CN^-$ is more favorable
+
+Common MOs
+
+For second-period diatomic molecules, the full MO set is (from bottom):
+σ\*2p
+π\*2p  π\*2p
+σ2p
+π2p   π2p
+σ\*2s
+σ2s
+
+For B₂, C₂, N₂ (with s–p mixing) (from top):
+σ2s
+σ\*2s
+π2p
+σ2p
+π\*2p
+σ\*2p
+
+For O₂, F₂, Ne₂ (no strong mixing) (from top):
+σ2s
+σ\*2s
+σ2p
+π2p
+π\*2p
+σ\*2p
