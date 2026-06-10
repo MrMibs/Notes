@@ -37,16 +37,15 @@
 ### Mandag NMR EKSAMEN
 - [x] NMR eksamen
 ### Tirsdag
-- [ ] 1+2
+- [x] 1+2
 ### Onsdag
-- [ ] 3-7
-- [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
+- [ ] 3-5
 ### Torsdag
-- [ ] 8-12
+- [ ] 6-8
 ### Fredag
-- [ ] idk
+- [ ] 9-12
 ### Lørdag
-- [ ] idk
+- [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
 ### Søndag
 - [ ] idk
 # Uge 25
