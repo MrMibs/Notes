@@ -1,4 +1,6 @@
 #inorganic
+# Melting points, radii, and charge densities
+
 Ionic substances have the following properties:
 1) Hard and brittle;
 2) High melting points;
@@ -23,6 +25,37 @@ towards a cation by the influence of the electric field of the cation. Polarizat
 
 Further we see that as charge increases, so does polarization as the attraction becomes too great and we get more of a covalent character.
 ![[Pasted image 20260610105815.png]]
-Charge density can help explain melting temperature
-![[Pasted image 20260610110016.png]]
+Charge density can help explain melting temperature:
+![[Pasted image 20260610110430.png]]
+![[Pasted image 20260610110441.png]]
+![[Pasted image 20260610110505.png]]
+
+
+TL;DR
+As charge density increases:  Na⁺ → Mg²⁺ → Al³⁺ → Si⁴⁺  the cations become much smaller and more highly charged, so their **polarizing power increases strongly**.
+
+This leads to:
+- NaCl: mostly ionic → strong ionic lattice → high mp (808 °C)
+- MgCl₂: more polarization → partially covalent character → lower mp
+- AlCl₃: strong covalent character (dimeric/ molecular) → much lower mp
+- SiCl₄: molecular compound → only weak intermolecular forces → very low mp (−70 °C)
+
+higher charge density → stronger polarization of Cl⁻ → breakdown of ionic lattice → more covalent/molecular character → **lower melting point**
+
+---
+
+# Ionic crystal structure
+When predicting ionic crystal structure, the following are assumed:
+- Ions are assumed to be charged, incompressible, non polarizable spheres;
+- Ions try to surround themselves with as many ions of the opposite charge;
+- The cation-to-anion ratio must reflect the chemical composition of the compound.
+![[Pasted image 20260610110904.png]]
+Why do these have different unit cells? **Their packing depends on the ratio between their ionic radii**
+![[Pasted image 20260610110957.png]]
+Hereby:
+![[Pasted image 20260610111226.png]]
+Again for 6:
+![[Pasted image 20260610111326.png]]
+And 4:
+![[Pasted image 20260610111315.png]]
 
