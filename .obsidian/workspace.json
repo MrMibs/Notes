@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Inorganic/Defects and complex ionic solids.md",
+                "file": "Born-Haber Cycle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Defects and complex ionic solids"
+              "title": "Born-Haber Cycle"
             }
           }
         ]
@@ -214,12 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623d9685add00402",
+  "active": "ac3434eb336d2f3a",
   "lastOpenFiles": [
+    "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics.md",
+    "Born-Haber Cycle.md",
+    "Pasted image 20260610122348.png",
+    "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
     "Attachments/Inorganic/Pasted image 20260610110904.png",
     "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
-    "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics.md",
-    "Links/Inorganic/Defects and complex ionic solids.md",
     "Links/Inorganic/Melting points, radii, and charge densities.md",
     "Links/Inorganic/Ionic crystal structure.md",
     "Notes/Inorganic/Lecture 4 - Ionic solids.md",
@@ -232,14 +234,12 @@
     "Attachments/Inorganic/Pasted image 20260610111326.png",
     "Attachments/Inorganic/Pasted image 20260610111315.png",
     "Attachments/Inorganic/Pasted image 20260610111306.png",
-    "Attachments/Inorganic/Pasted image 20260610111226.png",
     "Notes/Inorganic/Lecture 3 - Packing atoms and metallic bonding.md",
     "Links/Inorganic/Molecular Orbitals Theory.md",
     "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
     "Links/Inorganic/Metallic bonding.md",
     "Links/Inorganic/Crystal packing.md",
     "MOCs/Inorganic MOC.md",
-    "Attachments/Inorganic/Pasted image 20260610110957.png",
     "Links/Inorganic/Alloys.md",
     "Attachments/Inorganic/Lecture_2-44-47.pdf",
     "Links/Inorganic/Hund’s principle.md",

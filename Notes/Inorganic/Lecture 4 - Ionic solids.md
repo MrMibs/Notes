@@ -7,4 +7,4 @@
 
 ---
 
-![[Defects and complex ionic solids]]
+![[Defects and complex ionic solids + Born-Landé equation]]

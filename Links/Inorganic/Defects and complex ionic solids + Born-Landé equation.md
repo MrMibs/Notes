@@ -44,11 +44,27 @@ Which is called the Born-Landé equation, where:
 - **n** is the Born exponent, describing short-range repulsion between electron clouds (depends on electron configuration of the ions)  
 - **(1 − 1/n)** is the Born repulsion correction factor, accounting for Pauli repulsion at very short distances in the lattice  
 
+born exponent is calculated as the average, e.g.
+NaCl can be approximated to (7+9)/2=8
+
 
 ![[Pasted image 20260610113750.png]]
 
 Even further refined we get
+###### Born-Landé equation
 $$E=\frac{z^+ \cdot z^- \cdot N \cdot A_{NaCl} \cdot e^2}{4 \pi \cdot \varepsilon_0 \cdot r_0} \cdot (1-\frac{1}{n})$$
+where:
+- **E** is the lattice energy  
+- **N** is Avogadro’s constant ($6.022 \cdot 10^{23}\, \text{mol}^{-1}$), accounting for energy per mole of crystal  
+- **A₍NaCl₎** is the Madelung constant for NaCl structure ($\approx 1.7476$), accounting for electrostatic interactions with all surrounding ions in the lattice  
+- **ε₀** is the vacuum permittivity (dielectric constant) ($8.854 \cdot 10^{-12}\, \text{C}^2\, \text{J}^{-1}\, \text{m}^{-1}$)  
+- **e** is the elementary charge ($1.602 \cdot 10^{-19}\, \text{C}$)  
+- **r₀** is the equilibrium interionic distance, i.e. the distance between the centers of two nearest-neighbour ions in the crystal at their most stable configuration  
+- **n** is the Born exponent, describing short-range repulsion between electron clouds (depends on electron configuration of the ions)  
+- **(1 − 1/n)** is the Born repulsion correction factor, accounting for Pauli repulsion at very short distances in the lattice 
+- *z* is charge magnitude
+######
+
 where the newly added z is charge magnitude e.g.
 **NaCl**
 - z+=1z^+ = 1z+=1 (Na⁺)
