@@ -45,7 +45,7 @@
 ### Fredag
 - [ ] 9-12
 ### Lørdag
-- [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
+- [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativityasx<
 ### Søndag
 - [ ] idk
 # Uge 25
