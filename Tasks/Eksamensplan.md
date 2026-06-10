@@ -1,3 +1,4 @@
+#inorganic #datascience #nmrms 
 # Uge 22
 ### Mandag
 - [x] NMR 2 + 3
@@ -45,7 +46,8 @@
 ### Fredag
 - [ ] 9-12
 ### Lørdag
-- [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativityasx<
+- [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
+- [ ] Typeopgaver til 3: Packing eksempler
 ### Søndag
 - [ ] idk
 # Uge 25

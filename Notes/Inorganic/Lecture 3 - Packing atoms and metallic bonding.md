@@ -3,4 +3,7 @@
 
 ---
 
-[[Crystal packing]]
+![[Crystal packing]]
+
+---
+[[Alloys]]
