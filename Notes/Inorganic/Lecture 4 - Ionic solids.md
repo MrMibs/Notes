@@ -9,3 +9,20 @@ Ionic substances have the following properties:
 
 According to Pauling, for two ions with the same noble gas configuration, e.g. Na+ and F - , the ratio of the radii should be inversely proportional to the ratio of the “effective” nuclear charges, which can be calculated by Slater’s rules. Example:
 ![[Pasted image 20260610105349.png]]
+Charge also affects melting point
+![[Pasted image 20260610105548.png]]
+
+---
+In ideal ionic compounds: we completely separate, spherical ions electron densities
+are apart from each other; 
+![[Pasted image 20260610105633.png]]
+However, if the positive ion has a high charge density it can distort the negative ion by attracting the outer shell electrons to give an area of electron density between the two species ... a bit like a covalent bond.
+![[Pasted image 20260610105708.png]]
+Polarization of an ionic bond means the distortion of the electron cloud of an anion
+towards a cation by the influence of the electric field of the cation. Polarization of an ionic bond results in an ionic bond with covalent character. See bond triangle above.
+
+Further we see that as charge increases, so does polarization as the attraction becomes too great and we get more of a covalent character.
+![[Pasted image 20260610105815.png]]
+Charge density can help explain melting temperature
+![[Pasted image 20260610110016.png]]
+
