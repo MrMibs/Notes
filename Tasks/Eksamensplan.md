@@ -48,7 +48,7 @@
 ### Lørdag
 - [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
 - [ ] Typeopgaver til 3: Packing eksempler
-- [ ] Typeopgaver til 4: Ionic radii + packing type example + lattice energy
+- [ ] Typeopgaver til 4: Ionic radii + packing type example + lattice energy (born lande)
 ### Søndag
 - [ ] idk
 # Uge 25
