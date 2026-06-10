@@ -3,7 +3,7 @@
 [[Lecture 2 -The covalent bond and its theories]]
 [[Lecture 3 - Packing atoms and metallic bonding]]
 [[Lecture 4 - Ionic solids]]
-[[Lecture 5 - Inorganic Thermodynamics]]
+[[Lecture 5 - Inorganic Thermodynamics + Born-Haber Cycle]]
 [[Lecture 6 - Solvent systems and acid-base behavior]]
 [[Lecture 7 - Transition metal complexes - the Crystal Field Theory]]
 [[Lecture 8 - Transition metal complexes - isomers and reactivity]]

@@ -40,7 +40,7 @@
 ### Tirsdag
 - [x] 1+2
 ### Onsdag
-- [ ] 3-5
+- [x] 3-5
 ### Torsdag
 - [ ] 6-8
 ### Fredag
@@ -49,6 +49,7 @@
 - [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
 - [ ] Typeopgaver til 3: Packing eksempler
 - [ ] Typeopgaver til 4: Ionic radii + packing type example + lattice energy (born lande)
+- [ ] Typeopgaver til 5: Born-Harber cycle
 ### Søndag
 - [ ] idk
 # Uge 25

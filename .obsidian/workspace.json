@@ -12,15 +12,12 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Born-Haber Cycle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachments/Inorganic/Pasted image 20260610122348.png"
               },
-              "icon": "lucide-file",
-              "title": "Born-Haber Cycle"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260610122348"
             }
           }
         ]
@@ -214,26 +211,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac3434eb336d2f3a",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
-    "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics.md",
+    "Tasks/Eksamensplan.md",
+    "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics + Born-Haber Cycle.md",
     "Born-Haber Cycle.md",
-    "Pasted image 20260610122348.png",
+    "Attachments/Inorganic/Pasted image 20260610123134.png",
+    "Attachments/Inorganic/Pasted image 20260610123057.png",
+    "Attachments/Inorganic/Pasted image 20260610123003.png",
+    "Attachments/Inorganic/Pasted image 20260610122936.png",
+    "Attachments/Inorganic/Pasted image 20260610122723.png",
+    "Attachments/Inorganic/Pasted image 20260610122622.png",
+    "Attachments/Inorganic/Pasted image 20260610122609.png",
+    "Attachments/Inorganic/Pasted image 20260610122348.png",
     "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
     "Attachments/Inorganic/Pasted image 20260610110904.png",
     "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
     "Links/Inorganic/Melting points, radii, and charge densities.md",
     "Links/Inorganic/Ionic crystal structure.md",
     "Notes/Inorganic/Lecture 4 - Ionic solids.md",
-    "Tasks/Eksamensplan.md",
     "Attachments/Inorganic/Pasted image 20260610113750.png",
-    "Attachments/Inorganic/Pasted image 20260610113318.png",
-    "Attachments/Inorganic/Pasted image 20260610111926.png",
-    "Attachments/Inorganic/Pasted image 20260610111519.png",
-    "Attachments/Inorganic/Pasted image 20260610111439.png",
-    "Attachments/Inorganic/Pasted image 20260610111326.png",
-    "Attachments/Inorganic/Pasted image 20260610111315.png",
-    "Attachments/Inorganic/Pasted image 20260610111306.png",
     "Notes/Inorganic/Lecture 3 - Packing atoms and metallic bonding.md",
     "Links/Inorganic/Molecular Orbitals Theory.md",
     "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
@@ -255,7 +252,6 @@
     "Notes/NMRMS/Day 12/Hard ionization and LRMS.md",
     "Links/NMRMS/DOSY sequence.md",
     "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
-    "Notes/Inorganic/Lecture 12a - Synthesis of Magnetite Nanoparticles.md",
     "Notes/Inorganic",
     "Notes/NMRMS/Day 11",
     "Untitled.canvas",
