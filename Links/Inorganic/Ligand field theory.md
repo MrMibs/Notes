@@ -17,3 +17,27 @@ Laporte rule: transitions between states of the same symmetry with respect to th
 inversion center are forbidden.
 ![[Pasted image 20260611132134.png]]
 
+Laporte is very unintuitive, but you can see from the table below if they are symmetrical (g) or asymmetric (u).
+
+| Orbital / species                        | Type                                  | g / u       | Why (intuition)                        |
+| ---------------------------------------- | ------------------------------------- | ----------- | -------------------------------------- |
+| s orbitals                               | atomic                                | **g**       | spherical, unchanged under inversion   |
+| p orbitals                               | atomic                                | **u**       | direction flips (+ ↔ − lobe swap)      |
+| d orbitals                               | atomic (in centrosymmetric complexes) | **g**       | paired symmetric lobes around center   |
+| f orbitals                               | atomic                                | **u**       | odd parity, sign flips under inversion |
+| σ bonding MO (centrosymmetric molecules) | molecular                             | often **g** | symmetric electron density along axis  |
+| σ* antibonding MO                        | molecular                             | often **u** | node changes sign symmetry             |
+| π bonding MO                             | molecular                             | often **u** | above/below plane flips                |
+| π* antibonding MO                        | molecular                             | often **g** | opposite symmetry pattern of π         |
+
+---
+
+Ligands give rise to subcategories of constitutional isomers:
+![[Pasted image 20260611133325.png]]
+Linkage isomers:
+![[Pasted image 20260611133337.png]]
+Ionization isomers
+![[Pasted image 20260611133419.png]]
+They also have cis/trans, but additionally fac/mer too!
+![[Pasted image 20260611133511.png]]
+![[Pasted image 20260611133518.png]]
