@@ -29,4 +29,4 @@ where
 
 ---
 
-[[Crystal field theory]]
+![[Crystal field theory]]
