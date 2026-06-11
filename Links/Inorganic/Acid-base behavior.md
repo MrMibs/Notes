@@ -4,4 +4,13 @@
 
 ![[Brønsted-Lowry Definition]]
 
-[[Solvent System Definition]]
+![[Solvent System Definition]]
+
+![[The Lux-Flood Definition]]
+
+![[The Lewis Definition]]
+
+acid
+base
+acid
+

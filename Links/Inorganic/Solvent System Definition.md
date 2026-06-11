@@ -1,3 +1,4 @@
+#inorganic 
 "A solute that increases the cationic species to the solvent is an acid; one that increases the anionic is a base."
 
 This definition is much broader, since it can be applied in all cases, where the solvent has a significant autoionization reaction:
@@ -9,4 +10,4 @@ The answer: it is an acid. Because the following reaction occurs: BrF2AsF6 = BrF
 increases the cationic species (BrF2+) of the solvent (BrF3). In contrast, KBrF4 is a base.
 ![[Pasted image 20260611105050.png]]
 
-Note: Acid or base is not an absolute property of the solute, since it is related to the solvent.
+Note: Acid or base is not an absolute property of the solute, since it is related to the solvent. KBrF4 can be an acid for a K-based solution.
