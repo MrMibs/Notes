@@ -50,6 +50,7 @@
 - [ ] Typeopgaver til 3: Packing eksempler
 - [ ] Typeopgaver til 4: Ionic radii + packing type example + lattice energy (born lande)
 - [ ] Typeopgaver til 5: Born-Harber cycle
+- [ ] Typeopgaver til 6: Identify acids
 ### Søndag
 - [ ] idk
 # Uge 25
