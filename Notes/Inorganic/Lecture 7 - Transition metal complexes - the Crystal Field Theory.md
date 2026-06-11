@@ -14,3 +14,19 @@ Relating the Formula of a Complex to the Coordination Number and Oxidation State
 ![[Pasted image 20260611112129.png]]
 ![[Pasted image 20260611112149.png]]
 
+---
+
+Ligands affect color
+![[Pasted image 20260611112455.png]]
+![[Pasted image 20260611112517.png]]
+
+The energy gap between the eg and t₂g orbitals, Δ₀, (the crystal field splitting) equals the energy of a photon: Δ₀ = hν = ΔΕ. As Δ₀, varies, hν will also vary and the color of the compound will change.
+where
+- $\Delta_0$ is **crystal field splitting energy** in an octahedral complex / Energy difference between the two sets of d-orbitals (t₂g and e_g)
+- h is Planck’s constant
+- $\nu$ is frequency of light
+- $\Delta E$ is energy difference
+
+---
+
+[[Crystal field theory]]
