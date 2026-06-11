@@ -12,12 +12,15 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Inorganic/Pasted image 20260611112129.png"
+                "file": "Links/Inorganic/Crystal field theory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260611112129"
+              "icon": "lucide-file",
+              "title": "Crystal field theory"
             }
           }
         ]
@@ -211,11 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
     "Attachments/Inorganic/Pasted image 20260611112129.png",
     "Tasks/Eksamensplan F26.md",
-    "Crystal field theory.md",
+    "Links/Inorganic/Crystal field theory.md",
     "Attachments/Inorganic/Pasted image 20260611114212.png",
     "Attachments/Inorganic/Pasted image 20260611114128.png",
     "Attachments/Inorganic/Pasted image 20260611114058.png",
