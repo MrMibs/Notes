@@ -72,7 +72,22 @@ A practical definition of the terms labile and inert:
 **Inert complex**: ligand-replacement reactions are slow enough to be studied in “classical” kinetic experiments by measuring changes in optical density, pH, gas evolution … .
 **Labile complex**: the reaction is so fast that the modern method must be used to follow them. Such as flow systems, rapidly responding electronic recorders, and the like.
 
-Two extreme mechanistic possibilities for
-ligand-replacement reactions:
+Two extreme mechanistic possibilities for ligand-replacement reactions:
 -dissociative (D)
 -associative (A)
+
+![[Pasted image 20260611135602.png]]
+
+
+![[Pasted image 20260611135610.png]]
+
+Kind of like SN1 vs SN2.
+
+![[Pasted image 20260611135732.png]]
+
+Where the stable state at the top of the hill is hard to observe.
+![[Pasted image 20260611135759.png]]
+![[Pasted image 20260611135806.png]]
+
+And lastly coordination complexes are related to [[Pearson Hard-Soft Acid-Base]]. HSAB theory helps you predict **which ligands bind strongly to which metal ions in coordination complexes**. Hard metals prefer hard ligands, soft metals prefer soft ligands → this largely controls **stability, selectivity, and even structure** of complexes.
+![[Pasted image 20260611135823.png]]

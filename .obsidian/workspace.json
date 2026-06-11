@@ -12,15 +12,12 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Links/Inorganic/Ligand field theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachments/NMRMS/Pasted image 20260603101117.png"
               },
-              "icon": "lucide-file",
-              "title": "Ligand field theory"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260603101117"
             }
           }
         ]
@@ -199,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,20 +210,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac3434eb336d2f3a",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Pasted image 20260611135230.png",
-    "Attachments/Inorganic/Pasted image 20260611131944.png",
+    "Attachments/NMRMS/Pasted image 20260603101117.png",
+    "Attachments/Data science/Pasted image 20260602134052.png",
+    "Attachments/Inorganic/Pasted image 20260611135230.png",
+    "Attachments/Inorganic/Pasted image 20260609104547.png",
+    "Attachments/Inorganic/Pasted image 20260609102716.png",
+    "Attachments/Inorganic/Pasted image 20260610110016.png",
+    "Attachments/Inorganic/Pasted image 20260610111306.png",
+    "Attachments/Inorganic/Pasted image 20260609115404.png",
     "Links/Inorganic/Ligand field theory.md",
-    "Attachments/Inorganic/Pasted image 20260611135102.png",
-    "Attachments/Inorganic/Pasted image 20260611134923.png",
-    "Attachments/Inorganic/Pasted image 20260611133917.png",
-    "Attachments/Inorganic/Pasted image 20260611133518.png",
-    "Attachments/Inorganic/Pasted image 20260611133511.png",
-    "Attachments/Inorganic/Pasted image 20260611133419.png",
-    "Attachments/Inorganic/Pasted image 20260611133337.png",
-    "Attachments/Inorganic/Pasted image 20260611133325.png",
-    "Attachments/Inorganic/Pasted image 20260611132134.png",
+    "Attachments/Inorganic/Pasted image 20260611135823.png",
+    "Attachments/Inorganic/Pasted image 20260611135806.png",
+    "Attachments/Inorganic/Pasted image 20260611135759.png",
     "Notes/Inorganic/Lecture 8 - Transition metal complexes - isomers and reactivity.md",
     "Links/Inorganic/Crystal field theory.md",
     "Tasks/Eksamensplan F26.md",
