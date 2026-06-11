@@ -3,6 +3,8 @@ Bonds in a complex are purely electrostatic attraction between a positively char
 - Electrons on metal orbitals repel electrons on ligands.
 - Focus particularly on the d-electrons on the metal ion.
 
+![[Pasted image 20260611131656.png]]
+
 We need this to answer: Which are the d orbitals which have the strongest interaction with ligands in the octahedral field. Here we see dz and dx-y are higher in energy for an octahedral field.
 ![[Pasted image 20260611113005.png]]
 Looking at how we fill our electrons in we see:
