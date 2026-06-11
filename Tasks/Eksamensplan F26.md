@@ -51,6 +51,7 @@
 - [ ] Typeopgaver til 4: Ionic radii + packing type example + lattice energy (born lande)
 - [ ] Typeopgaver til 5: Born-Harber cycle
 - [ ] Typeopgaver til 6: Identify acids
+- [ ] Typeopgaver til 7: Coordination number and Oxidantion number
 ### Søndag
 - [ ] idk
 # Uge 25
