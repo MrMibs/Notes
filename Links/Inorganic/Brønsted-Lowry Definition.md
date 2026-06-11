@@ -1,8 +1,4 @@
-#inorganic 
-
-![[Pasted image 20260611103058.png]]
-
-## Brønsted-Lowry Definition
+#inorganic
 An acid is a substance that supplies protons and a base is a proton acceptor. Its strength is:
 $$K_a = \frac{[H_3O^+]\cdot[A^-]}{[HA]}$$
 For
@@ -12,6 +8,8 @@ $$pK_a=-log10(K_a)$$
 ![[Pasted image 20260611103628.png]]
 
 Here lower pKa means more acidic. This is also related to bond energy. We have different types of acids. 
+
+---
 ### Hydrohalic acids
 ![[Pasted image 20260611103931.png]]
 
@@ -19,7 +17,11 @@ Here lower pKa means more acidic. This is also related to bond energy. We have d
 ![[Pasted image 20260611104020.png]]
 More polarisation
 
-### 
+### Metal ions
+![[Pasted image 20260611104403.png]]
+
+### Polyprotic Acids
+![[Pasted image 20260611104538.png]]
 
 ---
 
@@ -35,3 +37,6 @@ This is written as
 $$K_a \cdot K_b = K_w$$
 ![[Pasted image 20260611104320.png]]
 
+---
+
+![[Pasted image 20260611104608.png]]
