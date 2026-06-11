@@ -12,15 +12,12 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tasks/Eksamensplan F26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachments/Inorganic/Pasted image 20260611112129.png"
               },
-              "icon": "lucide-file",
-              "title": "Eksamensplan F26"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260611112129"
             }
           }
         ]
@@ -214,21 +211,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac3434eb336d2f3a",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Crystal field theory.md",
-    "Pasted image 20260611114212.png",
-    "Pasted image 20260611114128.png",
-    "Pasted image 20260611114058.png",
+    "Attachments/Inorganic/Pasted image 20260611112129.png",
     "Tasks/Eksamensplan F26.md",
-    "Pasted image 20260611113809.png",
-    "Pasted image 20260611113741.png",
+    "Crystal field theory.md",
+    "Attachments/Inorganic/Pasted image 20260611114212.png",
+    "Attachments/Inorganic/Pasted image 20260611114128.png",
+    "Attachments/Inorganic/Pasted image 20260611114058.png",
+    "Attachments/Inorganic/Pasted image 20260611113809.png",
+    "Attachments/Inorganic/Pasted image 20260611113741.png",
     "Notes/Inorganic/Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
-    "Pasted image 20260611113557.png",
-    "Pasted image 20260611113534.png",
-    "Pasted image 20260611113314.png",
-    "Pasted image 20260611113143.png",
-    "Pasted image 20260611113005.png",
+    "Attachments/Inorganic/Pasted image 20260611113557.png",
+    "Attachments/Inorganic/Pasted image 20260611113534.png",
+    "Attachments/Inorganic/Pasted image 20260611113314.png",
+    "Attachments/Inorganic/Pasted image 20260611113143.png",
+    "Attachments/Inorganic/Pasted image 20260611113005.png",
     "Links/Inorganic/The Lewis Definition.md",
     "Links/Inorganic/Brønsted-Lowry Definition.md",
     "Links/Inorganic/Solvent System Definition.md",

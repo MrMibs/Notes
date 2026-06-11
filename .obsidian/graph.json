@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#inorganic",
+  "search": "#NMR",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 106,
-  "scale": 0.6316046762907433,
+  "scale": 0.22920135941749104,
   "close": false
 }
