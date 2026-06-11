@@ -10,7 +10,4 @@
 
 ![[The Lewis Definition]]
 
-acid
-base
-acid
-
+[[Pearson Hard-Soft Acid-Base]]

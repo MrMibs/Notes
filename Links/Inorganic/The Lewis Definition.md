@@ -1,3 +1,4 @@
+#inorganic 
 "Acid is defined as an electron-pair acceptor and a base as an electron-pair donor"
 Very general definition, especially for systems without protons.
 ![[Pasted image 20260611105923.png]]
