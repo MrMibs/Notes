@@ -38,6 +38,16 @@ Linkage isomers:
 ![[Pasted image 20260611133337.png]]
 Ionization isomers
 ![[Pasted image 20260611133419.png]]
-They also have cis/trans, but additionally fac/mer too!
+They also have cis/trans:
 ![[Pasted image 20260611133511.png]]
+but additionally fac/mer too (if 3 identical ligands are adjacent or not):
 ![[Pasted image 20260611133518.png]]
+
+**optical isomers**
+Molecules that are mirror images of each other that cannot be superimposed
+
+---
+#### These metal-ligand complexes are not steriochemically rigid (Stereochemical Nonrigidity)
+Basic idea: coordination compounds are not rigid. They undergo rapid deformational rearrangements of a much greater amplitude, in which atoms actually change places
+with each other, e.g. in PF5. Five-Coordinate Complex: PF5 The exchange of axial and equatorial fluorine atoms in PF5 is shown in the following figure:
+![[Pasted image 20260611133917.png]]
