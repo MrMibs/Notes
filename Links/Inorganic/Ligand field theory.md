@@ -51,3 +51,28 @@ Molecules that are mirror images of each other that cannot be superimposed
 Basic idea: coordination compounds are not rigid. They undergo rapid deformational rearrangements of a much greater amplitude, in which atoms actually change places
 with each other, e.g. in PF5. Five-Coordinate Complex: PF5 The exchange of axial and equatorial fluorine atoms in PF5 is shown in the following figure:
 ![[Pasted image 20260611133917.png]]
+Further, we can calculate the amount of each ligand
+![[Pasted image 20260611134923.png]]
+And with this get a b $\beta$ value. This is calculated by adding the K exponents using the rules for doing such things. Ring ligands are significantly more stable and therefore have a much higher K value:
+![[Pasted image 20260611135102.png]]
+
+---
+### Reaction of Complexes
+This is a big topic.
+1) Ligand replacement reactions
+2) Redox reactions
+3) Partial decomposition reactions
+
+One concept should be known:
+**lability**: the ability of a complex ion to engage in reactions that result in replacing one or more ligands in its coordination sphere by others. Those complexes for which reactions of this type are very rapid are called labile, whereas those for which such reactions proceed only slowly or not at all are called inert.
+
+![[Pasted image 20260611135230.png]]
+
+A practical definition of the terms labile and inert:
+**Inert complex**: ligand-replacement reactions are slow enough to be studied in “classical” kinetic experiments by measuring changes in optical density, pH, gas evolution … .
+**Labile complex**: the reaction is so fast that the modern method must be used to follow them. Such as flow systems, rapidly responding electronic recorders, and the like.
+
+Two extreme mechanistic possibilities for
+ligand-replacement reactions:
+-dissociative (D)
+-associative (A)
