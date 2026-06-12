@@ -42,7 +42,7 @@
 ### Onsdag
 - [x] 3-5
 ### Torsdag
-- [ ] 6-8
+- [x] 6-8
 ### Fredag
 - [ ] 9-12
 ### Lørdag

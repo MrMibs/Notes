@@ -12,12 +12,15 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/NMRMS/Pasted image 20260603101117.png"
+                "file": "Notes/Inorganic/Lecture 9 - Iron chemistry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260603101117"
+              "icon": "lucide-file",
+              "title": "Lecture 9 - Iron chemistry"
             }
           }
         ]
@@ -196,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "ac3434eb336d2f3a",
   "lastOpenFiles": [
+    "Pasted image 20260612110723.png",
+    "Pasted image 20260612110341.png",
+    "Pasted image 20260612110242.png",
+    "Notes/Inorganic/Lecture 9 - Iron chemistry.md",
+    "Tasks/Eksamensplan F26.md",
     "Attachments/NMRMS/Pasted image 20260603101117.png",
     "Attachments/Data science/Pasted image 20260602134052.png",
     "Attachments/Inorganic/Pasted image 20260611135230.png",
@@ -221,12 +230,8 @@
     "Attachments/Inorganic/Pasted image 20260610111306.png",
     "Attachments/Inorganic/Pasted image 20260609115404.png",
     "Links/Inorganic/Ligand field theory.md",
-    "Attachments/Inorganic/Pasted image 20260611135823.png",
-    "Attachments/Inorganic/Pasted image 20260611135806.png",
-    "Attachments/Inorganic/Pasted image 20260611135759.png",
     "Notes/Inorganic/Lecture 8 - Transition metal complexes - isomers and reactivity.md",
     "Links/Inorganic/Crystal field theory.md",
-    "Tasks/Eksamensplan F26.md",
     "Notes/Inorganic/Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
     "Links/Inorganic/The Lewis Definition.md",
     "Links/Inorganic/Brønsted-Lowry Definition.md",
@@ -247,7 +252,6 @@
     "Links/Inorganic/Molecular Orbitals Theory.md",
     "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
     "Links/Inorganic/Metallic bonding.md",
-    "Links/Inorganic/Crystal packing.md",
     "Attachments/Inorganic/Lecture_2-44-47.pdf",
     "Attachments/Inorganic/Lecture_2-15-20.pdf",
     "Links/Inorganic",
