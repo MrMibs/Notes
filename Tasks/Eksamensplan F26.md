@@ -44,7 +44,7 @@
 ### Torsdag
 - [x] 6-8
 ### Fredag
-- [ ] 9-12
+- [x] 9-12
 ### Lørdag
 - [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
 - [ ] Typeopgaver til 3: Packing eksempler

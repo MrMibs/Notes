@@ -33,15 +33,30 @@ Add the metallic stirring rod and 16ml of DI-water. Stir at 300RPM. Slowly add 8
 
 Add to the solution above with pipette and stir for 5 minutes. Color turns yellow.
 
-## Step 3: Introducing the ammonium hydroxide
+### Step 3: Introducing the ammonium hydroxide
 225.67 mL of DI water for the solution base and add stirring rod. Stir at 300 RPM. Add 24.33 mL of ammonium hydroxide and allow to stir thoroughly achieving a 25 mL of a 0.7M solution.
 
 Gently add this to the solution so far and it turns black. Set to 600 RPM and stir for 30 min.
 
-# Step 4: Cleaning
+### Step 4: Cleaning the nanoparticles
 Place magnet beneath beaker to let particles form at the bottom. This also checks that it works and you have made them. Carefully dispose of excess liquid using pipette:
 ![[Pasted image 20260612120809.png]]
 Replace stirring rod and set speed to 300 RPM. Add 50 to 100 ml of DI water to rinse, don't let it splash. Stir for 5 minutes. Remove excess liquid. Do this 3 more times.
 
-## Step 5: Redispersion
-Add 128 ml of DI-water and 72 mL of TMAH resulting in1M TMAH solution with magnetite nanoparticles. This 
+### Step 5: Redispersion
+Add 128 ml of DI-water and 72 mL of TMAH resulting in1M TMAH solution with magnetite nanoparticles. This yields a hydrophobic and magnetic solution.
+
+---
+## Fun facts:
+Fe3+ ions/Fe2+ ions = 2
+
+Match the iron ions with the correct electron configuration
+Fe → \[Ar] 4s2 3d6, Fe2+ → \[Ar] 3d6, Fe3+ → \[Ar] 3d5
+
+How many unpaired electrons has iron in its metallic state (high-spin configuration of the octahedral field)? 4
+
+How many unpaired electrons have the Fe2+ when in high-spin configuration of the octahedral field? 4
+
+How many unpaired electrons have the Fe3+ ions when in high-spin configuration of the octahedral field? 5
+
+What is the function of ammonia (NH3)? to increase the pH and therefore lower the solubility of iron species
