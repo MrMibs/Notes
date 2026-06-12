@@ -52,6 +52,8 @@
 - [ ] Typeopgaver til 5: Born-Harber cycle
 - [ ] Typeopgaver til 6: Identify acids
 - [ ] Typeopgaver til 7: Coordination number and Oxidantion number + CSFE fra slides på side 25 (den der vender forkert) + spindel expectation (den der vender rigtigt side 35) + Jahn–Teller distortion
+- [ ] Lav quiz til 8
+- [ ] Lav quiz til 9
 ### Søndag
 - [ ] idk
 # Uge 25
