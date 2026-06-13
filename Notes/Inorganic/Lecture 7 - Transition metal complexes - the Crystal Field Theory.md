@@ -1,5 +1,7 @@
 #inorganic
 
+[[Quiz 7]]
+
 Coordination chemistry: the branch of inorganic chemistry concerned with the combined behavior of cations and their ligands.
 
 There is no sharp dividing line between coordination chemistry and the chemistry of covalent molecules on the one hand and that of ionic solids on the other.

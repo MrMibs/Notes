@@ -41,13 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quiz 6.md",
+                "file": "Quiz 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quiz 6"
+              "title": "Quiz 7"
             }
           }
         ],
@@ -245,8 +245,12 @@
   },
   "active": "d788a6d4e18ef1ff",
   "lastOpenFiles": [
-    "Tasks/Eksamensplan F26.md",
+    "Pasted image 20260613113616.png",
+    "Pasted image 20260613113425.png",
+    "Notes/Inorganic/Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
+    "Quiz 7.md",
     "Quiz 6.md",
+    "Tasks/Eksamensplan F26.md",
     "Notes/Inorganic/Lecture 6 - Solvent systems and acid-base behavior.md",
     "Quiz 4.md",
     "Acid-base type.md",
@@ -267,7 +271,6 @@
     "Attachments/Inorganic/Pasted image 20260613105403.png",
     "Attachments/Inorganic/Pasted image 20260613105354.png",
     "Attachments/Inorganic/Pasted image 20260613104351.png",
-    "Attachments/Inorganic/Pasted image 20260613104344.png",
     "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
     "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics + Born-Haber Cycle.md",
     "Links/Inorganic/Solvents.md",
@@ -281,9 +284,6 @@
     "Links/Inorganic/MO quiz 2.6+2.7.md",
     "Links/Inorganic/Molecular Orbitals Theory.md",
     "Links/Inorganic/Lewis structure.md",
-    "MOCs/Inorganic MOC.md",
-    "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
-    "Links/Inorganic/Electron configuration table.md",
     "Attachments/Inorganic/1-s2.0-S0048969720369448-main.pdf",
     "Attachments/Inorganic/jp972046t.pdf",
     "Attachments/Inorganic/MOF design-XXC.pdf",
