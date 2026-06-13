@@ -1,4 +1,5 @@
 #inorganic
+[[Electron configuration table]]
 3 bond types exist:
 ![[Pasted image 20260609102740.png]]
 Ionic bonds, where atoms donate electrons to each other
