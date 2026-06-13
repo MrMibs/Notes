@@ -47,19 +47,19 @@
 - [x] 9-12
 ### Lørdag
 - [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
+- [ ] Typeopgaver til 2
 - [ ] Typeopgaver til 3: Packing eksempler
 - [ ] Typeopgaver til 4: Ionic radii + packing type example + lattice energy (born lande)
 - [ ] Typeopgaver til 5: Born-Harber cycle
 - [ ] Typeopgaver til 6: Identify acids
 - [ ] Typeopgaver til 7: Coordination number and Oxidantion number + CSFE fra slides på side 25 (den der vender forkert) + spindel expectation (den der vender rigtigt side 35) + Jahn–Teller distortion
+### Søndag
 - [ ] Lav quiz til 8
 - [ ] Lav quiz til 9
 - [ ] Noget med 10 idk
 - [ ] Lav quiz til 11
 - [ ] Lav quiz til 12a
 - [ ] Lav quiz til 12b
-### Søndag
-- [ ] idk
 # Uge 25
 ### Mandag UORGANISK EKSAMEN
 - [ ] Uorganisk eksamen
