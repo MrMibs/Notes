@@ -36,4 +36,4 @@ What is the coordination number of an atom?
 
 Three type of interstices (cavities) are present, which are indicated by three symbols: “·”, “X”, and “*”.
 ![[Pasted image 20260613101344.png]]
-
+![[Pasted image 20260613102812.png]]
