@@ -12,3 +12,6 @@
 **Green and Circular MOFs:** Sustainable synthesis, recyclable frameworks, and bio-based linkers for MOFs
 **Industrial Deployment:** Areas like carbon capture, clean hydrogen storage, and selective gas separation are already seeing pilot-scale testing, signaling the dawn of MOF-based industrial applications.
 ![[MOF design-XXC.pdf]]
+
+
+[[MOF design-XXC.docx]]

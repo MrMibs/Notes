@@ -42,3 +42,7 @@ Dendratability:
 ![[Pasted image 20260613115715.png]]
 
 Count amount of lone pairs available on binding sites, NO2
+
+---
+
+The following picture represents ZnFe2O4, which has inverse spinel structure.  Iron ions have oxidation number \[3+] and the zinc ions have oxidation number \[2+]. Hence, the green sphere represents a \[Iron] ion, the blue sphere can represent \[either Iron or Zinc] ion, and the red spheres represent \[Oxygen] ions.

@@ -1,4 +1,6 @@
 #inorganic 
+[[Spinel determination]]
+
 Bonds in a complex are purely electrostatic attraction between a positively charged nucleus and the electrons of the ligands.
 - Electrons on metal orbitals repel electrons on ligands.
 - Focus particularly on the d-electrons on the metal ion.
@@ -25,7 +27,7 @@ Opposite of octahedral
 ![[Pasted image 20260611113809.png]]
 
 ---
-## Spindel
+## Spinel
 - **Normal spinel:** A²⁺ in tetrahedral sites, B³⁺ in octahedral sites
 - **Inverse spinel:** B³⁺ split between tetrahedral and octahedral sites, and A²⁺ goes into octahedral sites
 
