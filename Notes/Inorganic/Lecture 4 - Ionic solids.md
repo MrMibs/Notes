@@ -1,5 +1,6 @@
 #inorganic
-
+[[Quiz 4]]
+[[Packing rule table]]
 [[Test exam]]
 
 ![[Melting points, radii, and charge densities]]

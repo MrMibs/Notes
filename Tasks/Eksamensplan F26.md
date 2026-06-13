@@ -60,6 +60,7 @@
 - [ ] Lav quiz til 11
 - [ ] Lav quiz til 12a
 - [ ] Lav quiz til 12b
+- [ ] Lav slide samling
 # Uge 25
 ### Mandag UORGANISK EKSAMEN
 - [ ] Uorganisk eksamen

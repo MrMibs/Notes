@@ -1,5 +1,7 @@
 #inorganic
 
+[[Quiz 6]]
+
 ![[Solvents]]
 
 ---
