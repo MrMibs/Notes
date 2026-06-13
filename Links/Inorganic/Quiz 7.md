@@ -12,3 +12,7 @@ And so on.
 ![[Pasted image 20260613113616.png]]
 
 Just count what is inside \[] for monodentate. acac e.g. counts as 2. Same with en.
+
+---
+
+
