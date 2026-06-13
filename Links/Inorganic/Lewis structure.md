@@ -1,4 +1,5 @@
 #inorganic 
+[[Valence table]]
 Rules:
 1. Count the total number of valence electrons.
 2. Identify the central atom: the least electronegative, except H

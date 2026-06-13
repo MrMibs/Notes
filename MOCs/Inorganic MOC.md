@@ -13,3 +13,4 @@
 [[Lecture 12a - Synthesis of Magnetite Nanoparticles]]
 [[Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron]]
 [[Ptable]]
+[[Electronegativity table]]

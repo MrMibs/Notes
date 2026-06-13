@@ -1,3 +1,4 @@
+#inorganic 
 
 | Z   | Element | Electron Configuration |
 | --- | ------- | ---------------------- |

@@ -1,4 +1,6 @@
 #inorganic 
+[[MO quiz 2.6+2.7]]
+
 ![[Valence Bond Theory#Paramagnetism]]
 
 To explain this, we use the molecular orbital theory. This assumes:

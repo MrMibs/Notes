@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ptable.md",
+                "file": "MO quiz 2.6+2.7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ptable"
+              "title": "MO quiz 2.6+2.7"
             }
           }
         ]
@@ -216,14 +216,22 @@
   },
   "active": "ac3434eb336d2f3a",
   "lastOpenFiles": [
-    "Pasted image 20260613094851.png",
-    "MOCs/Inorganic MOC.md",
-    "Ptable.md",
-    "Electron configuration table.md",
-    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
-    "Notes/Inorganic/Lecture 3 - Packing atoms and metallic bonding.md",
+    "Pasted image 20260613095507.png",
+    "Pasted image 20260613095342.png",
+    "Links/Inorganic/Molecular Orbitals Theory.md",
+    "MO quiz 2.6+2.7.md",
+    "Valence table.md",
+    "Pasted image 20260613095236.png",
     "Links/Inorganic/Lewis structure.md",
+    "MOCs/Inorganic MOC.md",
+    "Electronegativity table.md",
+    "Pasted image 20260613095116.png",
     "Notes/Inorganic/Lecture 2 -The covalent bond and its theories.md",
+    "Links/Inorganic/Electron configuration table.md",
+    "Links/Inorganic/Ptable.md",
+    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
+    "Attachments/Inorganic/Pasted image 20260613094851.png",
+    "Notes/Inorganic/Lecture 3 - Packing atoms and metallic bonding.md",
     "Tasks/Eksamensplan F26.md",
     "Attachments/Inorganic/1-s2.0-S0048969720369448-main.pdf",
     "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
@@ -247,10 +255,6 @@
     "Attachments/Inorganic/Pasted image 20260612113939.png",
     "Attachments/Inorganic/Pasted image 20260612113953.png",
     "Pasted image 20260612114029.png",
-    "Pasted image 20260612114014.png",
-    "Attachments/Inorganic/Pasted image 20260612113926.png",
-    "Attachments/Inorganic/Pasted image 20260612113748.png",
-    "Attachments/Inorganic/Pasted image 20260612113715.png",
     "Attachments/Inorganic/XINXIN Chen Course PPT-25-26.pdf",
     "Attachments/Inorganic/XINXIN Chen Course PPT-17-22.pdf",
     "Attachments/Inorganic/XINXIN Chen Course PPT-10-14.pdf",
@@ -258,10 +262,6 @@
     "Attachments/Inorganic/XINXIN Chen Course PPT-4-7.pdf",
     "Links/Inorganic/Iron chemistry.md",
     "Notes/Inorganic/Lecture 9 - Iron chemistry.md",
-    "Links/Inorganic/Basic oxygen steelmaking (BOS).md",
-    "Links/Inorganic/Blast furnace.md",
-    "Notes/Inorganic/Lecture 8 - Transition metal complexes - isomers and reactivity.md",
-    "Links/Inorganic/Ligand field theory.md",
     "Untitled.canvas"
   ]
 }
