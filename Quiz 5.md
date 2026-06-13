@@ -106,3 +106,12 @@ Lattice Energy for NaCl3 = -5400 KJ/mol;
 Na second ionization energy IE2 = 4569 KJ/mol;
 
 Na third ionization energy IE3 = 6919 KJ/mol;
+
+[[Born–Haber Appendix Lookup Guide]]
+
+![[Pasted image 20260613105354.png]]
+![[Pasted image 20260613105403.png]]
+
+[[Born–Haber step-by-step]]
+
+---

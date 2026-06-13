@@ -1,4 +1,7 @@
 #inorganic
+
+[[Test exam]]
+
 ![[Melting points, radii, and charge densities]]
 
 ---
