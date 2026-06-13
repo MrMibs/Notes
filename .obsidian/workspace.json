@@ -41,13 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acid-base type.md",
+                "file": "Tasks/Eksamensplan F26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Acid-base type"
+              "title": "Eksamensplan F26"
             }
           }
         ],
@@ -243,13 +243,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "d788a6d4e18ef1ff",
   "lastOpenFiles": [
-    "Acid-base type.md",
     "Quiz 6.md",
-    "Pasted image 20260613110554.png",
     "Notes/Inorganic/Lecture 6 - Solvent systems and acid-base behavior.md",
     "Quiz 4.md",
+    "Acid-base type.md",
+    "Pasted image 20260613110554.png",
     "Pasted image 20260613110447.png",
     "Pasted image 20260613110423.png",
     "Pasted image 20260613110414.png",
