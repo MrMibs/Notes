@@ -1,4 +1,7 @@
-#inorganic 
+#inorganic
+
+[[Quiz 3]]
+
 ![[Metallic bonding]]
 
 ---
