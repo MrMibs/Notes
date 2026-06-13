@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#i",
+  "search": "#inorganic",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 106,
-  "scale": 0.1166089157945719,
+  "scale": 0.4505081176757765,
   "close": false
 }

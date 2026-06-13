@@ -27,12 +27,15 @@
             "id": "0f5e868eee299666",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-06-13 10.07.05.excalidraw.md"
+                "file": "Quiz 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-13 10.07.05.excalidraw"
+              "icon": "lucide-file",
+              "title": "Quiz 3"
             }
           }
         ],
@@ -228,8 +231,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "0f5e868eee299666",
   "lastOpenFiles": [
+    "Pasted image 20260613101433.png",
+    "Pasted image 20260613101419.png",
+    "Pasted image 20260613101403.png",
+    "Pasted image 20260613101344.png",
+    "Pasted image 20260613101211.png",
+    "Pasted image 20260613101200.png",
+    "Notes/Inorganic/Lecture 3 - Packing atoms and metallic bonding.md",
+    "Valence table.md",
     "Excalidraw/Drawing 2026-06-13 10.07.05.excalidraw.md",
     "Pasted image 20260613100457.png",
     "Pasted image 20260613100521.png",
@@ -239,15 +250,8 @@
     "Excalidraw",
     "Pasted image 20260613100451.png",
     "Pasted image 20260613100438.png",
-    "Pasted image 20260613100432.png",
-    "Notes/Inorganic/Lecture 3 - Packing atoms and metallic bonding.md",
     "MO quiz 2.6+2.7.md",
-    "Valence table.md",
-    "Pasted image 20260613095942.png",
-    "Pasted image 20260613095507.png",
-    "Pasted image 20260613095342.png",
     "Links/Inorganic/Molecular Orbitals Theory.md",
-    "Pasted image 20260613095236.png",
     "Links/Inorganic/Lewis structure.md",
     "MOCs/Inorganic MOC.md",
     "Electronegativity table.md",
