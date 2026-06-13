@@ -41,13 +41,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Inorganic/Acid-base type.md",
+                "file": "Links/Inorganic/Quiz 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Acid-base type"
+              "title": "Quiz 7"
             }
           }
         ],
@@ -243,11 +243,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "d788a6d4e18ef1ff",
   "lastOpenFiles": [
+    "Pasted image 20260613115715.png",
+    "Links/Inorganic/Electron configuration table.md",
+    "Links/Inorganic/Electronegativity table.md",
+    "Links/Inorganic/Quiz 7.md",
+    "Pasted image 20260613115332.png",
+    "Links/Inorganic/VSEPR model.md",
+    "Pasted image 20260613115130.png",
     "Links/Inorganic/Acid-base type.md",
     "Attachments/Inorganic/Pasted image 20260613110244.png",
-    "Links/Inorganic/Quiz 7.md",
     "Attachments/Inorganic/Pasted image 20260613113616.png",
     "Attachments/Inorganic/Pasted image 20260613113425.png",
     "Notes/Inorganic/Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
@@ -268,12 +274,9 @@
     "Attachments/Inorganic/Pasted image 20260613103230.png",
     "Links/Inorganic/Born–Haber step-by-step.md",
     "Links/Inorganic/Quiz 5.md",
-    "Attachments/Inorganic/Pasted image 20260613105403.png",
-    "Attachments/Inorganic/Pasted image 20260613105354.png",
     "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
     "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics + Born-Haber Cycle.md",
     "Links/Inorganic/Solvents.md",
-    "Links/Inorganic/Electronegativity table.md",
     "Links/Inorganic/Quiz 3.md",
     "Notes/Inorganic/Lecture 3 - Packing atoms and metallic bonding.md",
     "Links/Inorganic/Valence table.md",
@@ -281,8 +284,6 @@
     "Drawing 2026-06-13 10.07.26.excalidraw.md",
     "Excalidraw",
     "Links/Inorganic/MO quiz 2.6+2.7.md",
-    "Links/Inorganic/Molecular Orbitals Theory.md",
-    "Links/Inorganic/Lewis structure.md",
     "Attachments/Inorganic/1-s2.0-S0048969720369448-main.pdf",
     "Attachments/Inorganic/jp972046t.pdf",
     "Attachments/Inorganic/MOF design-XXC.pdf",
