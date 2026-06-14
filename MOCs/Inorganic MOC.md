@@ -14,3 +14,6 @@
 [[Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron]]
 [[Ptable]]
 [[Electronegativity table]]
+
+[[Slides inorganic.pdf]]
+[[Solutions to exercises in slides inorganic.pdf]]

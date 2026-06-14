@@ -12,15 +12,12 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/Inorganic/Lecture 11 - Experimental chemistry - Potassium Ferrioxalate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachments/Inorganic/Slides inorganic.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 11 - Experimental chemistry - Potassium Ferrioxalate"
+              "icon": "lucide-file-text",
+              "title": "Slides inorganic"
             }
           }
         ]
@@ -199,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,12 +211,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ac3434eb336d2f3a",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Attachments/Inorganic/Slides inorganic.pdf",
+    "Attachments/Inorganic/Pasted image 20260614114747.png",
+    "Attachments/Inorganic/Solutions to exercises in slides inorganic.pdf",
+    "Attachments/Inorganic/VESPR table.pdf",
+    "Links/Inorganic/VSEPR model.md",
+    "MOCs/Inorganic MOC.md",
+    "Notes/Inorganic/Lecture 11 - Experimental chemistry - Potassium Ferrioxalate.md",
+    "Attachments/Inorganic/Pasted image 20260614114729.png",
+    "Attachments/Inorganic/Pasted image 20260614114702.png",
     "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
     "Notes/Inorganic/Lecture 12a - Synthesis of Magnetite Nanoparticles.md",
     "Tasks/Eksamensplan F26.md",
-    "MOCs/Inorganic MOC.md",
     "Links/Inorganic/Quiz 3.md",
     "Excalidraw/Drawing 2026-06-13 10.07.05.excalidraw.md",
     "Links/Inorganic/Challenges and future + design example.md",
@@ -238,13 +242,9 @@
     "Links/Inorganic/Spinel determination.md",
     "Links/Inorganic/Crystal field theory.md",
     "Links/Inorganic/Quiz 7.md",
-    "Attachments/Inorganic/Pasted image 20260613115715.png",
     "Links/Inorganic/Electron configuration table.md",
     "Links/Inorganic/Electronegativity table.md",
-    "Attachments/Inorganic/Pasted image 20260613115332.png",
-    "Links/Inorganic/VSEPR model.md",
     "Links/Inorganic/Acid-base type.md",
-    "Attachments/Inorganic/Pasted image 20260613110244.png",
     "Notes/Inorganic/Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
     "Links/Inorganic/Quiz 6.md",
     "Notes/Inorganic/Lecture 6 - Solvent systems and acid-base behavior.md",
@@ -256,13 +256,8 @@
     "Attachments/Inorganic/Little exam_1.pdf",
     "Links/Inorganic/Test exam.md",
     "Links/Inorganic/Born–Haber step-by-step.md",
-    "Links/Inorganic/Quiz 5.md",
-    "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
     "Excalidraw",
     "Attachments/Inorganic/1-s2.0-S0048969720369448-main.pdf",
-    "Attachments/Inorganic/jp972046t.pdf",
-    "MOF design-XXC.docx",
-    "Attachments/Inorganic/XINXIN Chen Course PPT-36-48.pdf",
     "Untitled.canvas"
   ]
 }
