@@ -12,10 +12,15 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MOCs/Inorganic MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Inorganic MOC"
             }
           }
         ]
@@ -209,11 +214,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "623d9685add00402",
+  "active": "ac3434eb336d2f3a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-06-14 13.18.37.excalidraw.md",
     "Excalidraw/Drawing 2026-06-13 10.07.05.excalidraw.md",
     "Excalidraw/Drawing 2026-06-14 13.18.38.excalidraw.md",
-    "Excalidraw/Drawing 2026-06-14 13.18.37.excalidraw.md",
     "Attachments/Inorganic/Pasted image 20260614130516.png",
     "Links/Inorganic/Quiz 11.md",
     "Attachments/Inorganic/Pasted image 20260614131738.png",
