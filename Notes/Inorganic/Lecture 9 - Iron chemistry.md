@@ -1,4 +1,7 @@
 #inorganic
+
+[[Quiz 9]]
+
 ![[Blast furnace]]
 
 ---
