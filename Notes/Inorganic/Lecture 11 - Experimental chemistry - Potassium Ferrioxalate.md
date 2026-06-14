@@ -13,3 +13,7 @@ UV + 2H2O + 2\[Fe(C2O4)3]3-(aq)  →   2\[Fe(OH2)2(C2O4)2]2-(aq)   + (C2O
 The ferrous oxalate then reacts with platinum(II) or palladium(II) reducing it to elemental platinum, which builds up the image:
 
 2\[Fe(OH2)2(C2O4)2]2-(aq)   + \[PtCl4]2-(aq)     →   2\[Fe(OH2)2(C2O4)2]- (aq)   + Pt(s) ↓   + 4Cl-(aq)
+
+---
+
+![[Pasted image 20260614114702.png]]

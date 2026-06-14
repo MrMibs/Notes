@@ -46,13 +46,13 @@
 ### Fredag
 - [x] 9-12
 ### Lørdag
-- [ ] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
-- [ ] Typeopgaver til 2
-- [ ] Typeopgaver til 3: Packing eksempler
-- [ ] Typeopgaver til 4: Ionic radii + packing type example + lattice energy (born lande)
-- [ ] Typeopgaver til 5: Born-Harber cycle
-- [ ] Typeopgaver til 6: Identify acids
-- [ ] Typeopgaver til 7: Coordination number and Oxidantion number + CSFE fra slides på side 25 (den der vender forkert) + spindel expectation (den der vender rigtigt side 35) + Jahn–Teller distortion
+- [x] Typeopgaver til 1: Slater, dissociation bond energy, weird electronegativity
+- [x] Typeopgaver til 2
+- [x] Typeopgaver til 3: Packing eksempler
+- [x] Typeopgaver til 4: Ionic radii + packing type example + lattice energy (born lande)
+- [x] Typeopgaver til 5: Born-Harber cycle
+- [x] Typeopgaver til 6: Identify acids
+- [x] Typeopgaver til 7: Coordination number and Oxidantion number + CSFE fra slides på side 25 (den der vender forkert) + spindel expectation (den der vender rigtigt side 35) + Jahn–Teller distortion
 ### Søndag
 - [ ] Lav quiz til 8
 - [ ] Lav quiz til 9
