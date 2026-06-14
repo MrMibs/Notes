@@ -54,9 +54,9 @@
 - [x] Typeopgaver til 6: Identify acids
 - [x] Typeopgaver til 7: Coordination number and Oxidantion number + CSFE fra slides på side 25 (den der vender forkert) + spindel expectation (den der vender rigtigt side 35) + Jahn–Teller distortion
 ### Søndag
-- [ ] Lav quiz til 8
-- [ ] Lav quiz til 9
-- [ ] Noget med 10 idk
+- [x] Lav quiz til 8
+- [x] Lav quiz til 9
+- [x] Noget med 10 idk
 - [ ] Lav quiz til 11
 - [ ] Lav quiz til 12a
 - [ ] Lav quiz til 12b

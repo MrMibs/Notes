@@ -102,4 +102,8 @@ Yes, but only in absence of reducing agents and if the pH is mantained acidic
 
 ---
 
-The correct answer is: Mineral, with the chemical formula Fe3O4 , inverse spinel structure and ferrimagnetic properties, which can be magnetized and became a permanent magnet. → Magnetite, Ceramic material, which consists of O2- , Fe3+, and another metal ion, which can be magnetized by an external magnetic field to yield a permanent magnet  → Hard ferrite, Ceramic material, which consists of O2- , Fe3+, and another metal ion, which can be magnetized rapidly by an electromagnet, but it lose its magnetism as soon as the current is discontinued. → Soft ferrite
+The correct answer is: Mineral, with the chemical formula Fe3O4 , inverse spinel structure and ferrimagnetic properties, which can be magnetized and became a permanent magnet. → Magnetite
+
+Ceramic material, which consists of O2- , Fe3+, and another metal ion, which can be magnetized by an external magnetic field to yield a permanent magnet  → Hard ferrite
+
+Ceramic material, which consists of O2- , Fe3+, and another metal ion, which can be magnetized rapidly by an electromagnet, but it lose its magnetism as soon as the current is discontinued. → Soft ferrite

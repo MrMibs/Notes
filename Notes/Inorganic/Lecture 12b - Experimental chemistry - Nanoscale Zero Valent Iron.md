@@ -1,4 +1,5 @@
 #inorganic
+[[Quiz 12b]]
 **Nanoscale zero-valent iron (nZVI)** is extremely small particles of **metallic iron, Fe⁰**, typically **1–100 nm** in size, used mainly for **environmental remediation** because they are very reactive reducing agents. Over the past years, nanoscale zero-valent Iron has been progressively applied to water and soil remediation, due to its adsorption and redox properties
 ![[1-s2.0-S0048969720369448-main.pdf]]
 

@@ -17,3 +17,5 @@
 
 [[Slides inorganic.pdf]]
 [[Solutions to exercises in slides inorganic.pdf]]
+
+[[Oxidation]]
