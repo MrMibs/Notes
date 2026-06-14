@@ -1,4 +1,5 @@
 #inorganic
+[[Quiz 12a]]
 ![[jp972046t.pdf]]
 
 Chemicals Required: 
