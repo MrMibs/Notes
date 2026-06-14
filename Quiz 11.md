@@ -70,4 +70,66 @@
 ![[Pasted image 20260614130750.png]]
 ![[Pasted image 20260614130759.png]]
 
--
+---
+
+![[Pasted image 20260614131002.png]]
+
+---
+
+![[Pasted image 20260614131009.png]]
+
+---
+
+![[Pasted image 20260614131015.png]]
+
+---
+
+![[Pasted image 20260614131022.png]]
+
+---
+
+![[Pasted image 20260614131029.png]]
+
+---
+
+![[Pasted image 20260614131036.png]]
+
+---
+
+![[Pasted image 20260614131043.png]]
+
+---
+
+![[Pasted image 20260614131123.png]]
+
+---
+
+![[Pasted image 20260614131600.png]]
+
+---
+
+![[Pasted image 20260614131607.png]]
+
+---
+
+![[Pasted image 20260614131614.png]]
+
+---
+
+![[Pasted image 20260614131620.png]]
+
+---
+
+![[Pasted image 20260614131714.png]]
+
+---
+
+![[Pasted image 20260614131722.png]]
+
+---
+
+![[Pasted image 20260614131731.png]]
+
+---
+
+![[Pasted image 20260614131738.png]]
