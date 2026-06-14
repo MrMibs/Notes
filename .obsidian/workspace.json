@@ -12,12 +12,15 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Inorganic/Slides inorganic.pdf"
+                "file": "Links/Inorganic/Quiz 8.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Slides inorganic"
+              "icon": "lucide-file",
+              "title": "Quiz 8"
             }
           }
         ]
@@ -211,11 +214,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
+    "Links/Inorganic/Quiz 8.md",
+    "Notes/Inorganic/Lecture 8 - Transition metal complexes - isomers and reactivity.md",
+    "Attachments/Inorganic/Solutions to exercises in slides inorganic.pdf",
+    "Tasks/Eksamensplan F26.md",
     "Attachments/Inorganic/Slides inorganic.pdf",
     "Attachments/Inorganic/Pasted image 20260614114747.png",
-    "Attachments/Inorganic/Solutions to exercises in slides inorganic.pdf",
     "Attachments/Inorganic/VESPR table.pdf",
     "Links/Inorganic/VSEPR model.md",
     "MOCs/Inorganic MOC.md",
@@ -224,7 +230,6 @@
     "Attachments/Inorganic/Pasted image 20260614114702.png",
     "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
     "Notes/Inorganic/Lecture 12a - Synthesis of Magnetite Nanoparticles.md",
-    "Tasks/Eksamensplan F26.md",
     "Links/Inorganic/Quiz 3.md",
     "Excalidraw/Drawing 2026-06-13 10.07.05.excalidraw.md",
     "Links/Inorganic/Challenges and future + design example.md",
@@ -255,7 +260,6 @@
     "Attachments/Inorganic/results.pdf",
     "Attachments/Inorganic/Little exam_1.pdf",
     "Links/Inorganic/Test exam.md",
-    "Links/Inorganic/Born–Haber step-by-step.md",
     "Excalidraw",
     "Attachments/Inorganic/1-s2.0-S0048969720369448-main.pdf",
     "Untitled.canvas"
