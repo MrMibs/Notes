@@ -12,15 +12,10 @@
             "id": "ac3434eb336d2f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quiz 11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Quiz 11"
+              "title": "New tab"
             }
           }
         ]
@@ -214,21 +209,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ac3434eb336d2f3a",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
-    "Pasted image 20260614131738.png",
-    "Pasted image 20260614131731.png",
-    "Pasted image 20260614131722.png",
-    "Pasted image 20260614131714.png",
-    "Pasted image 20260614131620.png",
-    "Pasted image 20260614131614.png",
-    "Pasted image 20260614131607.png",
-    "Pasted image 20260614131600.png",
-    "Pasted image 20260614131558.png",
-    "Pasted image 20260614131123.png",
-    "Pasted image 20260614131043.png",
+    "Excalidraw/Drawing 2026-06-13 10.07.05.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-14 13.18.38.excalidraw.md",
+    "Excalidraw/Drawing 2026-06-14 13.18.37.excalidraw.md",
+    "Attachments/Inorganic/Pasted image 20260614130516.png",
+    "Links/Inorganic/Quiz 11.md",
+    "Attachments/Inorganic/Pasted image 20260614131738.png",
+    "Attachments/Inorganic/Pasted image 20260614131731.png",
+    "Attachments/Inorganic/Pasted image 20260614131722.png",
+    "Attachments/Inorganic/Pasted image 20260614131714.png",
+    "Attachments/Inorganic/Pasted image 20260614131620.png",
+    "Attachments/Inorganic/Pasted image 20260614131614.png",
+    "Attachments/Inorganic/Pasted image 20260614131607.png",
+    "Attachments/Inorganic/Pasted image 20260614131600.png",
+    "Attachments/Inorganic/Pasted image 20260614131558.png",
     "Notes/Inorganic/Lecture 11 - Experimental chemistry - Potassium Ferrioxalate.md",
-    "Quiz 11.md",
     "Links/Inorganic/Quiz 12a.md",
     "Links/Inorganic/Low vs high spin.md",
     "Notes/Inorganic/Lecture 12a - Synthesis of Magnetite Nanoparticles.md",
@@ -255,13 +252,11 @@
     "Attachments/Inorganic/Slides inorganic.pdf",
     "Attachments/Inorganic/VESPR table.pdf",
     "Links/Inorganic/VSEPR model.md",
-    "Excalidraw/Drawing 2026-06-13 10.07.05.excalidraw.md",
     "Links/Inorganic/Challenges and future + design example.md",
     "Notes/Inorganic/Lecture 10 - Metal Organic Frameworks.md",
     "Links/Inorganic/Spinel determination.md",
     "Links/Inorganic/Crystal field theory.md",
     "Links/Inorganic/Quiz 7.md",
-    "Links/Inorganic/Electron configuration table.md",
     "Untitled.canvas"
   ]
 }
