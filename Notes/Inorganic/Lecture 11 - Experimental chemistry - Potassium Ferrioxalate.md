@@ -1,5 +1,7 @@
 #inorganic
 
+[[Quiz 11]]
+
 In this experiment we wil synthetize a metal coordination complex: K3[Fe(C2O4)3]. This iron complex is a specialty chemical in the sense that it has only a few commercial uses. Most abundantly, it is used in platinum photographic printing. Platinum prints, are photographic prints made by a monochrome printing process that provides the greatest tonal range of any printing method using chemical development.  For this reason they are made by photographers and favored by collectors because of their tonal range.
 
 ![[Pasted image 20260612115707.png]]

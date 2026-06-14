@@ -30,3 +30,18 @@ In the synthesis reported in the article, \[water] micro-droplets are dispersed 
 
 ![[Pasted image 20260614125559.png]]
 
+---
+
+![[Pasted image 20260614125801.png]]
+
+---
+
+![[Pasted image 20260614125818.png]]
+
+---
+
+![[Pasted image 20260614125834.png]]
+
+---
+
+![[Pasted image 20260614125842.png]]
