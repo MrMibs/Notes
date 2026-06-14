@@ -1,3 +1,4 @@
+#nmrms
 Chemical shift vs diffusion coefficient.
 
 DOSY tells you:

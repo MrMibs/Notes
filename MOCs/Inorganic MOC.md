@@ -1,0 +1,25 @@
+#inorganic
+[[Lecture 1 - Slater’s rules, charge, and electronegativity]]
+[[Lecture 2 -The covalent bond and its theories]]
+[[Lecture 3 - Packing atoms and metallic bonding]]
+[[Lecture 4 - Ionic solids]]
+[[Lecture 5 - Inorganic Thermodynamics + Born-Haber Cycle]]
+[[Lecture 6 - Solvent systems and acid-base behavior]]
+[[Lecture 7 - Transition metal complexes - the Crystal Field Theory]]
+[[Lecture 8 - Transition metal complexes - isomers and reactivity]]
+[[Lecture 9 - Iron chemistry]]
+[[Lecture 10 - Metal Organic Frameworks]]
+[[Lecture 11 - Experimental chemistry - Potassium Ferrioxalate]]
+[[Lecture 12a - Synthesis of Magnetite Nanoparticles]]
+[[Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron]]
+[[Ptable]]
+[[Electronegativity table]]
+
+[[Slides inorganic.pdf]]
+[[Solutions to exercises in slides inorganic.pdf]]
+
+[[Oxidation]]
+
+[[Exams]]
+
+[[Low vs high spin]]
