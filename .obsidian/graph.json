@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#inorganic acid-base",
+  "search": "#inorganic oxidation",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 99,
-  "scale": 0.5705498727477916,
+  "scale": 0.5190457655979731,
   "close": false
 }
