@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#inorganic crystal field",
+  "search": "#inorganic magneti",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 99,
-  "scale": 0.3907884964932856,
+  "scale": 0.6987780305209821,
   "close": false
 }
