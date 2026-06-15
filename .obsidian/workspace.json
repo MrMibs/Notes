@@ -4,6 +4,27 @@
     "type": "split",
     "children": [
       {
+        "id": "296c98e0dbc62d36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eacf3df4425199d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1 - Slater’s rules, charge, and electronegativity"
+            }
+          }
+        ]
+      },
+      {
         "id": "2d00ee7c48b568bc",
         "type": "tabs",
         "children": [
@@ -18,24 +39,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "9211b02b026ee711",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/Inorganic/Exams.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Exams"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Attachments/Inorganic/Exams/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,8 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e02842eb7cf1d0e",
+  "active": "6eacf3df4425199d",
   "lastOpenFiles": [
+    "Links/Inorganic/Electron configuration table.md",
+    "Links/Inorganic/Ptable.md",
+    "Links/Inorganic/Electronegativity table.md",
+    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
     "Links/Inorganic/Exams.md",
     "MOCs/Inorganic MOC.md",
     "Notes/Data science/R Code.md",
@@ -228,16 +237,12 @@
     "Notes/Inorganic/Lecture 12a - Synthesis of Magnetite Nanoparticles.md",
     "Notes/Inorganic/Lecture 11 - Experimental chemistry - Potassium Ferrioxalate.md",
     "Notes/Inorganic/Lecture 10 - Metal Organic Frameworks.md",
-    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
     "Notes/Inorganic",
     "Links/Inorganic/Valence Bond Theory.md",
     "Links/Inorganic/VSEPR model.md",
     "Links/Inorganic/Valence table.md",
     "Links/Inorganic/The Lux-Flood Definition.md",
     "Links/Inorganic/The Lewis Definition.md",
-    "Links/Inorganic/Test exam.md",
-    "Links/Inorganic/Spinel determination.md",
-    "Links/Inorganic/Solvents.md",
     "Links/Inorganic",
     "Excalidraw",
     "Attachments/Inorganic/results.pdf",
