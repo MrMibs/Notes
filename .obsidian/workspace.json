@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Inorganic/Molecular Orbitals Theory.md",
+                "file": "Links/Inorganic/Electron configuration table.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Molecular Orbitals Theory"
+              "title": "Electron configuration table"
             }
           }
         ]
@@ -215,19 +215,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6eacf3df4425199d",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Links/Inorganic/Iron chemistry.md",
-    "Links/Inorganic/Quiz 3.md",
-    "Links/Inorganic/Quiz 9.md",
     "Links/Inorganic/Electron configuration table.md",
+    "Links/Inorganic/MOF intro.md",
+    "Links/Inorganic/Quiz 7.md",
+    "Links/Inorganic/Quiz 5.md",
+    "Links/Inorganic/Quiz 12b.md",
+    "Links/Inorganic/MO quiz 2.6+2.7.md",
+    "Links/Inorganic/Alloys.md",
+    "Links/Inorganic/Quiz 3.md",
+    "i.md",
+    "Links/Inorganic/Quiz 12a.md",
+    "Links/Inorganic/Molecular Orbitals Theory.md",
+    "Links/Inorganic/Iron chemistry.md",
+    "Links/Inorganic/Quiz 9.md",
     "Links/Inorganic/Crystal field theory.md",
     "Links/Inorganic/Ligand field theory.md",
     "Notes/Inorganic/Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
     "Links/Inorganic/Spinel determination.md",
-    "Links/Inorganic/Quiz 7.md",
     "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
-    "Links/Inorganic/Quiz 12b.md",
     "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
     "Links/Inorganic/Oxidation.md",
     "MOCs/Inorganic MOC.md",
@@ -236,14 +243,7 @@
     "Links/Inorganic/Acid-base behavior.md",
     "Links/Inorganic/The Lux-Flood Definition.md",
     "Links/Inorganic/Quiz 6.md",
-    "Links/Inorganic/Alloys.md",
-    "Links/Inorganic/Molecular Orbitals Theory.md",
     "Attachments/Inorganic/Slides inorganic.pdf",
-    "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics + Born-Haber Cycle.md",
-    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
-    "Links/NMRMS/NOSEY sequence.md",
-    "Links/Data science/Component precision example.md",
-    "Notes/NMRMS/Day 12/Part 4 - McLafferty rearrangement.md",
     "Notes/Inorganic",
     "Links/Inorganic",
     "Excalidraw",
