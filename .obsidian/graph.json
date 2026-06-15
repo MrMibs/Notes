@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#inorganic spinel",
+  "search": "#inorganic crystal field",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 99,
-  "scale": 0.5190457655979731,
+  "scale": 0.3907884964932856,
   "close": false
 }
