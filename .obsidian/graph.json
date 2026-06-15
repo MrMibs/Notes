@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#inorganic MOF",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 99,
   "scale": 0.6987780305209821,
-  "close": false
+  "close": true
 }
