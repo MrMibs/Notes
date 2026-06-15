@@ -6,7 +6,7 @@
       {
         "id": "296c98e0dbc62d36",
         "type": "tabs",
-        "dimension": 79.69255663430421,
+        "dimension": 41.10032362459547,
         "children": [
           {
             "id": "6eacf3df4425199d",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
+                "file": "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron"
+              "title": "Lecture 1 - Slater’s rules, charge, and electronegativity"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "2d00ee7c48b568bc",
         "type": "tabs",
-        "dimension": 20.307443365695793,
+        "dimension": 58.89967637540453,
         "children": [
           {
             "id": "f2c075713717dd49",
@@ -218,6 +218,11 @@
   },
   "active": "6eacf3df4425199d",
   "lastOpenFiles": [
+    "Links/Inorganic/Electron configuration table.md",
+    "Links/Inorganic/Quiz 7.md",
+    "Links/Inorganic/Electronegativity table.md",
+    "Notes/Inorganic/Lecture 12a - Synthesis of Magnetite Nanoparticles.md",
+    "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
     "Links/Inorganic/Blast furnace.md",
     "Links/Inorganic/Iron chemistry.md",
     "Links/Inorganic/Direct reduction iron (DRI).md",
@@ -228,8 +233,6 @@
     "Links/Inorganic/MOF intro.md",
     "Links/Inorganic/MOF Synthesis.md",
     "Links/Inorganic/MOF Applications.md",
-    "Links/Inorganic/Electron configuration table.md",
-    "Links/Inorganic/Quiz 7.md",
     "Links/Inorganic/Quiz 5.md",
     "Links/Inorganic/Quiz 12b.md",
     "Links/Inorganic/MO quiz 2.6+2.7.md",
@@ -241,9 +244,6 @@
     "Links/Inorganic/Crystal field theory.md",
     "Links/Inorganic/Ligand field theory.md",
     "Notes/Inorganic/Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
-    "Links/Inorganic/Spinel determination.md",
-    "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
-    "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
     "Attachments/Inorganic/Slides inorganic.pdf",
     "Notes/Inorganic",
     "Links/Inorganic",

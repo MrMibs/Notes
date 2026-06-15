@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#inorganic",
+  "search": "#inorganic slater",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 99,
-  "scale": 0.844335721126049,
+  "scale": 0.4534282411304855,
   "close": false
 }
