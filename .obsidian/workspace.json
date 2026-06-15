@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Inorganic/Iron chemistry.md",
+                "file": "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Iron chemistry"
+              "title": "Defects and complex ionic solids + Born-Landé equation"
             }
           }
         ]
@@ -216,6 +216,7 @@
   },
   "active": "6eacf3df4425199d",
   "lastOpenFiles": [
+    "Links/Inorganic/Iron chemistry.md",
     "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
     "Links/Inorganic/Ptable.md",
     "Links/Inorganic/Electron configuration table.md",
@@ -242,7 +243,6 @@
     "Links/Inorganic/VSEPR model.md",
     "Links/Inorganic/Valence table.md",
     "Links/Inorganic/The Lux-Flood Definition.md",
-    "Links/Inorganic/The Lewis Definition.md",
     "Links/Inorganic",
     "Excalidraw",
     "Attachments/Inorganic/results.pdf",
