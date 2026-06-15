@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Inorganic/Oxidation.md",
+                "file": "Links/Inorganic/Spinel determination.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Oxidation"
+              "title": "Spinel determination"
             }
           }
         ]
@@ -217,11 +217,16 @@
   },
   "active": "6eacf3df4425199d",
   "lastOpenFiles": [
-    "MOCs/Inorganic MOC.md",
+    "Links/Inorganic/Crystal field theory.md",
     "Links/Inorganic/Spinel determination.md",
+    "Links/Inorganic/Quiz 7.md",
+    "Notes/Inorganic/Lecture 12b - Experimental chemistry - Nanoscale Zero Valent Iron.md",
+    "Links/Inorganic/Quiz 12b.md",
+    "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
+    "Links/Inorganic/Oxidation.md",
+    "MOCs/Inorganic MOC.md",
     "Links/Inorganic/The Lewis Definition.md",
     "Notes/Inorganic/Lecture 7 - Transition metal complexes - the Crystal Field Theory.md",
-    "Links/Inorganic/Crystal field theory.md",
     "Links/Inorganic/Acid-base type.md",
     "Links/Inorganic/Acid-base behavior.md",
     "Links/Inorganic/The Lux-Flood Definition.md",
@@ -230,7 +235,6 @@
     "Links/Inorganic/Molecular Orbitals Theory.md",
     "Attachments/Inorganic/Slides inorganic.pdf",
     "Notes/Inorganic/Lecture 5 - Inorganic Thermodynamics + Born-Haber Cycle.md",
-    "Links/Inorganic/Defects and complex ionic solids + Born-Landé equation.md",
     "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
     "Links/NMRMS/NOSEY sequence.md",
     "Links/Data science/Component precision example.md",
@@ -240,10 +244,6 @@
     "Links/Inorganic/Electron configuration table.md",
     "Links/Inorganic/Electronegativity table.md",
     "Links/Inorganic/Exams.md",
-    "Notes/Data science/R Code.md",
-    "Links/NMRMS/Rings and double bonds equivalence.md",
-    "Tasks/Eksamensplan F26.md",
-    "Notes/Inorganic/Lecture 9 - Iron chemistry.md",
     "Notes/Inorganic",
     "Links/Inorganic",
     "Excalidraw",
