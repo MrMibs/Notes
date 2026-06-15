@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Inorganic/Electron configuration table.md",
+                "file": "Links/Inorganic/Crystal field theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Electron configuration table"
+              "title": "Crystal field theory"
             }
           }
         ]
@@ -218,8 +218,9 @@
   },
   "active": "6eacf3df4425199d",
   "lastOpenFiles": [
-    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
+    "Links/Inorganic/Crystal field theory.md",
     "Links/Inorganic/Electron configuration table.md",
+    "Notes/Inorganic/Lecture 1 - Slater’s rules, charge, and electronegativity.md",
     "Links/Inorganic/Quiz 7.md",
     "Links/Inorganic/Electronegativity table.md",
     "Notes/Inorganic/Lecture 12a - Synthesis of Magnetite Nanoparticles.md",
@@ -242,7 +243,6 @@
     "i.md",
     "Links/Inorganic/Quiz 12a.md",
     "Links/Inorganic/Molecular Orbitals Theory.md",
-    "Links/Inorganic/Crystal field theory.md",
     "Links/Inorganic/Ligand field theory.md",
     "Attachments/Inorganic/Slides inorganic.pdf",
     "Notes/Inorganic",
