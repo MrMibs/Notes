@@ -65,15 +65,15 @@
 ### Mandag UORGANISK EKSAMEN
 - [x] Uorganisk eksamen
 ### Tirsdag
-- [ ] Læs kilder
+- [x] Noter i projekt
 ### Onsdag
-- [ ] Læs kilder O-tricluster, ladningskompensation, modifier i glas osv.
+- [ ] Noter i projekt 2
 ### Torsdag
 - [ ] **uddele dele til fremlæggelsen online**
 ### Fredag
-- [ ] Tag noter i selve projektet
+- [ ] Læs op på alle metoder
 ### Lørdag
-- [ ] Noget med fremlæggelse / andet / kilder
+- [ ] Læs kilder O-tricluster, ladningskompensation, modifier i glas osv. - bliv quizzet af god ven
 ### Søndag
 - [ ] **øve fremlæggelsen igennem online**
 # Uge 26
