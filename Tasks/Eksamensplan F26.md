@@ -71,7 +71,7 @@
 ### Torsdag
 - [x] **uddele dele til fremlæggelsen online**
 ### Fredag
-- [ ] Læs op på alle metoder + forventet vs set pile ift. alle værdier + B2O3 trykbehandling forhold
+- [ ] Læs op på alle metoder + forventet vs set pile ift. alle værdier + B2O3 trykbehandling forhold + intersitial voids
 ### Lørdag
 - [ ] Læs kilder O-tricluster, ladningskompensation, modifier i glas osv. - bliv quizzet af god ven
 ### Søndag
