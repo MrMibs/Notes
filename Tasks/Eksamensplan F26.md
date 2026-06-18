@@ -67,9 +67,9 @@
 ### Tirsdag
 - [x] Noter i projekt
 ### Onsdag
-- [ ] Noter i projekt 2
+- [x] Noter i projekt 2
 ### Torsdag
-- [ ] **uddele dele til fremlæggelsen online**
+- [x] **uddele dele til fremlæggelsen online**
 ### Fredag
 - [ ] Læs op på alle metoder + forventet vs set pile ift. alle værdier + B2O3 trykbehandling forhold
 ### Lørdag
