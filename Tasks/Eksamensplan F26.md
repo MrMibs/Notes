@@ -71,7 +71,9 @@
 ### Torsdag
 - [x] **uddele dele til fremlæggelsen online**
 ### Fredag
-- [ ] Læs op på alle metoder + forventet vs set pile ift. alle værdier + B2O3 trykbehandling forhold + intersitial voids + crack typer 2 (secondary radial fra 19xx) + læs kapoor (den anden os) + læs om B3 ringe og B4 ikke ringe + læs ny kilde + lav ppt + Læs kilder O-tricluster + ladningskompensation + modifier i glas
+- [ ] Læs op på alle metoder
+- [ ] forventet vs set pile ift. alle værdier
+- [ ] B2O3 trykbehandling forhold + intersitial voids + crack typer 2 (secondary radial fra 19xx) + læs kapoor (den anden os) + læs om B3 ringe og B4 ikke ringe + læs ny kilde + lav ppt + Læs kilder O-tricluster + ladningskompensation + modifier i glas
 ### Lørdag
 - [ ] Powerpoint
 ### Søndag
