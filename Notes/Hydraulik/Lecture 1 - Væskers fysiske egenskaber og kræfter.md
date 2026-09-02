@@ -1,4 +1,5 @@
 #hydraulik 
+# Kapitel 1
 Væske regnes i pakker af 1x1x1mm hvilket gør dem markant større end molekyleinteraktionsskala men mindre end systemet der oftest er i meter hvilket er meget mere end mm. Altså
 
 $molekylestørrelse \ll væskeelement << strømningsskala$
@@ -13,4 +14,7 @@ også ofte benyttet
 
 Dog er enkelte ![[Ikke-neutoniske væsker]]
 Vi benytter også begrebet ![[Sammentrykkelighed, K]]
-SIDST, [[Overfladespænding, C (ish)]]
+SIDST, ![[Overfladespænding, C (ish)]]
+
+# Kapitel 4
+![[Tryk]]

@@ -1,3 +1,4 @@
+#hydraulik 
 Oftest anses væsker for at være usammentrykkelige hvilket gør loven om massebevarelse og volumenbevarelse den samme. Dog er sammentrykkelighed vigtigt i enkelte tilfældge f.eks. trykstød i rør eller forplantning af lydbølger. Meget brugt i måleudstyr.
 $$K=-\frac{\mathrm{d}p}{\frac{\mathrm{d}V}{V}}$$
 Hvor:
