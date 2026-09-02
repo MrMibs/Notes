@@ -6,4 +6,6 @@ Hvor:
 - dV er volumenændring normaliseret ift. volumen
 
 f.eks. ved luft kan der antages adiabatisk (uden varmeudvæksling) eller isoterm (varmen udgives fuldstændigt). Herved fås to yderpunkter (nok fra idealgasligning)
-$$p\cdot V^{1.4}$$ 
+$$p\cdot v^{1.4} = c \quad og \quad p\cdot v = c$$ hvor:
+- p er det absolutte tryk
+- v er luftartens specifikke volumen

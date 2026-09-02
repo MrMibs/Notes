@@ -12,5 +12,5 @@ også ofte benyttet
 ![[Kinematisk viskositet ν]]
 
 Dog er enkelte ![[Ikke-neutoniske væsker]]
-Vi benytter også begrebet [[Sammentrykkelighed, K]]
-
+Vi benytter også begrebet ![[Sammentrykkelighed, K]]
+SIDST, [[Overfladespænding, C (ish)]]
