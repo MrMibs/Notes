@@ -11,4 +11,6 @@ Derudover bruger man ![[Specifik tyngde γ]]og
 også ofte benyttet
 ![[Kinematisk viskositet ν]]
 
-Dog er enkelte [[ikke-neutoniske væsker]]
+Dog er enkelte ![[Ikke-neutoniske væsker]]
+
+
