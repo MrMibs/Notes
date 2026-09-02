@@ -6,7 +6,9 @@ $molekylestørrelse \ll væskeelement << strømningsskala$
 Størrelser man bruger er self. SI (m, kg, s, K, N) men også ![[Tryk]]og
 ![[Forskydningsspænding τ]]
 
-Derudover bruger man ![[Specifik tyngde γ]]
-og
-![[Viskositet]]
+Derudover bruger man ![[Specifik tyngde γ]]og
+![[Dynamisk viskositet μ]]
+også ofte benyttet
+![[Kinematisk viskositet ν]]
 
+Dog er enkelte [[ikke-neutoniske væsker]]
