@@ -4,7 +4,7 @@ Væske regnes i pakker af 1x1x1mm hvilket gør dem markant større end molekylei
 
 $molekylestørrelse \ll væskeelement << strømningsskala$
 
-Størrelser man bruger er self. SI (m, kg, s, K, N) men også ![[Tryk]]og
+Størrelser man bruger er self. SI (m, kg, s, K, N) men også ![[Tryk, P]]og
 ![[Forskydningsspænding τ]]
 
 Derudover bruger man ![[Specifik tyngde γ]]og
@@ -17,4 +17,4 @@ Vi benytter også begrebet ![[Sammentrykkelighed, K]]
 SIDST, ![[Overfladespænding, C (ish)]]
 
 # Kapitel 4
-![[Tryk]]
+![[Tryk, P]]
