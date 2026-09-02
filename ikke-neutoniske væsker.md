@@ -1,5 +1,5 @@
 #hydraulik 
-Kun meget få væsker, dette betyder viskositet er stressafhængigt (m.
+Kun meget få væsker, dette betyder viskositet er stressafhængigt (materialet kan nogen gange agere solidt).
 $$\tau = \mu \cdot\frac{\partial v_1}{\partial x_2} + \tau^*$$
 Hvor:
 - $\tau$ er [[Forskydningsspænding τ]]
