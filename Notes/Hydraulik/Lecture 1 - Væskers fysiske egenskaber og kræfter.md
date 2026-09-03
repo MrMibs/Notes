@@ -21,4 +21,7 @@ SIDST, ![[Overfladespænding, C (ish)]]
 ![[Tryk, P (hvilket er det samme som F)]]
 
 
-Skriv noget ned om newtons formel (ikke her)
+[[Skriv noget ned om newtons formel (ikke her)]]
+
+![[Hydrostatisk trykfordeling]]
+
