@@ -1,0 +1,2 @@
+#P5
+Polymerization-induced phase separation (PIPS) is the occurrence of phase separation in a multicomponent mixture induced by the polymerization of one or more components. The increase in molecular weight of the reactive component renders one or more components to be mutually immiscible in one another, resulting in spontaneous phase segregation. 
