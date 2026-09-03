@@ -25,13 +25,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/P5 MOC.md",
+                "file": "Articles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "P5 MOC"
+              "title": "Articles"
+            }
+          },
+          {
+            "id": "ef5ecff139cc6393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biofouling of spiral-wound nanofiltration and reverse osmosis membranes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Biofouling of spiral-wound nanofiltration and reverse osmosis membranes"
             }
           },
           {
@@ -224,8 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6cb29ce22a0b95e",
+  "active": "ef5ecff139cc6393",
   "lastOpenFiles": [
+    "Articles.md",
+    "Biofouling of spiral-wound nanofiltration and reverse osmosis membranes.md",
+    "Spiral-wound membrane.md",
+    "MOCs/P5 MOC.md",
     "Pasted image 20260903111340.png",
     "Pasted image 20260903111322.png",
     "Pasted image 20260903111239.png",
@@ -235,8 +254,6 @@
     "Pasted image 20260903110834.png",
     "Pasted image 20260903110913.png",
     "Pasted image 20260903110552.png",
-    "Spiral-wound membrane.md",
-    "MOCs/P5 MOC.md",
     "MOCs/MS MOC.md",
     "MOCs/Untitled",
     "Notes/Hydraulik/Lecture 1 - Væskers fysiske egenskaber og kræfter.md",
@@ -255,14 +272,12 @@
     "Links/Hydraulik/Forskydningsspænding τ.md",
     "Links/Hydraulik/Dynamisk viskositet μ.md",
     "Attachments/Hydraulik/Pasted image 20260903091514.png",
-    "Attachments/Hydraulik/Pasted image 20260903085246.png",
     "Dynamisk viskositet μ.md",
     "Forskydningsspænding τ.md",
     "Ikke-neutoniske væsker.md",
     "Kinematisk viskositet ν.md",
     "Overfladespænding, C (ish).md",
     "Sammentrykkelighed, K.md",
-    "Specifik tyngde γ.md",
     "Attachments/Hydraulik",
     "Notes/Hydraulik",
     "Links/Hydraulik",
