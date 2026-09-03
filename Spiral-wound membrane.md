@@ -11,5 +11,9 @@ So it just works
 ![[Pasted image 20260903111209.png]]
 Finally we have a permeate spacer, which creates a place for the permeate to flow into the central permeate tube.
 ![[Pasted image 20260903111239.png]]
+As one image
+![[Pasted image 20260903111322.png]]
+And entire roll
+![[Pasted image 20260903111340.png]]
 
 https://www.youtube.com/watch?v=HFBT-x0VFQ0
