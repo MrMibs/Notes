@@ -20,3 +20,5 @@ SIDST, ![[Overfladespænding, C (ish)]]
 # Kapitel 4
 ![[Tryk, P (hvilket er det samme som F)]]
 
+
+Skriv noget ned om newtons formel (ikke her)
