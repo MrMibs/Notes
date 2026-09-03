@@ -25,3 +25,10 @@ SIDST, ![[Overfladespænding, C (ish)]]
 
 ![[Hydrostatisk trykfordeling]]
 
+Eksempel på et eller andet? Tryk i en beholder?
+Beregn A (pi r^2)
+Beregn V (A h)
+du får M
+Beregn F (m g / V)
+
+
