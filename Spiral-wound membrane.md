@@ -1,5 +1,5 @@
 #P5 
-Our membrane type, seperates the feed (mix) into the permeate (clean) and concentrate (removed)
+Our membrane type, seperates the feed (mix) into the permeate (clean) and concentrate (also called brine line, removed stuff)
 ![[Pasted image 20260903110552.png]]
 
 It works by using cross flow filtration, inputting feed into a side with a lot of filters (as shown below, but side without hole). We then have our feed flow across filters and thereby allow any particles in the permeate range through.
