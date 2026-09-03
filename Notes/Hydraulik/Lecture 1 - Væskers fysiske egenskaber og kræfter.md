@@ -9,6 +9,7 @@ Størrelser man bruger er self. SI (m, kg, s, K, N) men også ![[Tryk, P]]og
 
 Derudover bruger man ![[Specifik tyngde γ]]og
 ![[Dynamisk viskositet μ]]
+
 også ofte benyttet
 ![[Kinematisk viskositet ν]]
 
@@ -18,3 +19,4 @@ SIDST, ![[Overfladespænding, C (ish)]]
 
 # Kapitel 4
 ![[Tryk, P]]
+

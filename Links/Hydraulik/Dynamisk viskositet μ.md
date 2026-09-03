@@ -13,3 +13,7 @@ Hvor:
           └────────→ x₁
 
 Enheden er $Pa \cdot s$
+
+
+![[Pasted image 20260903083806.png]]
+x, u plot

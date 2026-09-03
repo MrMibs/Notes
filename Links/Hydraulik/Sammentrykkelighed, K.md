@@ -9,4 +9,4 @@ Hvor:
 f.eks. ved luft kan der antages adiabatisk (uden varmeudvæksling, ændret temperatur) eller isoterm (varmen er konstant). Herved fås to yderpunkter (nok fra idealgasligning)
 $$p\cdot v^{1.4} = c \quad og \quad p\cdot v = c$$ hvor:
 - p er det absolutte tryk
-- v er luftartens [[Specifik volumen]]
+- v er luftartens [[Specifik volumen check senere]]
