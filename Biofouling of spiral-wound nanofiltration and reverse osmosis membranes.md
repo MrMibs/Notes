@@ -7,7 +7,7 @@ This article claims Biofouling is a feed spacer problem "In the presence of a fe
 In spiral-wound membrane modules, two types of pressure drop can be discriminated: the trans-
 membrane pressure drop (TMP) and the feed channel pressure drop (FCP)
 
-![[TMP]]
+![[Trans-Membrane Pressure drop - TMP]]
 ![[Membrane flux ]]
-![[FCP]]
+![[Feed Channel Pressure drop - FCP]]
 

@@ -1,2 +1,2 @@
 #P5 
-Related to [[TMP]], just like flux for magnet but instead of field lines pr area it is water volume passing pr area. The flux normalized for temperature and pressure, the Mass Transfer Coefficient (MTC), is expressed in $m \cdot s^{-1} \cdot Pa^{-1}$.
+Related to [[Trans-Membrane Pressure drop - TMP]], just like flux for magnet but instead of field lines pr area it is water volume passing pr area. The flux normalized for temperature and pressure, the Mass Transfer Coefficient (MTC), is expressed in $m \cdot s^{-1} \cdot Pa^{-1}$.
