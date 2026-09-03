@@ -8,3 +8,6 @@ Hvor:
 - C er overfladespænding (konst ved given temperatur og interface e.g. vand-luft)
 - r1 og r2 er krumning i den ene og anden retning (hovedkrumningsradier)
 ![[Pasted image 20260902161107.png]]
+
+linje over stiblet linje betyder udsat for luft.
+![[Pasted image 20260903085246.png]]

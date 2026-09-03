@@ -3,7 +3,7 @@
 Force/Area i strømningsretning
 
 # Hvilende væske
-I en hvilende væske gælder det [[Forskydningsspænding τ]] = 0. Normalspænding ([[Tryk, P]]) er dermed defineret som:
+I en hvilende væske gælder det [[Forskydningsspænding τ]] = 0. Normalspænding ([[Tryk, P (hvilket er det samme som F)]]) er dermed defineret som:
 $$p=\frac{\Delta P}{\Delta A}$$
 Hvor $\Delta P$ er størrelsen af kraften fra væsken vinkelret på fladen $\Delta A$ (ind mod væsken fra alle sider fra tiltrækning). Hvis normalvektoren 90 grader på arealet betegnes, kan kraften fra væsken findes af:
 $$\Delta \vec{P} = p \cdot \Delta A \cdot \vec{n}$$
