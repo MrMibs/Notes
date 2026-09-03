@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#hydraulik",
+  "search": "#hydra",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.6,
   "nodeSizeMultiplier": 1.4015625,
   "lineSizeMultiplier": 1.06979166666667,
   "collapse-forces": false,
-  "centerStrength": 0.4375,
+  "centerStrength": 0.735294117647059,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 1.7404978230765824,
+  "linkDistance": 99,
+  "scale": 1.0175672221997567,
   "close": false
 }

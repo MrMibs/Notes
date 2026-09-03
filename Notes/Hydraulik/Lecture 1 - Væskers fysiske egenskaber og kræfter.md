@@ -12,7 +12,7 @@ Derudover bruger man ![[Specifik tyngde γ]]og
 også ofte benyttet
 ![[Kinematisk viskositet ν]]
 
-Dog er enkelte ![[Ikke-neutoniske væsker]]
+Dog er enkelte ![[ikke-neutoniske væsker]]
 Vi benytter også begrebet ![[Sammentrykkelighed, K]]
 SIDST, ![[Overfladespænding, C (ish)]]
 
