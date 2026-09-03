@@ -1,3 +1,4 @@
+#hydraulik 
 Udgangsniveau er under det vi gerne vil lave. y er længde af noget.
 ![[Pasted image 20260903091514.png]]
 Vi har
@@ -22,3 +23,9 @@ $$p = g \rho y$$
 Hvor:
 - $\gamma$ er [[Specifik vægt, γ]]
 - y er højde
+
+Når udgangsniveau er under beholder:
+$$y = \frac{p}{\gamma}$$
+og
+$$h \equiv z + \frac{p}{\gamma}$$
+
