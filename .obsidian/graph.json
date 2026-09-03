@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#hydraulik",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -36,16 +36,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.6,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.4015625,
   "lineSizeMultiplier": 1.06979166666667,
   "collapse-forces": false,
-  "centerStrength": 0.735294117647059,
+  "centerStrength": 0.4375,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 99,
-  "scale": 0.1581287160286062,
-  "close": true
+  "linkDistance": 30,
+  "scale": 1.7404978230765824,
+  "close": false
 }

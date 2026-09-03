@@ -57,30 +57,32 @@
 - [x] Lav quiz til 8
 - [x] Lav quiz til 9
 - [x] Noget med 10 idk
-- [ ] Lav quiz til 11
-- [ ] Lav quiz til 12a
-- [ ] Lav quiz til 12b
+- [x] Lav quiz til 11
+- [x] Lav quiz til 12a
+- [x] Lav quiz til 12b
 - [x] Lav slide samling
 # Uge 25
 ### Mandag UORGANISK EKSAMEN
-- [ ] Uorganisk eksamen
+- [x] Uorganisk eksamen
 ### Tirsdag
-- [ ] Læs kilder
+- [x] Noter i projekt
 ### Onsdag
-- [ ] Læs kilder
+- [x] Noter i projekt 2
 ### Torsdag
-- [ ] Læs kilder O-tricluster, ladningskompensation, modifier i glas osv.
+- [x] **uddele dele til fremlæggelsen online**
 ### Fredag
-- [ ] Tag noter i selve projektet
+- [ ] Læs op på alle metoder
+- [ ] forventet vs set pile ift. alle værdier
+- [ ] B2O3 trykbehandling forhold + intersitial voids + crack typer 2 (secondary radial fra 19xx) + læs kapoor (den anden os) + læs om B3 ringe og B4 ikke ringe + læs ny kilde + lav ppt + Læs kilder O-tricluster + ladningskompensation + modifier i glas
 ### Lørdag
-- [ ] Noget med fremlæggelse / andet / kilder
+- [ ] Powerpoint
 ### Søndag
-- [ ] Noget med fremlæggelse / andet / kilder
+- [ ] **øve fremlæggelsen igennem online**
 # Uge 26
 ### Mandag
 - [ ] Noget med fremlæggelse / andet / kilder
 ### Tirsdag
-- [ ] Noget med fremlæggelse / andet / kilder
+- [ ] **Øve fysisk**
 ### Onsdag
 - [ ] Noget med fremlæggelse / andet / kilder
 ### Torsdag PROJEKT EKSAMEN
