@@ -34,8 +34,7 @@
               "title": "Lecture 1 - Væskers fysiske egenskaber og kræfter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,15 +207,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09a8886eebf68059",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Notes/Hydraulik/Lecture 1 - Væskers fysiske egenskaber og kræfter.md",
+    "Links/Hydraulik/Specifik tyngde γ.md",
+    "Specifik volumen.md",
+    "Links/Hydraulik/Sammentrykkelighed, K.md",
     "Links/Hydraulik/Dynamisk viskositet μ.md",
     "Links/Hydraulik",
-    "Notes/Hydraulik/Lecture 1 - Væskers fysiske egenskaber og kræfter.md",
     "Links/Hydraulik/ikke-neutoniske væsker.md",
     "Links/Hydraulik/Tryk, P.md",
-    "Links/Hydraulik/Specifik tyngde γ.md",
-    "Links/Hydraulik/Sammentrykkelighed, K.md",
     "Links/Hydraulik/Pasted image 20260902172551.png",
     "Links/Hydraulik/Overfladespænding, C (ish).md",
     "Notes/Hydraulik",
