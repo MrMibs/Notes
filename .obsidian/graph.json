@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#P5",
+  "search": "#P5 PIPS",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 99,
   "scale": 0.9225878299978083,
-  "close": true
+  "close": false
 }

@@ -1,7 +1,4 @@
-Vi printer 4-5 strukture. Vi skal printe en struktur med midst mulig død område.
-
 Hvad er prisitne?
-
 
 
 **Kommunikation**
@@ -46,7 +43,7 @@ Litteraturliste skal være meningsfuld
 Soidworks til 3d modellering
 Fokuser på strukture der ligner noget man bruger andre steder (vindmølle etc.)
 Ikke tal for meget som spiral membraner
-
+Vi printer 4-5 strukture. Vi skal printe en struktur med midst mulig død område.
 
 NYT spørgsmål:
 
