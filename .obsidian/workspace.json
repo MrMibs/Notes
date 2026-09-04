@@ -49,8 +49,7 @@
               "title": "Trykkraft på plan flade (men trekant)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -207,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7271c8cd6564c4a",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Trykkraft på plan flade (men trekant).md",
     "Pasted image 20260903094455.png",
     "Notes/Hydraulik/Lecture 1 - Væskers fysiske egenskaber og kræfter.md",
-    "Trykkraft på plan flade (men trekant).md",
     "Links/Hydraulik/Hydrostatisk trykfordeling.md",
     "Links/Hydraulik/Dynamisk viskositet μ.md",
     "Links/Hydraulik/Forskydningsspænding τ.md",
@@ -269,7 +269,6 @@
     "Excalidraw",
     "Attachments/Inorganic/results.pdf",
     "Attachments/Inorganic/jp972046t.pdf",
-    "Attachments/Inorganic/XINXIN Chen Course PPT-4-7.pdf",
-    "Attachments/Inorganic/Screenshot 2026-06-09 121018(1).png"
+    "Attachments/Inorganic/XINXIN Chen Course PPT-4-7.pdf"
   ]
 }
