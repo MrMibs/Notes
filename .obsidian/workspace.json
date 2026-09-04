@@ -153,8 +153,39 @@
               "icon": "lucide-file",
               "title": "P5 MOC"
             }
+          },
+          {
+            "id": "f884a726d42e2eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Programmer"
+            }
+          },
+          {
+            "id": "29662f1488c160bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidworks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Solidworks"
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -329,10 +360,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "29662f1488c160bc",
   "lastOpenFiles": [
-    "Møde 1.md",
+    "Solidworks.md",
+    "Programmer.md",
     "MOCs/P5 MOC.md",
+    "Møde 1.md",
     "Notes/Hydraulik/Lecture 1 - Væskers fysiske egenskaber og kræfter.md",
     "Trykkraft på plan flade (men trekant).md",
     "Vejledermøde.md",
@@ -368,8 +401,6 @@
     "Links/Hydraulik/Dynamisk viskositet μ.md",
     "Links/Hydraulik/Forskydningsspænding τ.md",
     "Links/Hydraulik/ikke-neutoniske væsker.md",
-    "Links/Hydraulik/Kinematisk viskositet ν.md",
-    "Links/Hydraulik/Overfladespænding, C (ish).md",
     "Links/Hydraulik",
     "Notes/Hydraulik",
     "Attachments/Hydraulik",
