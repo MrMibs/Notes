@@ -19,7 +19,7 @@ Hvad er prisitne?
 	- Ikke med, maksimalt i bilag
 
 - Skal metodeovervejelser flettes sammen med metodeafsnittet til simulering og mikrofiltrering og metode til databehandling? Skal metodeovervejelser overhovedet med?
-	- Kort og præcist metodeafsnit, overvejelser skal være før og seperat
+	- Kort og præcist metodeafsnit, overvejelser skal være før og seperat. OPS de kaldte det experimental design, det ved jeg ikke om vi skal tage til os.
 
 - Skal resultater diskuteres løbende ifm. diskussion, eller vil I gerne have resultater og diskussion separat?
 	- Samlet
