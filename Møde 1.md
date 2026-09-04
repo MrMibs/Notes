@@ -41,17 +41,21 @@ Litteraturliste skal være meningsfuld
 	- Teamviewer til fancy desktop hos Mathias
 
 - Hvor længe tænker I, at vi skal benytte for at finde et optimalt design, før vi skal printe og teste membraner?
-	- Det er op til os selv har de sagt
+	- Det er op til os selv har de sagt mange gange nu. Noget i størrelsesorden 25-100+.
 
 Soidworks til 3d modellering
 Fokuser på strukture der ligner noget man bruger andre steder (vindmølle etc.)
 Ikke tal for meget som spiral membraner
 
+
 NYT spørgsmål:
 
--          Når vi citerer, fx XXX har fundet YYY og dette står i en anden kilde ikke forfattet af XXX, skal vi så både citere kilden vi har fundet postulatet i samt den oprindelig kilde, hvor de eksperimentelt (eller simuleringsmæssigt) har fundet fra til YYY? Eller er det nok blot at citere kilden, der omtaler hvad, der er blevet fundet frem til i tidligere litteratur?
+- Når vi citerer, fx XXX har fundet YYY og dette står i en anden kilde ikke forfattet af XXX, skal vi så både citere kilden vi har fundet postulatet i samt den oprindelig kilde, hvor de eksperimentelt (eller simuleringsmæssigt) har fundet fra til YYY? Eller er det nok blot at citere kilden, der omtaler hvad, der er blevet fundet frem til i tidligere litteratur?
+	- Henvis til review eller original? Original. Der er lavet reviews der viser xxx efter at kigge 100 artikler igennem, men hvis vi taler om en geometri så citer specifikt studie. Alt afhængig af hvor mange kilder der er omtalt i reviewet der hvor vi skal bruge det.
 
--          Hvordan måler vi effektiviteten af vores nye spacere i et mikrofiltreringssystem – ser vi på velocity kort vha. MRI eller hvordan bestemmer vi præstation? Eller gøres dette destruktivt ved at skille membranen af?
+- Hvordan måler vi effektiviteten af vores nye spacere i et mikrofiltreringssystem – ser vi på velocity kort vha. MRI eller hvordan bestemmer vi præstation? Eller gøres dette destruktivt ved at skille membranen af?
+	- Polystyrene røde kugler, membranfiltrering, UV/VIS på permeat for at se koncentrationsændring. Det kan man også decideret se sådan måske. Elektronmikroskob er også en option. Tungere metal / salt i opløsning man kan måle på. Tilbagehold metal gange mange.
 
--          Skal vi benytte en Spacer Membrane Fouling Simulator til at undersøge hvor stor grad af fouling, der finder sted på vores 3D-printede spacere?
+- Skal vi benytte en Spacer Membrane Fouling Simulator til at undersøge hvor stor grad af fouling, der finder sted på vores 3D-printede spacere?
+	- Ja det er vist cirka det den metode er uden jeg er helt sikker
 
