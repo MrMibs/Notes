@@ -1,0 +1,1 @@
+Masked stereolithography (MSLA) is a resin 3D printing process that cures an entire layer of liquid photopolymer at the exact same time using an LED array and a digital LCD mask
