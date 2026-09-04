@@ -184,8 +184,7 @@
               "title": "Solidworks"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -360,7 +359,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29662f1488c160bc",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
     "Solidworks.md",
     "Programmer.md",
