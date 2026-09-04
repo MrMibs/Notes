@@ -40,7 +40,7 @@ Litteraturliste skal være meningsfuld
 - Hvor længe tænker I, at vi skal benytte for at finde et optimalt design, før vi skal printe og teste membraner?
 	- Det er op til os selv har de sagt mange gange nu. Noget i størrelsesorden 25-100+.
 
-Soidworks til 3d modellering
+Solidworks til 3d modellering
 Fokuser på strukture der ligner noget man bruger andre steder (vindmølle etc.)
 Ikke tal for meget som spiral membraner
 Vi printer 4-5 strukture. Vi skal printe en struktur med midst mulig død område.
