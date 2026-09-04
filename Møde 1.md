@@ -16,17 +16,24 @@ Hvad er prisitne?
 **Projektformalia**
 
 - Skal metodeteori være med i selve rapporten, bilag eller ikke overhovedet? (CFD og mikrofiltrering)
-	- Ikke med
+	- Ikke med, maksimalt i bilag
 
 - Skal metodeovervejelser flettes sammen med metodeafsnittet til simulering og mikrofiltrering og metode til databehandling? Skal metodeovervejelser overhovedet med?
+	- Kort og præcist metodeafsnit, overvejelser skal være før og seperat
 
 - Skal resultater diskuteres løbende ifm. diskussion, eller vil I gerne have resultater og diskussion separat?
+	- Samlet
+
+Overskrifter skal fortælle alt
+Litteraturliste skal være meningsfuld
 
 **Projekt**
 
 - Når vi både har en simuleringsdel og en eksperimentel del, skal vi så både præsentere simulerede og eksperimentelle resultater, som vi så sammenligner til sidst, samt ift. eksisterende litteratur på området?
+	- Vi har tested xxx fået yyy resultater hvilket har gjort at zzz er vist som de bedste geometrier. Også sammenlign sidste resultater med simulering og litteratur.
 
 - Hvilke metoder skal vi bruge til at modellere/optimere på vores membran-spacere? Machine learning? Og så teste med CFD? (og derefter med print i praksis)
+	- Det fik vi i ppt, check geometrier i litteratur (det er der)
 
 - Relevant litteratur?
 
@@ -34,9 +41,11 @@ Hvad er prisitne?
 	- Teamviewer til fancy desktop hos Mathias
 
 - Hvor længe tænker I, at vi skal benytte for at finde et optimalt design, før vi skal printe og teste membraner?
+	- Det er op til os selv har de sagt
 
 Soidworks til 3d modellering
 Fokuser på strukture der ligner noget man bruger andre steder (vindmølle etc.)
+Ikke tal for meget som spiral membraner
 
 NYT spørgsmål:
 
