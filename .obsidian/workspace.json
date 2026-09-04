@@ -198,9 +198,54 @@
               "icon": "lucide-file",
               "title": "Articles"
             }
+          },
+          {
+            "id": "de4a34729536a51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MOCs/P5 MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "P5 MOC"
+            }
+          },
+          {
+            "id": "dd620d88392ab265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Programmer"
+            }
+          },
+          {
+            "id": "8ce517156495c1b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidworks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Solidworks"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -375,17 +420,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38203436d0530ef6",
+  "active": "8ce517156495c1b8",
   "lastOpenFiles": [
-    "Solidworks.md",
     "Programmer.md",
     "MOCs/P5 MOC.md",
+    "Notes/P5/Articles.md",
+    "Solidworks.md",
     "Møde 1.md",
     "Notes/Hydraulik/Lecture 1 - Væskers fysiske egenskaber og kræfter.md",
     "Trykkraft på plan flade (men trekant).md",
     "Vejledermøde.md",
     "Spacer.md",
-    "Notes/P5/Articles.md",
     "Links/P5/Triply Periodic Minimal Surface (TPMS).md",
     "Polymerization-induced phase separation - PIPS.md",
     "Notes/P5/Spiral-wound membrane.md",
