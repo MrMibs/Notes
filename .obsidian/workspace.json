@@ -154,8 +154,7 @@
               "title": "P5 MOC"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -330,12 +329,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53b7cde10dc8172d",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
+    "Møde 1.md",
     "MOCs/P5 MOC.md",
     "Notes/Hydraulik/Lecture 1 - Væskers fysiske egenskaber og kræfter.md",
     "Trykkraft på plan flade (men trekant).md",
-    "Møde 1.md",
     "Vejledermøde.md",
     "Spacer.md",
     "Notes/P5/Articles.md",
