@@ -3,3 +3,8 @@ Faget handler om at lave et experiment? Hvordan får man det man har til at gør
 
 Ligger sig meget op ad enhedsoperationer.
 
+![[Reaktor]]
+
+![[Reaktion]]
+
+Vi arbejder med ideele reaktore
