@@ -13,4 +13,9 @@ Fordi alle de små krafter fra P'er på fladen A lægges sammen, hvilket kan gø
 
 Note: Trykket i et punkt afhænger ikke af fladens orientering (da de ligesom skal give 0 for ikke at bevæge sig) set nedenunder. Kun for figure med vinkler under 90 grader?
 ![[Pasted image 20260902172551.png]]
+Tryk langs en glasrude lodret er fundet som
+$$\gamma \cdot z = p$$
+Hvor:
+- $\gamma$ er [[Specifik vægt, γ]]
+- z er dybde
 
