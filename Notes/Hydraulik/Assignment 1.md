@@ -14,3 +14,6 @@ Dermed kan vi regne til skildelinje og til bund todelt:
 
 Der opstår et rektangulært hul, beregn tryk. Det er 100 cm bredt, 75 cm højdt og 50 cm fra bunden. Først finder vi tryk ved top og bund som ovenstående:
 ![[Pasted image 20260907102758.png]]
+
+Dernæst skal vi finde kraft på ruden, hvilket findes som:
+$$F = \int_A P \ dA$$
