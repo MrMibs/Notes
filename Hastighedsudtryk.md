@@ -1,3 +1,4 @@
+#RPM
 Om dem ved vi:
 - Beskriver hvor hurtigt reaktioner forbruger / producere hhv. reaktanter og produkter
 - Et hastighedsudtryk for hvert led i balanceligningen
@@ -7,6 +8,7 @@ Eksempel:
 Ændring i mængde i reaktor pr. tid (hastighed)  =
 flow ind – flow ud + (totale produktions-hastighed – totale forbrugs-hastighed).
 
-![[Universel proces ligning]]
+![[Universel proces ligning(er)]]
 
-
+Reaktionshastighed som vi kender det:
+![[Pasted image 20260907133955.png]]

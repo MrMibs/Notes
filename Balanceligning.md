@@ -1,3 +1,4 @@
+#RPM
 Balanceligning
 - En ligning for hvert variabel
 - Samme altal led som antal reaktioner variabel indgår i
