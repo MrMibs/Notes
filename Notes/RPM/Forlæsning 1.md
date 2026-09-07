@@ -7,4 +7,6 @@ Ligger sig meget op ad enhedsoperationer.
 
 ![[Reaktion]]
 
-Vi arbejder med ideele reaktore
+![[Modeller]]
+
+
