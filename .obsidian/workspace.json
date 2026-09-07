@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forlæsning 1.md",
+                "file": "Notes/RPM/Forlæsning 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -224,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,8 +240,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f07cc9a60652eca2",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
+    "Attachments/RPM",
+    "Links/RPM",
+    "Notes/RPM",
     "Pasted image 20260907104452.png",
     "Pasted image 20260907102758.png",
     "Notes/Hydraulik/Assignment 1.md",
@@ -254,7 +258,7 @@
     "Links/P5/Evaluation of Novel Design of Feed Spacer for Spiral-Wound Membranes Through CFD Simulations and Experiments.md",
     "Links/Hydraulik/Trykkraft på plan flade (men trekant).md",
     "MOCs/RPM MOC.md",
-    "Forlæsning 1.md",
+    "Notes/RPM/Forlæsning 1.md",
     "Notes/P5/Articles.md",
     "MOCs/P5 MOC.md",
     "Designs.md",
@@ -278,14 +282,11 @@
     "Attachments/P5/Pasted image 20260903111239.png",
     "Attachments/P5/Pasted image 20260903111209.png",
     "Attachments/P5/Pasted image 20260903111110.png",
-    "Attachments/P5/Pasted image 20260903110913.png",
     "Attachments/P5",
     "Links/Hydraulik",
     "Notes/Hydraulik",
     "Attachments/Hydraulik",
     "Attachments/Inorganic/Slides inorganic.pdf",
-    "Notes/Inorganic",
-    "Links/Inorganic",
-    "Excalidraw"
+    "Notes/Inorganic"
   ]
 }
