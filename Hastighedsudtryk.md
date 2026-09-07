@@ -12,3 +12,8 @@ flow ind – flow ud + (totale produktions-hastighed – totale forbrugs-hastigh
 
 Reaktionshastighed som vi kender det:
 ![[Pasted image 20260907133955.png]]
+Hastighedskonstanten, k er uafhængig af reaktanternes koncentrationer, k afhænger af temperatur, pH, reaktionsmedie m.v.
+
+
+Reaktionshastigheden, -r bliver afhængig af reaktanternes koncentration og de fysiske forhold. Altså det er det -r er.
+
