@@ -6,4 +6,11 @@ What would happen if fresh and saltwater were inverted -> Instability
 How is pressure distributed?
 
 Tryk er fundet som: ![[Specifik vægt, γ]]
-[[Tryk, P (hvilket er det samme som F)]]
+Og derefter, jf. [[Hydrostatisk trykfordeling]]:
+$$\gamma \cdot z$$
+Hvor:
+- z er højde
+
+Dermed kan vi regne til skildelinje og til bund todelt:
+![[Pasted image 20260907102320.png]]
+

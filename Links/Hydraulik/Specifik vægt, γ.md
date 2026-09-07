@@ -1,2 +1,2 @@
 #hydraulik 
-$$\rho \cdot g$$
+$$\gamma = \rho \cdot g$$
