@@ -1,6 +1,6 @@
 #hydraulik 
 ![[Pasted image 20260908143354.png]]
-[[Hastighedsfelt]]et kan beskrives som flg: (det er kun afhængit af højde og hastighed)
+[[Hastighedsfelt]]et kan beskrives som flg: (det er kun afhængigt af højde og hastighed)
 $$
 \vec{v}=(v_{1}(x_{2},0,0))
 $$
@@ -24,7 +24,20 @@ Altså samme som før men med forskellen i kræft skrevet ind. Sidst er der tyng
 $$
 G=m\cdot g=\rho\cdot V\cdot g=\rho\cdot \Delta x_{1} \Delta x_{2} \Delta x_{3} \cdot g
 $$
-Dermed kan dette sammensættes for et stilstående objekt (Pu går ud med $P_{u}$)
+Dermed kan dette sammensættes for et stilstående objekt ($P_{u}$ går ud med $P_{u}$)
 $$
-\Delta p\Delta x_{1}\Delta x_{3}\cdot\cos(\beta)\cdot\rho\cdot \Delta x_{1} \Delta x_{2} \Delta x_{3} \cdot g=0
+-\Delta p\Delta x_{1}\Delta x_{3} -\cos(\beta)\cdot\rho\cdot \Delta x_{1} \Delta x_{2} \Delta x_{3} \cdot g=0
 $$
+Dette kan omskrives med noget af det fra før, hvor vi ved:
+$$
+\frac{ \partial p }{ \partial x_{2} } =-\gamma \cos \beta
+$$
+Hvor:
+- $\gamma$ er [[Specifik tyngde γ]]
+
+Hvis vi nu gætter på en løsning (sådan løses partielle differentialligninger) udledes følgende (forvirrende, s. 28, samme video)
+$$
+p=p_{ø}(x_{1})+\gamma \cos \beta\cdot(D-x_{2})
+$$
+Hvor D er afstanden til toppen og $x_{2}$ er højde fra bunden. Dette kan også bare kaldes S.
+![[Pasted image 20260908150218.png]]

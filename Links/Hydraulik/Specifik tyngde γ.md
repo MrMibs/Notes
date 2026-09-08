@@ -1,4 +1,5 @@
 #hydraulik 
+Modificeret densitet hvor vi regner i Newton pr V i stedet for masse.
 $$\gamma = g \cdot \rho$$
 Hvor:
 - γ er specifik tyngde
