@@ -1,5 +1,5 @@
 $$
-\tau=\mu 
+\tau=\mu \cdot \frac{du}{dy}
 $$
 Hvor:
 - τ = [[Forskydningsspænding τ]] $Pa$
