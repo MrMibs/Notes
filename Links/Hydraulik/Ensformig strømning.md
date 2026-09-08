@@ -1,2 +1,2 @@
 #hydraulik 
-Ensartet strømning
+Ensartet strømning, parallelt

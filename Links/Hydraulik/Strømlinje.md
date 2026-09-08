@@ -1,3 +1,3 @@
 #hydraulik 
-Væskens bevægelseslinjer har samme tangent (følger hinanden i [[Hastighedsfelt]]et)
+Væskens bevægelseslinjer (paralelle i dette tilfælde) ([[Hastighedsfelt]] er den udvidede version der beskriver alle hastigheder)
 ![[Pasted image 20260908083103.png]]
