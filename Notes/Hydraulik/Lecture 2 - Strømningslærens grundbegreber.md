@@ -12,3 +12,5 @@
 ### Kapitel 5
 ![[Newtons formel]]
 
+[[Tryk i strømmende væsker]]
+

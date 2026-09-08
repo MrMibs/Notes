@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
+                "file": "Tryk i strømmende væsker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - Strømningslærens grundbegreber"
+              "title": "Tryk i strømmende væsker"
             }
           }
         ],
@@ -227,10 +227,12 @@
   },
   "active": "99b01cc0afb9612f",
   "lastOpenFiles": [
+    "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
+    "Tryk i strømmende væsker.md",
+    "Pasted image 20260908135615.png",
     "Links/Hydraulik/Newtons formel.md",
     "Links/Hydraulik/Forskydningsspænding τ.md",
     "Pasted image 20260908134906.png",
-    "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
     "Kontraktion af strømning.md",
     "Pasted image 20260908134422.png",
     "Pasted image 20260908134352.png",
@@ -257,14 +259,12 @@
     "Links/RPM/Reaktion.md",
     "Attachments/RPM/Pasted image 20260907102758.png",
     "Attachments/RPM/Pasted image 20260907131817.png",
-    "Attachments/RPM/Pasted image 20260907134717.png",
     "Attachments/RPM",
     "Links/RPM/Reaktor.md",
     "Links/RPM/Designligning.md",
     "Links/RPM/Batch reaktor.md",
     "Notes/Hydraulik/Assignment 1.md",
     "Links/RPM/Transportligninger.md",
-    "Notes/RPM/Forlæsning 1.md",
     "Notes/RPM",
     "Links/P5",
     "Notes/P5",
