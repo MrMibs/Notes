@@ -8,5 +8,7 @@
 [[Ensformig strømning]]
 [[Laminær strømning]]
 [[Turbulent strømning]]
-
+[[Kontraktion af strømning]]
 ### Kapitel 5
+![[Newtons formel]]
+

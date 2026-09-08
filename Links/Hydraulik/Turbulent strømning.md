@@ -2,7 +2,7 @@
 Urolig strømning, defineres af et højt Reynolds' tal, hvilket betyder Inertien dominerer og Forstyrrelser kan vokse, modsat lavt Reynolds' tal hvor Viskositeten dominerer og forstyrrelser dæmpes. Dette beregnes som:
 ![[Reynolds tal, Re]]
 
-$\nu$ er på størrelsesorden $1 \cdot 10^{-6}$
+$\nu$ er på størrelsesorden $1 \cdot 10^{-6}$ så strømning er næsten altid turbulent
 
 
 ![[Pasted image 20260908133235.png]]
