@@ -115,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newtons formel.md",
+                "file": "Links/Hydraulik/Newtons formel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -124,8 +124,7 @@
               "title": "Newtons formel"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,8 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,10 +299,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6404a604102d439a",
+  "active": "f07cc9a60652eca2",
   "lastOpenFiles": [
+    "Links/Hydraulik/Newtons formel.md",
     "Links/Hydraulik/Forskydningsspænding τ.md",
-    "Newtons formel.md",
     "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
     "Links/Hydraulik/Ensformig strømning.md",
     "Links/Hydraulik/Reynolds tal, Re.md",
