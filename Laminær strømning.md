@@ -1,0 +1,1 @@
+Ordnet / ublandet strømning.

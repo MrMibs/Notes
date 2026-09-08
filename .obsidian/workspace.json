@@ -50,6 +50,81 @@
             }
           },
           {
+            "id": "cadc7ff65975adee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Turbulent strømning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Turbulent strømning"
+            }
+          },
+          {
+            "id": "b708323628c6e506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laminær strømning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Laminær strømning"
+            }
+          },
+          {
+            "id": "4b768b45e6308cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ensformig strømning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ensformig strømning"
+            }
+          },
+          {
+            "id": "d90986411dab4880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan strømning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Plan strømning"
+            }
+          },
+          {
+            "id": "71d52261d361d989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stationær strømning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Stationær strømning"
+            }
+          },
+          {
             "id": "bee2ed766d552cd5",
             "type": "leaf",
             "state": {
@@ -240,12 +315,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bee2ed766d552cd5",
+  "active": "cadc7ff65975adee",
   "lastOpenFiles": [
-    "Strømlinje.md",
-    "Hastighedsfelt.md",
-    "Pasted image 20260908083103.png",
+    "Turbulent strømning.md",
     "Lecture 2 - Strømningslærens grundbegreber.md",
+    "Laminær strømning.md",
+    "Ensformig strømning.md",
+    "Plan strømning.md",
+    "Stationær strømning.md",
+    "Hastighedsfelt.md",
+    "Strømlinje.md",
+    "Pasted image 20260908083103.png",
     "Notes/Hydraulik/Lecture 1 - Væskers fysiske egenskaber og kræfter.md",
     "MOCs/RPM MOC.md",
     "MOCs/Hydraulik MOC.md",
@@ -273,11 +353,6 @@
     "Attachments/RPM/Pasted image 20260907132321.png",
     "Attachments/RPM/Pasted image 20260907131932.png",
     "Modeller.md",
-    "Universel proces ligning(er).md",
-    "Balanceligning.md",
-    "Transportligninger.md",
-    "Reaktor.md",
-    "Kontinuert reaktor.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
