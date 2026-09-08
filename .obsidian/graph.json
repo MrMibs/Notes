@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#RPM",
+  "search": "#Hydraulik",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 99,
   "scale": 0.8949543370739885,
-  "close": false
+  "close": true
 }
