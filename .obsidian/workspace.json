@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,13 +225,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623d9685add00402",
+  "active": "0eff01df0fe51cae",
   "lastOpenFiles": [
+    "Links/RPM/Balanceligning.md",
     "Links/RPM/Universel proces ligning(er).md",
     "Links/RPM",
     "Links/RPM/Modeller.md",
     "Links/RPM/Reaktion.md",
-    "Links/RPM/Balanceligning.md",
     "Attachments/RPM/Pasted image 20260907102758.png",
     "Attachments/RPM/Pasted image 20260907131817.png",
     "Attachments/RPM/Pasted image 20260907134717.png",
