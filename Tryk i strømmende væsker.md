@@ -15,7 +15,9 @@ $$
 $$
 Væske terningerne rotere ikke så forskydningsspændingerne balanceres:
 ![[Pasted image 20260908140512.png]]
+Matematisk
+$$
+\tau=\mu\cdot \left(\frac{ \partial v_{1} }{ \partial x_{2} }+\frac{ \partial v_{2} }{ \partial x_{1} }   \right) 
+$$
 
-$$
-\tau=\mu\cdot \left(  \right) 
-$$
+

@@ -25,32 +25,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Hydraulik/Newtons formel.md",
+                "file": "Trykfordeling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Newtons formel"
-            }
-          },
-          {
-            "id": "99b01cc0afb9612f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tryk i strømmende væsker.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Tryk i strømmende væsker"
+              "title": "Trykfordeling"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,14 +210,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99b01cc0afb9612f",
+  "active": "96ae192ea902b72e",
   "lastOpenFiles": [
-    "Pasted image 20260908140512.png",
     "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
-    "Tryk i strømmende væsker.md",
-    "Pasted image 20260908135615.png",
+    "Trykfordeling.md",
     "Links/Hydraulik/Newtons formel.md",
     "Links/Hydraulik/Forskydningsspænding τ.md",
+    "Tryk i strømmende væsker.md",
+    "Pasted image 20260908140512.png",
+    "Pasted image 20260908135615.png",
     "Pasted image 20260908134906.png",
     "Kontraktion af strømning.md",
     "Pasted image 20260908134422.png",
@@ -259,7 +245,6 @@
     "Links/RPM",
     "Links/RPM/Reaktion.md",
     "Attachments/RPM/Pasted image 20260907102758.png",
-    "Attachments/RPM/Pasted image 20260907131817.png",
     "Attachments/RPM",
     "Links/RPM/Reaktor.md",
     "Links/RPM/Designligning.md",

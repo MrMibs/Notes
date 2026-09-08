@@ -12,5 +12,6 @@
 ### Kapitel 5
 ![[Newtons formel]]
 
-[[Tryk i strømmende væsker]]
+![[Tryk i strømmende væsker]]
 
+![[Trykfordeling]]
