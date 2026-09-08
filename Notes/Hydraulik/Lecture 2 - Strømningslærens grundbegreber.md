@@ -15,3 +15,8 @@
 ![[Tryk i strømmende væsker]]
 
 ![[Trykfordeling]]
+
+![[Forskydningsspændingsfordeling]]
+
+### Kapitel 6
+![[Kontinuitetsligningen]]

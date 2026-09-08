@@ -41,3 +41,7 @@ p=p_{ø}(x_{1})+\gamma \cos \beta\cdot(D-x_{2})
 $$
 Hvor D er afstanden til toppen og $x_{2}$ er højde fra bunden. Dette kan også bare kaldes S.
 ![[Pasted image 20260908150218.png]]
+I alle afstande på en given 1-retning værdi er der dermed en tilsvarende konstant højde for noget med en given [[Specifik tyngde γ]].
+
+**Vigtigt er det at $p_{ø}$ er udtryk for tryktabet fra vandværket ud til udenfor i e.g. en haveslange hvor det ikke længere er under tryk**
+
