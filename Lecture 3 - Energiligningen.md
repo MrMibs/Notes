@@ -14,4 +14,9 @@ Vi observere væsken bevæger sig $\Delta A$ afstand på $\Delta t$ tid (stiplet
 $$
 \tau =0, \, v \neq 0 \, \text{for luft} \quad \text{og} \quad \tau \neq 0, \, v = 0 \, \text{for bund}
 $$
+Vi har 3 ydre kræfter: tryk, forskydning og tyngde. De beskrives enkeltvis som:
+$$
+A_{p}=\int_{A}\,p_{A}\,\text{dA} \; v_{A}\Delta t-\int_{B}\,p_{B}\,\text{dB} \;v_{B}\Delta t
+$$
+Dette er tryk, hvis vi deler det op kan vi se den klassiske $\int_{A}p_{A}\text{dA}$ altså tryk på en flade. Dette bliver ganget med en afstand $\frac{m}{s}\cdot s=m$. Forskellen på A og B er dermed arbejdet udført.
 
