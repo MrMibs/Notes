@@ -18,4 +18,4 @@ $$
 $$
 Her er alt på venstre side forbundet med snit a, og alt på højre side forbundet med snit b + tabet mellem A og B ($\Delta H_{AB}$). Alle størrelser er også højder.
 
-## Se Energiligningen II Ca. 10 min inde for eksempler
+## Se Energiligningen II Ca. 10 min inde for eksempler, vigtigt når jeg læser op en gang.
