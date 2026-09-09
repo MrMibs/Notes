@@ -20,3 +20,11 @@ A_{p}=\int_{A}\,p_{A}\,\text{dA} \; v_{A}\Delta t-\int_{B}\,p_{B}\,\text{dB} \;v
 $$
 Dette er tryk, hvis vi deler det op kan vi se den klassiske $\int_{A}p_{A}\text{dA}$ altså tryk på en flade. Dette bliver ganget med en afstand $\frac{m}{s}\cdot s=m$. Forskellen på A og B er dermed arbejdet udført.
 
+Næst har vi forskydning, dog er denne kraft vinkelret på strømningen så i strømningsretningen kan vi se bort fra denne.
+
+Sidst har vi tyngdekraften:
+$$
+A_{G}=\sum-mg(z(\Delta t)-z(0))=\sum mg \, z(0)-\sum mg \, z(\Delta t)
+$$
+Hvis vi forstiller os det hele består af små elementer der hver har massen m, så ved vi kraften er $\sum m\cdot g$. Derudover har tyngdekraften også et $z(\Delta t)-z(0)$ element, hvilket bare beskriver ændringen i højden. Af definitionsmæssige årsager betyder det at vi siger z er opad og tyngdekraften er nedad (dermed -mg).
+
