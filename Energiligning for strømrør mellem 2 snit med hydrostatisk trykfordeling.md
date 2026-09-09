@@ -16,4 +16,6 @@ Det er brugbart hvis du skal bruge en pumpe med en effekt afhængende af modstan
 $$
 (z+\frac{p}{\gamma})_{A}+\frac{\alpha_{A}V_{A}^{2}}{2g}=(z+\frac{p}{\gamma})_{B}+\frac{\alpha_{B}V_{B}^{2}}{2g}+\Delta H_{AB}
 $$
-Her er alt på venstre side forbundet med snit a, og alt på højre side forbundet med snit b + tabet mellem A og B ($\Delta H_{AB}$).
+Her er alt på venstre side forbundet med snit a, og alt på højre side forbundet med snit b + tabet mellem A og B ($\Delta H_{AB}$). Alle størrelser er også højder.
+
+## Se Energiligningen II Ca. 10 min inde for eksempler

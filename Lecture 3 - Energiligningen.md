@@ -1,3 +1,12 @@
+----
+TIL FREMTIDIG MIG, DEN "RIGTIGE" LIGNING ER:
+$$
+(z+\frac{p}{\gamma})_{A}+\frac{\alpha_{A}V_{A}^{2}}{2g}=(z+\frac{p}{\gamma})_{B}+\frac{\alpha_{B}V_{B}^{2}}{2g}+\Delta H_{AB}
+$$
+OG STÅR INDE PÅ [[Energiligning for strømrør mellem 2 snit med hydrostatisk trykfordeling]]
+
+---
+
 Vi har et strømrør med en fast bund og fri overflade:
 ![[Pasted image 20260909092538.png]]
 Vi ender med at kunne sige energien i $E_{a}-E_{tab}=E_{b}$. Tilbage til udledningen
@@ -76,4 +85,4 @@ $$
 $$
 Det er dog ikke mega simpelt, men vi har specialtilfælde versioner der er mere overskuelige.
 
-[[Energiligning for strømrør mellem 2 snit med hydrostatisk trykfordeling]]
+![[Energiligning for strømrør mellem 2 snit med hydrostatisk trykfordeling]]
