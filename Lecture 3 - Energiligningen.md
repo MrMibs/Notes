@@ -35,6 +35,11 @@ $$
 $$
 
 $$
-=\int_{A}(pv)
+=\int_{A}(pv_{A}\Delta t\text{dA})gz_{A}-\int_{B}(pv_{B}\Delta t\text{dB})gz_{B}
 $$
-
+Altså igen $\frac{m}{s}\cdot s=m$ så afstand gange med en kraft på en overflade $\frac{N}{m^{2}}\cdot m^{2}=N$. Dermed får vi enheden $N\cdot m = J$. Dette kan endnu omskrives da vi har fælles udtryk.
+$$
+=\Delta t\left[ \int_{A}\gamma z_{A}v_{A}\text{dA}-\int_{B}\gamma z_{B}v_{B}\text{dB}\right]
+$$
+Hvor:
+- [[Specifik vægt, γ]]
