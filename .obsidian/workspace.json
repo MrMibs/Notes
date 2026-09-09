@@ -33,9 +33,24 @@
               "icon": "lucide-file",
               "title": "Kontinuitetsligningen"
             }
+          },
+          {
+            "id": "cf1dabf75b1146cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/P5/Møde 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Møde 1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,11 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96ae192ea902b72e",
+  "active": "cf1dabf75b1146cf",
   "lastOpenFiles": [
+    "Kontinuitetsligningen.md",
     "Pasted image 20260908152928.png",
     "Vandføring, Q.md",
-    "Kontinuitetsligningen.md",
     "Pasted image 20260908151431.png",
     "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
     "Trykfordeling.md",
@@ -234,7 +249,6 @@
     "Pasted image 20260908134422.png",
     "Pasted image 20260908134352.png",
     "Links/Hydraulik/Turbulent strømning.md",
-    "Pasted image 20260908133650.png",
     "Links/Hydraulik/Stationær strømning.md",
     "Links/Hydraulik/Laminær strømning.md",
     "Links/Hydraulik/Ensformig strømning.md",
