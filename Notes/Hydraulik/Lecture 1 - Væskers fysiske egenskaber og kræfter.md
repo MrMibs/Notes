@@ -34,3 +34,4 @@ du får M
 Beregn F (m g / V)
 
 [[Assignment 1]]
+[[Hydraulisk højde, H]]

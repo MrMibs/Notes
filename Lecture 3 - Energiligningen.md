@@ -55,6 +55,17 @@ $$
 $$
 Nu er vi et godt sted! Vi kender Ekin og Aydre. Sammensat får vi dermed:
 $$
-\Delta E_{varme}=\Delta t \left[ \int_{A}\left( \gamma Z_{A}+p_{A}+\frac{1}{2}pv_{A}^{2} \right)v_{A} \;\text{dA} - \int_{B}\left( \gamma Z_{B}+p_{B}+\frac{1}{2}pv_{B}^{2} \right)v_{B} \;\text{dB} \right]
+\Delta E_{varme}=\Delta t \left[ \int_{A}\left( \gamma z_{A}+p_{A}+\frac{1}{2}pv_{A}^{2} \right)v_{A} \;\text{dA} - \int_{B}\left( \gamma z_{B}+p_{B}+\frac{1}{2}pv_{B}^{2} \right)v_{B} \;\text{dB} \right]
 $$
-Fordi det er et træls udtryk vil vi gerne have et andet i stedet, $W_{vame}$, altså mekanisk energi der omdannes til varme: $\frac{J}{s}=W$.
+Fordi det er et træls udtryk vil vi gerne have et andet i stedet, $W_{vame}$, altså mekanisk energi der omdannes til varme pr tid: $\frac{J}{s}=W$. Dette betyder vi kan omskrive vores udtryk:
+$$
+\Delta E_{varme}=W_{varme}\cdot \Delta t
+$$
+Og dermed
+$$
+W_{varme}=\int_{A}\left( \gamma z_{A}+p_{A}+\frac{1}{2}pv_{A}^{2} \right)v_{A} \;\text{dA} - \int_{B}\left( \gamma z_{B}+p_{B}+\frac{1}{2}pv_{B}^{2} \right)v_{B} \;\text{dB}
+$$
+Del med gamma
+$$
+\frac{W_{varme}}{\gamma} = \int_{A} (z_{A} + \frac{p_{A}}{\gamma})v_{A} dA + \int_{A} \frac{v_{A}^{3}}{2g} dA- \int_{B} (z_{B} + \frac{p_{B}}{\gamma})v_{B} dB - \int_{B} \frac{v_{B}^{3}}{2g} dB
+$$
