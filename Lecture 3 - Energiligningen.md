@@ -74,3 +74,6 @@ Benyttes dette fås det endelige udtryk:
 $$
 \frac{W_{varme}}{\gamma} = \int_{A} (z_{A} + \frac{p_{A}}{\gamma})v_{A} dA + \frac{\alpha_{A}V_{A}^{3}A}{2g}- \int_{B} (z_{B} + \frac{p_{B}}{\gamma})v_{B} dB - \frac{\alpha_{B}V_{B}^{3}B}{2g}
 $$
+Det er dog ikke mega simpelt, men vi har specialtilfælde versioner der er mere overskuelige.
+
+[[Energiligning for strømrør mellem 2 snit med hydrostatisk trykfordeling]]
