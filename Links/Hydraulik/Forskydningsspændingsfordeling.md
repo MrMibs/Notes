@@ -3,7 +3,7 @@ $$
 \tau=\gamma \sin \beta\cdot s
 $$
 Hvor:
-- [[Specifik tyngde γ]]
+- [[Specifik tyngde, γ]]
 - $\beta$ er vinkel på tyngdekraft
 - s afstand fra øvre
 

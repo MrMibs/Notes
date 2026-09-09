@@ -10,7 +10,7 @@ Dermed, da vi kun ændre arealerne:
 $$p_{atm} \cdot \Delta A - \Delta A \cdot y \rho g + p \cdot \Delta A = 0$$
 Se:
 - Noget til del 1
-- [[Specifik vægt, γ]] + tyngdekraft til del 2
+- [[Specifik tyngde, γ]] + tyngdekraft til del 2
 - Noget sidste til del 3
 
 
@@ -21,7 +21,7 @@ $$p=y\cdot \gamma$$
 udskrevet
 $$p = g \rho y$$
 Hvor:
-- $\gamma$ er [[Specifik vægt, γ]]
+- $\gamma$ er [[Specifik tyngde, γ]]
 - y er højde
 
 Når udgangsniveau er under beholder:

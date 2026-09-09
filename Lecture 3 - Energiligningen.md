@@ -42,4 +42,14 @@ $$
 =\Delta t\left[ \int_{A}\gamma z_{A}v_{A}\text{dA}-\int_{B}\gamma z_{B}v_{B}\text{dB}\right]
 $$
 Hvor:
-- [[Specifik vægt, γ]]
+- [[Specifik tyngde, γ]]
+- z er højde fra referenceplan
+- v er hastighed
+
+Ekin definition er $\frac{1}{2}\cdot m\cdot v^{2}$. Igen kun område 1 og 3 er vigtige, dette omskrives med energiligning.
+$$
+\Delta E_{kin}=E_{kin,III}-E_{kin,I}
+$$
+$$
+=\int_{B}\frac{1}{2}(pv_{B}\Delta t\text{dB})v_{B}^{2}-\int_{A}\frac{1}{2}(pv_{A}\Delta t\text{dA})v_{A}^{2}
+$$

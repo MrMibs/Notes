@@ -16,6 +16,6 @@ Note: Trykket i et punkt afhænger ikke af fladens orientering (da de ligesom sk
 Tryk langs en glasrude lodret er fundet som
 $$\gamma \cdot z = p$$
 Hvor:
-- $\gamma$ er [[Specifik vægt, γ]]
+- $\gamma$ er [[Specifik tyngde, γ]]
 - z er dybde
 

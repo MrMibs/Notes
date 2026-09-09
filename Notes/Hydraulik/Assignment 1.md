@@ -3,7 +3,7 @@
 2) Hvad vil ske hvis fersk- og saltvand var byttet? Ustabilitet.![[Pasted image 20260907101041.png]]
 
 3) Hvordan er trykket fordelt?
-Tryk er fundet som: ![[Specifik vægt, γ]]
+Tryk er fundet som: ![[Specifik tyngde, γ]]
 Og derefter, jf. [[Hydrostatisk trykfordeling]]:
 $$\gamma \cdot z$$
 Hvor:
