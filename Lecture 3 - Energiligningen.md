@@ -69,4 +69,8 @@ Del med gamma
 $$
 \frac{W_{varme}}{\gamma} = \int_{A} (z_{A} + \frac{p_{A}}{\gamma})v_{A} dA + \int_{A} \frac{v_{A}^{3}}{2g} dA- \int_{B} (z_{B} + \frac{p_{B}}{\gamma})v_{B} dB - \int_{B} \frac{v_{B}^{3}}{2g} dB
 $$
-Her kan [[Hydraulisk højde, H]] genkendes fra ledet efter integral 1 og 3. Derudover hader vi integral 2 og 4 så vi vil afskaffe dem. Det gør vi ved brug af ![[Hastighedsfordelingskoefficient - α]].
+Her kan [[Hydraulisk højde, H]] genkendes fra ledet efter integral 1 og 3. Derudover hader vi integral 2 og 4 så vi vil afskaffe dem. Det gør vi ved brug af ![[Hastighedsfordelingskoefficient - α]]
+Benyttes dette fås det endelige udtryk:
+$$
+\frac{W_{varme}}{\gamma} = \int_{A} (z_{A} + \frac{p_{A}}{\gamma})v_{A} dA + \frac{\alpha_{A}V_{A}^{3}A}{2g}- \int_{B} (z_{B} + \frac{p_{B}}{\gamma})v_{B} dB - \frac{\alpha_{B}V_{B}^{3}B}{2g}
+$$
