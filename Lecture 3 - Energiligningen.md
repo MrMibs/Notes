@@ -53,3 +53,8 @@ $$
 $$
 =\int_{B}\frac{1}{2}(pv_{B}\Delta t\text{dB})v_{B}^{2}-\int_{A}\frac{1}{2}(pv_{A}\Delta t\text{dA})v_{A}^{2}
 $$
+Nu er vi et godt sted! Vi kender Ekin og Aydre. Sammensat får vi dermed:
+$$
+\Delta E_{varme}=\Delta t \left[ \int_{A}\left( \gamma Z_{A}+p_{A}+\frac{1}{2}pv_{A}^{2} \right)v_{A} \;\text{dA} - \int_{B}\left( \gamma Z_{B}+p_{B}+\frac{1}{2}pv_{B}^{2} \right)v_{B} \;\text{dB} \right]
+$$
+Fordi det er et træls udtryk vil vi gerne have et andet i stedet, $W_{vame}$, altså mekanisk energi der omdannes til varme: $\frac{J}{s}=W$.
