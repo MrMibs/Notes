@@ -28,3 +28,13 @@ A_{G}=\sum-mg(z(\Delta t)-z(0))=\sum mg \, z(0)-\sum mg \, z(\Delta t)
 $$
 Hvis vi forstiller os det hele består af små elementer der hver har massen m, så ved vi kraften er $\sum m\cdot g$. Derudover har tyngdekraften også et $z(\Delta t)-z(0)$ element, hvilket bare beskriver ændringen i højden. Af definitionsmæssige årsager betyder det at vi siger z er opad og tyngdekraften er nedad (dermed -mg).
 
+Dernæst indser vi at det der er forskudt i A og B er det samme, hvilket betyder der ikke er en ændring imellem dem (da væskeforskydelsen fra A -> A' er det samme som fra B -> B' og dette sker bare igennem A' -> B, ligesom strøm). Dette betyder vi kan omskrive $A_{g}$:
+
+$$
+\sum mg \, z_{A}-\sum mg \, z_{B}
+$$
+
+$$
+=\int_{A}(pv)
+$$
+
