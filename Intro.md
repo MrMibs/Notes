@@ -10,6 +10,7 @@ pressure outlet
 
 Boundry conditions er inlet velocity (det variere, vi får en artikel) of static pressure (1atm)
 
+Flow trajectories ser seje ud
 
 Man kan variere:
 Mønstre
