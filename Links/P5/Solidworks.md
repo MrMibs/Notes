@@ -52,3 +52,5 @@ o   [https://www.sciencedirect.com/science/article/pii/S2214714426003417](http
 **How to slice 3D models**
 -          [https://www.chitubox.com/en/download/chitubox-free](https://www.chitubox.com/en/download/chitubox-free)
 -          [https://www.youtube.com/watch?v=6pXpjulVSIo](https://www.youtube.com/watch?v=6pXpjulVSIo)
+
+[[Intro]]

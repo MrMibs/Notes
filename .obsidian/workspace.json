@@ -123,8 +123,84 @@
               "icon": "lucide-file",
               "title": "Newtons formel"
             }
+          },
+          {
+            "id": "7ae2dae305ac8649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/P5/Solidworks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Solidworks"
+            }
+          },
+          {
+            "id": "8ab0f6f1b9da63e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "b2a405ff0f53d4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/P5/Solidworks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Solidworks"
+            }
+          },
+          {
+            "id": "5293816c0eb92b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/RPM/Designs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Designs"
+            }
+          },
+          {
+            "id": "6a412bfce3ce444e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -284,7 +360,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,8 +376,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f07cc9a60652eca2",
+  "active": "6a412bfce3ce444e",
   "lastOpenFiles": [
+    "Links/RPM/Designs.md",
+    "Links/P5/Solidworks.md",
+    "Intro.md",
     "Pasted image 20260909092538.png",
     "Links/Hydraulik/Vandføring, Q.md",
     "Links/Hydraulik/Trykfordeling.md",
@@ -324,7 +404,6 @@
     "Attachments/Hydraulik/Pasted image 20260908135615.png",
     "Attachments/Hydraulik/Pasted image 20260908134906.png",
     "Attachments/Hydraulik/Pasted image 20260908134422.png",
-    "Attachments/Hydraulik/Pasted image 20260908134352.png",
     "Links/Hydraulik/Newtons formel.md",
     "Links/Hydraulik/Forskydningsspænding τ.md",
     "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
@@ -335,8 +414,6 @@
     "MOCs/RPM MOC.md",
     "Links/Hydraulik/Turbulent strømning.md",
     "Links/Hydraulik/Hastighedsfelt.md",
-    "Links/Hydraulik/Stationær strømning.md",
-    "Links/Hydraulik/Plan strømning.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
