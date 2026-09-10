@@ -35,7 +35,7 @@ Gratis licens
 ---
 
 Lab
-Et par uger inden vi skal det så han kan sætte det op (10-9-2026)
+Et par uger inden vi skal det så han kan sætte det op (10-9-2026). En uge fra at gå i lab.
 
 ---
 
