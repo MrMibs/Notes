@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,11 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d60be02aed1def3e",
+  "active": "049bb3f3e14dede4",
   "lastOpenFiles": [
-    "Links/RPM/Designs.md",
     "Intro.md",
     "Links/P5/Møde 1.md",
+    "Links/RPM/Designs.md",
     "Links/Hydraulik/Karakteristisk hastighed, Vc.md",
     "Links/Hydraulik/Karakteristisk længde, Lc.md",
     "Links/Hydraulik/Reynolds tal, Re.md",

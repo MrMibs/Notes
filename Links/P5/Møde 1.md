@@ -46,6 +46,9 @@ Fokuser på strukture der ligner noget man bruger andre steder (vindmølle etc.)
 Ikke tal for meget som spiral membraner
 Vi printer 4-5 strukture. Vi skal printe en struktur med midst mulig død område.
 
+Problemformulering skal IKKE have et afsnit.
+
+
 NYT spørgsmål:
 
 - Når vi citerer, fx XXX har fundet YYY og dette står i en anden kilde ikke forfattet af XXX, skal vi så både citere kilden vi har fundet postulatet i samt den oprindelig kilde, hvor de eksperimentelt (eller simuleringsmæssigt) har fundet fra til YYY? Eller er det nok blot at citere kilden, der omtaler hvad, der er blevet fundet frem til i tidligere litteratur?
