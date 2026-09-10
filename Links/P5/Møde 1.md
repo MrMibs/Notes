@@ -9,12 +9,12 @@ Hvad er prisitne?
 	- Kontor er åbent
 
 - Hvordan tænker I gennemlæsning af projekt skal fungere? Løbende (helst) eller samlet til sidst?
-	- Løbende
+	- Løbende. Mathias er MEGET large med det, han var villig til at læse 2 gange! O_O
 
 **Projektformalia**
 
 - Skal metodeteori være med i selve rapporten, bilag eller ikke overhovedet? (CFD og mikrofiltrering)
-	- Ikke med, maksimalt i bilag
+	- Ikke med, maksimalt i bilag. Som udgangspunkt "til os selv ting" skal i bilag.
 
 - Skal metodeovervejelser flettes sammen med metodeafsnittet til simulering og mikrofiltrering og metode til databehandling? Skal metodeovervejelser overhovedet med?
 	- Kort og præcist metodeafsnit, overvejelser skal være før og seperat. OPS de kaldte det experimental design, det ved jeg ikke om vi skal tage til os.
