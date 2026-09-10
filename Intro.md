@@ -16,3 +16,14 @@ Man kan variere:
 Mønstre
 Design på mønsteret
 Toppen af mønstre
+
+---
+
+Chitubox / 3d print
+Vi printer på: Anycubic photon mono 2
+Vi skal bruge en stl fil til 3d print
+
+---
+Teamviewer login:
+Username: 5657
+Password:

@@ -20,172 +20,7 @@
             }
           },
           {
-            "id": "cdcd0e2891ad52db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/Hydraulik/Karakteristisk hastighed, Vc.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Karakteristisk hastighed, Vc"
-            }
-          },
-          {
-            "id": "9cd0bf7fd96a6b25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/Hydraulik/Karakteristisk længde, Lc.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Karakteristisk længde, Lc"
-            }
-          },
-          {
-            "id": "1dfef67064366a24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/Hydraulik/Reynolds tal, Re.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Reynolds tal, Re"
-            }
-          },
-          {
-            "id": "d680bc0172ad953f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/Hydraulik/Ensformig strømning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ensformig strømning"
-            }
-          },
-          {
-            "id": "d69be22d0b312b72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 2 - Strømningslærens grundbegreber"
-            }
-          },
-          {
-            "id": "98f0d3a743ca021b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/Hydraulik/Forskydningsspænding τ.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Forskydningsspænding τ"
-            }
-          },
-          {
-            "id": "6404a604102d439a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/Hydraulik/Newtons formel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Newtons formel"
-            }
-          },
-          {
-            "id": "7ae2dae305ac8649",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/P5/Solidworks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Solidworks"
-            }
-          },
-          {
-            "id": "8ab0f6f1b9da63e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Intro"
-            }
-          },
-          {
-            "id": "b2a405ff0f53d4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/P5/Solidworks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Solidworks"
-            }
-          },
-          {
-            "id": "5293816c0eb92b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Links/RPM/Designs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Designs"
-            }
-          },
-          {
-            "id": "6a412bfce3ce444e",
+            "id": "d60be02aed1def3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +35,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -376,11 +211,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a412bfce3ce444e",
+  "active": "d60be02aed1def3e",
   "lastOpenFiles": [
-    "Links/RPM/Designs.md",
+    "Links/Hydraulik/Karakteristisk hastighed, Vc.md",
+    "Links/Hydraulik/Karakteristisk længde, Lc.md",
+    "Links/Hydraulik/Reynolds tal, Re.md",
+    "Links/Hydraulik/Ensformig strømning.md",
+    "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
+    "Links/Hydraulik/Forskydningsspænding τ.md",
+    "Links/Hydraulik/Newtons formel.md",
     "Links/P5/Solidworks.md",
     "Intro.md",
+    "Links/RPM/Designs.md",
     "Pasted image 20260909092538.png",
     "Links/Hydraulik/Vandføring, Q.md",
     "Links/Hydraulik/Trykfordeling.md",
@@ -404,13 +246,6 @@
     "Attachments/Hydraulik/Pasted image 20260908135615.png",
     "Attachments/Hydraulik/Pasted image 20260908134906.png",
     "Attachments/Hydraulik/Pasted image 20260908134422.png",
-    "Links/Hydraulik/Newtons formel.md",
-    "Links/Hydraulik/Forskydningsspænding τ.md",
-    "Notes/Hydraulik/Lecture 2 - Strømningslærens grundbegreber.md",
-    "Links/Hydraulik/Ensformig strømning.md",
-    "Links/Hydraulik/Reynolds tal, Re.md",
-    "Links/Hydraulik/Karakteristisk længde, Lc.md",
-    "Links/Hydraulik/Karakteristisk hastighed, Vc.md",
     "MOCs/RPM MOC.md",
     "Links/Hydraulik/Turbulent strømning.md",
     "Links/Hydraulik/Hastighedsfelt.md",
