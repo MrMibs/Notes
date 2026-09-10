@@ -15,7 +15,7 @@ Flow trajectories ser seje ud
 Man kan variere:
 Mønstre
 Design på mønsteret
-Toppen af mønstre
+Toppen af mønstre (dome)
 
 ---
 
@@ -25,5 +25,14 @@ Vi skal bruge en stl fil til 3d print
 
 ---
 Teamviewer login:
-Username: 5657
-Password:
+kode: 565726
+adgangskode: 565726kode
+
+id: 734 195 220
+
+Gratis licens
+
+---
+
+Lab
+Et par uger inden vi skal det så han kan sætte det op (10-9-2026)
