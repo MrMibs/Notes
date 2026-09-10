@@ -39,4 +39,4 @@ Et par uger inden vi skal det så han kan sætte det op (10-9-2026)
 
 ---
 
-Jakob har seje geometriske ideer. Det er ham der har lavet ???, nok noget vi har fået i initial links. Han har også noget laser noget
+Jakob har seje geometriske ideer. Det er ham der har lavet ???, nok noget vi har fået i initial links. Han har også noget laser noget til at teste noget flow? Det var svært at forstå.
