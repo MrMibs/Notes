@@ -14,4 +14,4 @@ Så længe røret er det samme mellem de to steder man måler er V ens, strømni
 ![[Tryk- og Energilinjegradient, I]]
 Altså energi tabt pr meter. På illustrationen ovenfor kan man se de er parallelle og så er de lig hinanden. Dette er ikke altid givet.
 ![[Pasted image 20260911102135.png]]
-Her kan vi jo se hastigheden ændre sig og det der driver det er trykforskellen (dermed tryklinjen)
+Her kan vi jo se hastigheden ændre sig og det der driver det er trykforskellen (dermed tryklinjen). En dybere pointe er at man kan bruge dette til at måle hvor meget væske kommer igennem, da man decideret bare kan sætte 2 rør i lodret og vandet vil dermed gå op til deres niveau og dette kan måles som [[Tryk niveau, h]] på de givende steder hvilket lader os finde hastighed.
