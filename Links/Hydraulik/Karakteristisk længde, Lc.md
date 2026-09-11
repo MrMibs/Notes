@@ -3,7 +3,7 @@ Længde valgt til at repræsentere det du kigger på, der kan være flere. E.g.
 
 | Situation                    | Typisk karakteristisk længde |
 | ---------------------------- | ---------------------------- |
-| Rundt rør                    | Diameter D                   |
+| Rundt rør                    | Diameter D (i guess ish)     |
 | Kugle i væske                | Kuglens diameter D           |
 | Strømning over en flad plade | Pladens længde L             |
 | Rektangulær kanal            | Hydraulisk diameter $D_{h}$  |

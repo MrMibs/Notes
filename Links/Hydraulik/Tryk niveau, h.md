@@ -1,5 +1,5 @@
 #hydraulik 
-Forlæsers yndlings, har brugt den massere men kan ikke huske hvor.
+Også kaldt Hydraulisk højde. Forlæsers yndlings, har brugt den massere men kan ikke huske hvor.
 $$
 h=z+\frac{p}{\gamma}
 $$
@@ -24,3 +24,6 @@ Bund
 
 Z=8
 p/$\gamma$ = 2
+
+#hydraulik 
+$$h \equiv z + \frac{p}{\gamma}$$
