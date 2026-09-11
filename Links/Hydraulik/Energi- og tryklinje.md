@@ -12,4 +12,6 @@ Altså kan vi se h + hastighedshøjde (det store udtryk) = H. Energitabet kan og
 ![[Pasted image 20260911100629.png]]
 Så længe røret er det samme mellem de to steder man måler er V ens, strømningstypen er det samme så $\alpha$ er ens og tyngdeaccelerationen er selvfølgelig den samme. Energitabet som gradient er defineret som:
 ![[Tryk- og Energilinjegradient, I]]
-Altså energi tabt pr meter.
+Altså energi tabt pr meter. På illustrationen ovenfor kan man se de er parallelle og så er de lig hinanden. Dette er ikke altid givet.
+![[Pasted image 20260911102135.png]]
+Her kan vi jo se hastigheden ændre sig og det der driver det er trykforskellen (dermed tryklinjen)
