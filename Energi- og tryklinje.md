@@ -8,4 +8,8 @@ H=\left( z+\frac{p}{\gamma} \right)+\frac{\alpha V^{2}}{2g}=h+\frac{\alpha V^{2}
 $$
 Dette kan visualiseres
 ![[Pasted image 20260911100250.png]]
-Altså kan vi se h + hastighedshøjde (det store udtryk) = H
+Altså kan vi se h + hastighedshøjde (det store udtryk) = H. Energitabet kan også visualiseres:
+![[Pasted image 20260911100629.png]]
+Så længe røret er det samme mellem de to steder man måler er V ens, strømningstypen er det samme så $\alpha$ er ens og tyngdeaccelerationen er selvfølgelig den samme. Energitabet som gradient er defineret som:
+![[Tryk- og Energilinjegradient, I]]
+Altså energi tabt pr meter.
