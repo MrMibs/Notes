@@ -18,7 +18,16 @@ Her kan vi se at friktionstallet er uafhængigt af Re ved område 1, 2 og 3 men 
 $$
 \sqrt{ \frac{2}{f} }=2.6+2.45\ln(\mathrm{Re}\sqrt{ f })
 $$
-og for rug væg
+og for ru væg
 $$
 \sqrt{ \frac{2}{f} }=6.4-2.45\ln\left( \frac{k}{R} \right)
 $$
+Hvor R er [[Karakteristisk længde, Lc]] (altså hydraulisk radius for dette). Fordi jeg ikke gider overveje om mit rør er ru eller glat kan vi samle ligningerne:
+$$
+\sqrt{ \frac{2}{f} }=6.4-2.45\ln\left( \frac{k}{R}+\frac{4.7}{\mathrm{Re}\sqrt{ f }} \right)
+$$Eksempel på side 95 til hvordan denne bruges og hvordan $\sqrt{ f }$ på begge sider håndteres. Det vi gør er at gætte på f, så får vi et resultat der giver os et andet f der er tættere på.
+![[Pasted image 20260911105212.png]]
+Til et grovt overslag kan vi bruge:
+![[Pasted image 20260911105245.png]]
+Hvis man ikke kan lide iterative formler kan man bruge
+dmf=90
