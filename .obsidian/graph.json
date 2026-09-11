@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#hydraulik",
+  "search": "#p5",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 99,
-  "scale": 0.6171402748140948,
+  "scale": 0.957523453203615,
   "close": false
 }
