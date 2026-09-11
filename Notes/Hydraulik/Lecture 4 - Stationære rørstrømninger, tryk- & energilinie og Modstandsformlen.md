@@ -1,4 +1,4 @@
 #hydraulik 
 [[Energi- og tryklinje]]
-[[Rørtab]]
+[[Bestemmelse af friktionstal]]
 [[Modstandsformel]]

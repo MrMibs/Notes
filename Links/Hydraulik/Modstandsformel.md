@@ -24,6 +24,6 @@ $$
 $$
 og kan omskrives
 $$
-
+\frac{\Delta H_{AB}}{L}=f\cdot \frac{V^{2}}{2gR}
 $$
-Dette er fordi røroverfladen kan være glat eller grader af rug.  Dermed er dette afhængigt af [[Friktionstal, f]].
+Dette er afhængigt af om røroverfladen kan være glat eller grader af rug.  Dermed er dette afhængigt af [[Friktionstal, f]].
