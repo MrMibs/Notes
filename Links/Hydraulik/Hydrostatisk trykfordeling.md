@@ -27,5 +27,5 @@ Hvor:
 Når udgangsniveau er under beholder:
 $$y = \frac{p}{\gamma}$$
 og
-$$h \equiv z + \frac{p}{\gamma}$$
+![[Tryk niveau, h]]
 
