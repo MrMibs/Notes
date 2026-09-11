@@ -32,5 +32,3 @@ Til et grovt overslag kan vi bruge:
 Hvis man ikke kan lide iterative formler kan man bruge:
 $$f=\frac{0.341}{\left[ \ln\left( \frac{k}{14.8\cdot R}+\frac{1.65}{Re^{0.9}} \right) \right]^2} \quad \text{for} \, 4\cdot 10^{-5}< \frac{k}{R}<0.08$$
 Hvis man ikke kender rughed ret godt kan man bruge ![[Manning formlen]]
-
-
