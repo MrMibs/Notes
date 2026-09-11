@@ -29,5 +29,8 @@ $$Eksempel på side 95 til hvordan denne bruges og hvordan $\sqrt{ f }$ på begg
 ![[Pasted image 20260911105212.png]]
 Til et grovt overslag kan vi bruge:
 ![[Pasted image 20260911105245.png]]
-Hvis man ikke kan lide iterative formler kan man bruge
-dmf=90
+Hvis man ikke kan lide iterative formler kan man bruge:
+$$f=\frac{0.341}{\left[ \ln\left( \frac{k}{14.8\cdot R}+\frac{1.65}{Re^{0.9}} \right) \right]^2} \quad \text{for} \, 4\cdot 10^{-5}< \frac{k}{R}<0.08$$
+Hvis man ikke kender rughed ret godt kan man bruge ![[Manning formlen]]
+
+
