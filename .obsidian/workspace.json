@@ -110,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -286,10 +286,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adf2656b5a6d33a1",
+  "active": "5fbd3213aa6c75b2",
   "lastOpenFiles": [
-    "Lecture 5 - Stoftransportmodel.md",
+    "Pasted image 20260912095620.png",
     "1D advektion-diffusion-ligningen.md",
+    "Pasted image 20260912095442.png",
+    "Lecture 5 - Stoftransportmodel.md",
     "Pasted image 20260912092055.png",
     "MOCs/Hydraulik MOC.md",
     "Løbende spørgsmål.md",
@@ -316,14 +318,12 @@
     "Attachments/Hydraulik/Pasted image 20260911104237.png",
     "Attachments/Hydraulik/Pasted image 20260911102135.png",
     "Attachments/Hydraulik/Pasted image 20260911100629.png",
-    "Attachments/Hydraulik/Pasted image 20260911100250.png",
     "Links/P5/Vejledermøde.md",
     "Links/P5/Solidworks.md",
     "Intro.md",
     "Links/P5/Møde 1.md",
     "Links/Hydraulik/Karakteristisk hastighed, Vc.md",
     "Links/Hydraulik/Karakteristisk længde, Lc.md",
-    "Links/Hydraulik/Reynolds tal, Re.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
