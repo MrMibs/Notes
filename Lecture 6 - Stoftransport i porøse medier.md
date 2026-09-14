@@ -9,3 +9,7 @@ Vi husker
 ![[Darcys lov]]
 
 ![[Porøsitet vs permeabilitet]]
+
+![[Flux]]
+
+[[Hydraulik Opgaveregning 6]]
