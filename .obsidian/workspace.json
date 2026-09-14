@@ -94,8 +94,7 @@
               "title": "Ficks 1 lov"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -270,11 +269,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e147fb3329013a1",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Pasted image 20260914095635.png",
-    "Flux.md",
     "Darcys lov.md",
+    "Flux.md",
+    "Pasted image 20260914095635.png",
     "Porøsitet vs permeabilitet.md",
     "Pasted image 20260914094507.png",
     "Lecture 6 - Stoftransport i porøse medier.md",
@@ -307,7 +306,6 @@
     "Links/Hydraulik/Energi niveau.md",
     "Attachments/Hydraulik/Pasted image 20260911112052.png",
     "Attachments/Hydraulik/Pasted image 20260911111753.png",
-    "Attachments/Hydraulik/Pasted image 20260911105245.png",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",

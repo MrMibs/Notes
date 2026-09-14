@@ -5,4 +5,4 @@ q=\frac{Q}{A_{pipe}}\quad V_{avg}=\frac{Q}{A_{flow}}
 $$
 Altså er flux vand pr areal af rør og hastighed vand pr areal med flow
 ![[Pasted image 20260914095635.png]]
-De er dog det samme hvis røret er fyldt.
+De er dog det samme hvis røret er fyldt. Hvis mediet er porøst er dette endnu større, da arealet med flow bliver mindre så hastighed bliver højere mens flux forbliver konstant.
