@@ -5,6 +5,15 @@ Vi diskretere tid og position (duh). Mange metoder til at bruge disse skemaer, m
 Ligninger FTCS:
 $C_i^{n+1} = C_i^n + \left(-u \cdot \frac{C_{i+1}^n - C_{i-1}^n}{2\Delta x} + D \cdot \frac{C_{i+1}^n - 2C_i^n + C_{i-1}^n}{\Delta x^2}\right) \cdot \Delta t$
 
+hvor:
+- u er hastighed
+- D er diffusionskoefficient
+- $\Delta X$ er afstand mellem punkter
+- i er pos index
+- n er tidsindex
+
+C kan tolkes fra ovenstående f
+
 FTBS
 $C_i^{n+1} = C_i^n + \left(-u \cdot \frac{C_{i+1}^n - C_{i-1}^n}{\Delta x} + D \cdot \frac{C_{i+1}^n - 2C_i^n + C_{i-1}^n}{\Delta x^2}\right) \cdot \Delta t$
 
