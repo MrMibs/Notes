@@ -5,6 +5,6 @@ $$
 q=-K\cdot \frac{\Delta H}{L}
 $$
 Hvor:
-- q er Flux $\left[ \frac{m^{3}}{s\cdot A} \right]$
+- q er [[Flux]] $\left[ \frac{m^{3}}{s\cdot A} \right]$
 - -K er hydraulik konduktivitet $\left[ \frac{m}{s} \right]$
 - $\frac{\Delta H}{L}$ er Hydraulik gradient
