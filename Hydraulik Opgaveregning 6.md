@@ -5,6 +5,8 @@ Membranen er $1,\mathrm{mm}$ tyk (med spacer). Trykforskellen mellem indre og yd
 a) Beregn vha. Darcys lov strømningshastigheden gennem membranen. Vi sigter mod $14\,\mathrm{L/(min \cdot m^2)}$ i flow.
 ![[Darcys lov]]
 
+L er 1mm
+$\Delta H$ er 20m
 
 
 b) Opstil en kontrolvolumenmodel for kombineret vand- og stoftransport, der tager højde for varierende diffusionskoefficient.
