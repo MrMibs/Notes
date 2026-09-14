@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,12 +255,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46bb1dd8e133065c",
+  "active": "d21c01922ff23713",
   "lastOpenFiles": [
-    "Links/Hydraulik/Hydraulik Opgaveregning 6.md",
     "Notes/Hydraulik/Lecture 6 - Stoftransport i porøse medier.md",
-    "Links/Hydraulik/Porøsitet vs permeabilitet.md",
     "Links/Hydraulik/Numeriske skemaer.md",
+    "Pasted image 20260914113157.png",
+    "Pasted image 20260914112958.png",
+    "Pasted image 20260914112815.png",
+    "Pasted image 20260914112813.png",
+    "Links/Hydraulik/Hydraulik Opgaveregning 6.md",
+    "Links/Hydraulik/Porøsitet vs permeabilitet.md",
     "Links/Hydraulik/1D advektion-diffusion-ligningen.md",
     "Notes/Hydraulik/Lecture 5 - Stoftransportmodel.md",
     "Attachments/Hydraulik/Pasted image 20260912092055.png",
@@ -274,11 +278,8 @@
     "Links/RPM/Designs.md",
     "Attachments/Hydraulik/Pasted image 20260914093728.png",
     "Links/Hydraulik/Løbende spørgsmål.md",
-    "Attachments/Hydraulik/Pasted image 20260914093001.png",
     "MOCs/Hydraulik MOC.md",
     "Links/Hydraulik/Chatsvar der forklare det godt.md",
-    "Attachments/Hydraulik/Pasted image 20260912095620.png",
-    "Attachments/Hydraulik/Pasted image 20260912095442.png",
     "Notes/P5/Intro.md",
     "Notes/Hydraulik/Lecture 4 - Stationære rørstrømninger, tryk- & energilinie og Modstandsformlen.md",
     "Notes/Hydraulik/Lecture 3 - Energiligningen.md",
@@ -291,7 +292,6 @@
     "Links/Hydraulik/Friktionstal, f.md",
     "Links/Hydraulik/Energiligning for strømrør mellem 2 snit med hydrostatisk trykfordeling.md",
     "Links/Hydraulik/Energi- og tryklinje.md",
-    "Attachments/Hydraulik/Pasted image 20260911112052.png",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
