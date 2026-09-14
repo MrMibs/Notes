@@ -16,4 +16,6 @@ Vi bruger finite volume metoden:
 
 ## Firkantificer vandet
 ![[Pasted image 20260912095620.png]]
-Massebalancen er selvfølgelig $\sum\text{Ind}-\sum$
+Massebalancen er selvfølgelig $\text{Ændring}=\sum\text{Ind}-\sum\text{Ud}$
+
+Honestly det er mega nemt: [[Chatsvar der forklare det godt]].
