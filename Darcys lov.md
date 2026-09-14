@@ -5,6 +5,8 @@ $$
 q=-K\cdot \frac{\Delta H}{L}
 $$
 Hvor:
-- q er [[Flux]] $\left[ \frac{m^{3}}{s\cdot A} \right]$
+- q er [[Flux]] $\left[ \frac{m^{3}}{s\cdot A} \right]$ ~ $\left[ \frac{m}{s\cdot A} \right]$?
 - -K er hydraulik konduktivitet $\left[ \frac{m}{s} \right]$
 - $\frac{\Delta H}{L}$ er Hydraulik gradient
+
+Her kan A ganges på for at få Q. Dermed kan K også gives i $\frac{m^{3}}{s}$. Heraf også årsagen til ~.

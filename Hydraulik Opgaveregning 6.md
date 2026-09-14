@@ -7,9 +7,15 @@ a) Beregn vha. Darcys lov strømningshastigheden gennem membranen. Vi sigter mod
 
 L er 1mm
 $\Delta H$ er 20m
+q er $1.15\cdot10^{-10}$
+
+Altså $\frac{20}{0.001}\cdot q$
 
 
 b) Opstil en kontrolvolumenmodel for kombineret vand- og stoftransport, der tager højde for varierende diffusionskoefficient.
+![[1D advektion-diffusion-ligningen]]
+
+
 
 c) Foreslå en hensigtsmæssig inddeling af kontrolvolumener, der tager højde for de kraftige koncentrationsgradienter.
 
