@@ -15,7 +15,7 @@ Altså $\frac{20}{0.001}\cdot q$
 b) Opstil en kontrolvolumenmodel for kombineret vand- og stoftransport, der tager højde for varierende diffusionskoefficient.
 ![[Numeriske skemaer]]
 
-
+Her er D givet, dx er stepsize 5mm fra og dt er tidsstepsize. u er fundet fra [[Darcys lov]] (K$\cdot$h/x eller 20000/1$\cdot$ 1.15$^{-8}$ og Pe er bare Crc/Crd
 
 c) Foreslå en hensigtsmæssig inddeling af kontrolvolumener, der tager højde for de kraftige koncentrationsgradienter.
 
