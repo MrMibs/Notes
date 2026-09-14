@@ -13,7 +13,7 @@ Altså $\frac{20}{0.001}\cdot q$
 
 
 b) Opstil en kontrolvolumenmodel for kombineret vand- og stoftransport, der tager højde for varierende diffusionskoefficient.
-![[1D advektion-diffusion-ligningen]]
+![[Numeriske skemaer]]
 
 
 
