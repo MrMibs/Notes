@@ -9,3 +9,17 @@ Steps:
 * Integrate equations 
 * Apply initial conditions (IC) and BC to solve for constants of integration
 
+
+Vores modeller er begrænset af kompleksitet af styrende differentialligninger
+- Geometri, viskositet, fase ændringer, forbrænding
+Og svære at opstille og løse styrende differentialligninger
+- Empiri kan hjælpe her
+
+CFD models include
+- a description of the flow geometry,
+- a set of coupled differential equations describing the physics and
+- chemistry of the flow,
+- boundary and initial conditions, and
+- a structured mesh of points at which these equations are solved
+
+The equation we are solving is the Navier Stokes equation ()
