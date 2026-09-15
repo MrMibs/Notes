@@ -1,5 +1,8 @@
 #hydraulik 
 For hvert stof opstilles en massebalance:
+$\frac{\partial C_{A}}{\partial t}=D \frac{\partial^{2} C_{A}}{\partial x^{2}}-u \frac{\partial C_{A}}{\partial x}$ 
+$\frac{\partial C_{B}}{\partial t}=D \frac{\partial^{2} C_{B}}{\partial x^{2}}-u \frac{\partial C_{B}}{\partial x}$ 
+$\frac{\partial C_{C}}{\partial t}=D \frac{\partial^{2} C_{C}}{\partial x^{2}}-u \frac{\partial C_{C}}{\partial x}$
 
 | Parameter                   | Værdi                              | Enhed                                  |
 | --------------------------- | ---------------------------------- | -------------------------------------- |
