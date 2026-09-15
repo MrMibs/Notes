@@ -6,3 +6,5 @@
 [[Lecture 5 - Stoftransportmodel]]
 [[Lecture 6 - Stoftransport i porøse medier]]
 [[Lecture 7 - Fejlanalyse og reaktionskinetik]]
+Lecture 8 var opsummering
+[[Lecture 9 - CFD]]

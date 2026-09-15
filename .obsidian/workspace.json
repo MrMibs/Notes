@@ -50,52 +50,37 @@
             }
           },
           {
-            "id": "1892632881597d79",
+            "id": "f786c5da8969e1d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hydraulik Reaktionskinetik.md",
+                "file": "Lecture 9 - CFD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hydraulik Reaktionskinetik"
+              "title": "Lecture 9 - CFD"
             }
           },
           {
-            "id": "f59a55bf4c0111c1",
+            "id": "5dd443138803a739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Hydraulik/Manning formlen.md",
+                "file": "Computational Flow Dynamics CFD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Manning formlen"
-            }
-          },
-          {
-            "id": "30169a690c2cb0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hydraulik Reaktionskinetik.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hydraulik Reaktionskinetik"
+              "title": "Computational Flow Dynamics CFD"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hydraulik Reaktionskinetik.md",
+                "file": "Computational Flow Dynamics CFD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,8 +254,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "30169a690c2cb0e5",
+  "active": "5dd443138803a739",
   "lastOpenFiles": [
+    "Lecture 9 - CFD.md",
+    "Computational Flow Dynamics CFD.md",
+    "MOCs/Hydraulik MOC.md",
     "Hydraulik Reaktionskinetik.md",
     "Links/Hydraulik/Manning formlen.md",
     "Stabilitetskriterier.md",
@@ -281,7 +269,6 @@
     "Attachments/Hydraulik/Pasted image 20260914111146.png",
     "Attachments/Hydraulik/Pasted image 20260914095635.png",
     "Notes/Hydraulik/Lecture 7 - Fejlanalyse og reaktionskinetik.md",
-    "MOCs/Hydraulik MOC.md",
     "Links/Hydraulik/Numeriske skemaer.md",
     "Links/Hydraulik/Hydraulik Opgaveregning 6.md",
     "Notes/Hydraulik/Lecture 6 - Stoftransport i porøse medier.md",
@@ -305,7 +292,6 @@
     "Notes/Hydraulik/Lecture 3 - Energiligningen.md",
     "Links/Hydraulik/Tryk- og Energilinjegradient, I.md",
     "Links/Hydraulik/Tryk niveau, h.md",
-    "Links/Hydraulik/Modstandsformel.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
