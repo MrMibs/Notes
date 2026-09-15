@@ -55,13 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 7 - Fejlanalyse og reaktionskinetik.md",
+                "file": "Hydraulik Reaktionskinetik.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7 - Fejlanalyse og reaktionskinetik"
+              "title": "Hydraulik Reaktionskinetik"
             }
           }
         ],
@@ -243,13 +243,14 @@
   "active": "1892632881597d79",
   "lastOpenFiles": [
     "Lecture 7 - Fejlanalyse og reaktionskinetik.md",
+    "Hydraulik Reaktionskinetik.md",
+    "Interace py.md",
     "MOCs/Hydraulik MOC.md",
     "Stabilitetskriterier.md",
     "Links/Hydraulik/Numeriske skemaer.md",
     "Links/Hydraulik/Hydraulik Opgaveregning 6.md",
     "Notes/Hydraulik/Lecture 6 - Stoftransport i porøse medier.md",
     "Links/RPM/Designs.md",
-    "Interace py.md",
     "Links/Hydraulik/Darcys lov.md",
     "Links/P5/Solidworks.md",
     "Pasted image 20260914113157.png",
@@ -277,7 +278,6 @@
     "Links/Hydraulik/Modstandsformel.md",
     "Links/Hydraulik/Manning formlen.md",
     "Links/Hydraulik/Hydraulisk radius, R.md",
-    "Links/Hydraulik/Hastighedsfordelingskoefficient - α.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
