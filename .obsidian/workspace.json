@@ -79,8 +79,7 @@
               "title": "Computational Flow Dynamics CFD"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Flow Dynamics CFD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,10 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dd443138803a739",
+  "active": "f2c075713717dd49",
   "lastOpenFiles": [
-    "Lecture 9 - CFD.md",
     "Computational Flow Dynamics CFD.md",
+    "Pasted image 20260915134652.png",
+    "Lecture 9 - CFD.md",
     "MOCs/Hydraulik MOC.md",
     "Hydraulik Reaktionskinetik.md",
     "Links/Hydraulik/Manning formlen.md",
@@ -284,14 +283,12 @@
     "Links/Hydraulik/Flux.md",
     "Attachments/Hydraulik/Pasted image 20260914094507.png",
     "Attachments/Hydraulik/Pasted image 20260914094024.png",
-    "Attachments/Hydraulik/Pasted image 20260914093728.png",
     "Links/Hydraulik/Løbende spørgsmål.md",
     "Links/Hydraulik/Chatsvar der forklare det godt.md",
     "Notes/P5/Intro.md",
     "Notes/Hydraulik/Lecture 4 - Stationære rørstrømninger, tryk- & energilinie og Modstandsformlen.md",
     "Notes/Hydraulik/Lecture 3 - Energiligningen.md",
     "Links/Hydraulik/Tryk- og Energilinjegradient, I.md",
-    "Links/Hydraulik/Tryk niveau, h.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
