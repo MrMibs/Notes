@@ -22,4 +22,25 @@ CFD models include
 - boundary and initial conditions, and
 - a structured mesh of points at which these equations are solved
 
-The equation we are solving is the Navier Stokes equation ()
+
+The equations we are solving are Navier-stokes Equations (holy)
+$$ \underbrace{ \frac{\partial u}{\partial t} }_{unsteady \, term} + \underbrace{ u \cdot \nabla u }_{ convective \, term } = \underbrace{ -\frac{\nabla p}{\rho} }_{ pressure \, term } + \underbrace{ \nu \nabla^2 u }_{ viscous \, term } $$
+Assuming:
+- Newtonian Fluid – Shear stress proportional to strain (constant viscosity)
+- Incompressible flow – Constant density
+- Isothermal flow – Constant temperature
+
+And solving for
+- Velocity field
+- Pressure field
+
+Step by step we:
+- Build Geometry
+- Create Grid
+- Choose appropriate Physics
+- Apply initial and boundary conditions
+- Compute (choosing schemes and solving linear system of equations)
+- Post-process
+- Validate!
+![[Pasted image 20260915134652.png]]
+
