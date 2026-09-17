@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stofbalance.md",
+                "file": "Lecture 1 - masse og energibalancer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stofbalance"
+              "title": "Lecture 1 - masse og energibalancer"
             }
           },
           {
@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KEO Opgaveregning 1.md",
+                "file": "Lecture 1 - masse og energibalancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,17 +269,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b1e582d62113c84",
+  "active": "ea2b1afc5bdaccb5",
   "lastOpenFiles": [
+    "Stofbalance.md",
+    "KEO Opgaveregning 1.md",
     "Lecture 1 - masse og energibalancer.md",
     "Pasted image 20260917100616.png",
-    "KEO Opgaveregning 1.md",
     "Frihedsgrader.md",
     "Pasted image 20260917095818.png",
     "Pasted image 20260917095757.png",
     "Pasted image 20260917095712.png",
     "Total massebalance.md",
-    "Stofbalance.md",
     "Pasted image 20260917095112.png",
     "Pasted image 20260917094239.png",
     "MOCs/KEO MOC.md",
