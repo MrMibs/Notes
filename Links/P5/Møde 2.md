@@ -7,7 +7,7 @@ Ethanol i stedet for acetone. Mere miljøvenligt.
 
 Ethanol 96%
 
-Decan-1-ol er 70% decanol 30% resin.
+Decan-1-ol er 70% decanol 30% resin eller 60 40.
 
 Ink two PUA
 
