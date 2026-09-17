@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Møde 2.md",
+                "file": "Links/P5/Møde 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -226,10 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a4501a500ad60e5",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
     "Links/P5/Vejledermøde.md",
-    "Møde 2.md",
+    "Links/P5/Møde 2.md",
     "Total massebalance.md",
     "Stofbalance.md",
     "Steady state.md",

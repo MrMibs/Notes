@@ -17,6 +17,7 @@ Fedt relatere til fouling det kan godt gøre noget tror jeg?
 
 Der er backup til fuldt printede membraner.
 
+Farvestof er coomassie brilliant blue
 
 
 Grønne handsker.
