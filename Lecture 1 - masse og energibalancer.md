@@ -11,3 +11,7 @@ Vi har 2 typer processer [[Batch reaktor]] og [[Kontinuert reaktor]] hedder de i
 ![[Pasted image 20260917091753.png]]
 
 Et vigtigt begreb er ![[Steady state]]
+
+![[Total massebalance]]
+
+Vi kan omregne som man altid har gjort
