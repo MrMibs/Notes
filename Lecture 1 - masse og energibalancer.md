@@ -17,3 +17,11 @@ Et vigtigt begreb er ![[Steady state]]
 Vi kan omregne som man altid har gjort.
 
 ![[Stofbalance]]
+
+Mere omregning
+![[Pasted image 20260917095712.png]]
+
+![[Frihedsgrader]]
+
+
+[[KEO Opgaveregning 1]]
