@@ -14,4 +14,6 @@ Et vigtigt begreb er ![[Steady state]]
 
 ![[Total massebalance]]
 
-Vi kan omregne som man altid har gjort
+Vi kan omregne som man altid har gjort.
+
+![[Stofbalance]]
