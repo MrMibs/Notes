@@ -20,33 +20,33 @@
             }
           },
           {
-            "id": "444f03878c9c084f",
+            "id": "b8404b93907d2c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/RPM/Designs.md",
+                "file": "Links/KEO/Frihedsgrader.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Designs"
+              "title": "Frihedsgrader"
             }
           },
           {
-            "id": "7a4501a500ad60e5",
+            "id": "41cba5278bf3c823",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/P5/Møde 2.md",
+                "file": "Lecture 2 - Sedimentation og centrifugering.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Møde 2"
+              "title": "Lecture 2 - Sedimentation og centrifugering"
             }
           }
         ],
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Designligning.md",
+                "file": "Lecture 2 - Sedimentation og centrifugering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,13 +205,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,53 +224,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623d9685add00402",
+  "active": "41cba5278bf3c823",
   "lastOpenFiles": [
-    "Links/P5/Vejledermøde.md",
-    "Links/P5/Møde 2.md",
-    "Total massebalance.md",
-    "Stofbalance.md",
-    "Steady state.md",
-    "Pasted image 20260917100616.png",
-    "Pasted image 20260917095818.png",
-    "Pasted image 20260917095757.png",
-    "Pasted image 20260917095712.png",
-    "Pasted image 20260917095112.png",
-    "Pasted image 20260917094239.png",
-    "Pasted image 20260917091753.png",
-    "Pasted image 20260917091425.png",
-    "Pasted image 20260917091219.png",
     "MOCs/KEO MOC.md",
-    "Lecture 1 - masse og energibalancer.md",
-    "KEO Opgaveregning 1.md",
-    "Frihedsgrader.md",
+    "Lecture 2 - Sedimentation og centrifugering.md",
+    "Links/KEO/Frihedsgrader.md",
+    "Attachments/KEO/Pasted image 20260917091219.png",
+    "Links/KEO/KEO Opgaveregning 1.md",
+    "Links/KEO/Stofbalance.md",
+    "Notes/KEO/Lecture 1 - masse og energibalancer.md",
+    "Links/P5/Møde 2.md",
+    "Attachments/KEO/Pasted image 20260917100616.png",
+    "Attachments/KEO/Pasted image 20260917095818.png",
+    "Attachments/KEO/Pasted image 20260917095757.png",
+    "Attachments/KEO/Pasted image 20260917095712.png",
+    "Links/KEO/Total massebalance.md",
+    "Attachments/KEO/Pasted image 20260917095112.png",
+    "Attachments/KEO/Pasted image 20260917094239.png",
     "Attachments/Hydraulik/Stabilitetskriterier.md",
+    "Links/KEO/Steady state.md",
+    "Attachments/KEO/Pasted image 20260917091753.png",
+    "Attachments/KEO/Pasted image 20260917091425.png",
+    "Attachments/KEO",
+    "Links/KEO",
+    "Notes/KEO",
     "Attachments/Hydraulik/Pasted image 20260915134652.png",
     "Attachments/Hydraulik/Lecture 9 - CFD.md",
-    "Attachments/Hydraulik/Hydraulik Reaktionskinetik.md",
     "Attachments/Hydraulik/Computational Flow Dynamics CFD.md",
-    "Links/RPM/Designs.md",
-    "Links/P5/Polymerization-induced phase separation - PIPS.md",
-    "Løbende spørgsmål.md",
-    "Lecture 5 - Stoftransportmodel.md",
-    "1D advektion-diffusion-ligningen.md",
-    "Notes/P5/Intro.md",
-    "Notes/Hydraulik/Lecture 4 - Stationære rørstrømninger, tryk- & energilinie og Modstandsformlen.md",
-    "Notes/Hydraulik/Lecture 3 - Energiligningen.md",
-    "Links/Hydraulik/Tryk- og Energilinjegradient, I.md",
-    "Links/Hydraulik/Tryk niveau, h.md",
-    "Links/Hydraulik/Modstandsformel.md",
+    "Attachments/Hydraulik/Hydraulik Reaktionskinetik.md",
+    "MOCs/Inorganic MOC.md",
+    "MOCs/NMR MOC.md",
+    "Notes/P5/Interace py.md",
+    "MOCs/Hydraulik MOC.md",
     "Links/Hydraulik/Manning formlen.md",
-    "Links/Hydraulik/Hydraulisk radius, R.md",
+    "Notes/Hydraulik/Lecture 7 - Fejlanalyse og reaktionskinetik.md",
+    "Links/Hydraulik/Numeriske skemaer.md",
+    "Links/Hydraulik/Hydraulik Opgaveregning 6.md",
+    "Notes/Hydraulik/Lecture 6 - Stoftransport i porøse medier.md",
+    "Links/RPM/Designs.md",
+    "Links/Hydraulik/Darcys lov.md",
+    "Links/P5/Solidworks.md",
+    "Links/Hydraulik/Porøsitet vs permeabilitet.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
     "Notes/P5",
     "Links/P5",
     "Attachments/P5",
-    "Links/Hydraulik",
-    "Notes/Hydraulik",
-    "Attachments/Hydraulik",
-    "Attachments/Inorganic/Slides inorganic.pdf"
+    "Links/Hydraulik"
   ]
 }
