@@ -3,7 +3,7 @@ $$
 $$
 Hvor:
 - τ = [[Forskydningsspænding τ]] $Pa$
-- μ = [[Dynamisk viskositet μ]] $Pa\cdot s$
+- μ = [[Dynamisk viskositet μ eller η]] $Pa\cdot s$
 - v = væskens hastighed i strømningsretningen (1)
 - x = er en afstand som er vinkelret på (retning 2) strømningsretningen
 - $\frac{du}{dy}$ = hvor hurtigt hastigheden ændrer sig på tværs af væsken

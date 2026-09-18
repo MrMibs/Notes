@@ -4,7 +4,7 @@ $$\tau = \mu \cdot\frac{\partial v_1}{\partial x_2} + \tau^*$$
 Hvor:
 - $\tau$ er [[Forskydningsspænding τ]]
 - $\tau^*$ er [[Forskydningsstyrke]]
-- $\mu$ [[Dynamisk viskositet μ]]
+- $\mu$ [[Dynamisk viskositet μ eller η]]
 - $\frac{\partial v_1}{\partial x_2}$ er hastigheden vinkelret på strømningsretning (som gradient)
 
         x₂ ↑
