@@ -65,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stokes ligning.md",
+                "file": "Lecture 2 - Sedimentation og centrifugering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,12 +239,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cba5278bf3c823",
+  "active": "effbcda10c47764a",
   "lastOpenFiles": [
-    "Pasted image 20260918100022.png",
-    "Links/Hydraulik/Dynamisk viskositet μ eller η.md",
     "Stokes ligning.md",
     "Lecture 2 - Sedimentation og centrifugering.md",
+    "Pasted image 20260918100643.png",
+    "Pasted image 20260918100611.png",
+    "Pasted image 20260918100500.png",
+    "Pasted image 20260918100417.png",
+    "Pasted image 20260918100022.png",
+    "Links/Hydraulik/Dynamisk viskositet μ eller η.md",
     "Pasted image 20260918094303.png",
     "Pasted image 20260918094215.png",
     "MOCs/KEO MOC.md",
@@ -256,14 +260,9 @@
     "Links/P5/Møde 2.md",
     "Attachments/KEO/Pasted image 20260917100616.png",
     "Attachments/KEO/Pasted image 20260917095818.png",
-    "Attachments/KEO/Pasted image 20260917095757.png",
-    "Attachments/KEO/Pasted image 20260917095712.png",
     "Links/KEO/Total massebalance.md",
-    "Attachments/KEO/Pasted image 20260917095112.png",
-    "Attachments/KEO/Pasted image 20260917094239.png",
     "Attachments/Hydraulik/Stabilitetskriterier.md",
     "Links/KEO/Steady state.md",
-    "Attachments/KEO/Pasted image 20260917091753.png",
     "Attachments/KEO",
     "Links/KEO",
     "Notes/KEO",
