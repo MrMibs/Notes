@@ -20,19 +20,37 @@
             }
           },
           {
-            "id": "b8404b93907d2c75",
+            "id": "444f03878c9c084f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/KEO/Pasted image 20260918094215.png"
+                "file": "Links/RPM/Designs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260918094215"
+              "icon": "lucide-file",
+              "title": "Designs"
+            }
+          },
+          {
+            "id": "7a4501a500ad60e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/P5/Møde 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Møde 2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/KEO/Pasted image 20260918094215.png",
+                "file": "Designligning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,11 +205,13 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,11 +226,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623d9685add00402",
+  "active": "7a4501a500ad60e5",
   "lastOpenFiles": [
-    "Links/KEO/Frihedsgrader.md",
-    "Links/KEO/Stokes ligning.md",
     "Notes/KEO/Lecture 2 - Sedimentation og centrifugering.md",
+    "Notes/KEO/Lecture 1 - masse og energibalancer.md",
+    "Notes/KEO",
+    "Links/KEO/Stokes ligning.md",
+    "Links/KEO/Total massebalance.md",
+    "Links/KEO/Stofbalance.md",
+    "Links/KEO/Steady state.md",
+    "Links/KEO/KEO Opgaveregning 1.md",
+    "Links/KEO/Frihedsgrader.md",
+    "Links/KEO",
+    "Links/Hydraulik/Dynamisk viskositet μ eller η.md",
     "Attachments/KEO/Pasted image 20260918101957.png",
     "Attachments/KEO/Pasted image 20260918101742.png",
     "Attachments/KEO/Pasted image 20260918101547.png",
@@ -220,32 +248,25 @@
     "Attachments/KEO/Pasted image 20260918100500.png",
     "Attachments/KEO/Pasted image 20260918100417.png",
     "Attachments/KEO/Pasted image 20260918100022.png",
-    "Links/Hydraulik/Dynamisk viskositet μ eller η.md",
     "Attachments/KEO/Pasted image 20260918094303.png",
-    "MOCs/KEO MOC.md",
-    "Links/KEO/KEO Opgaveregning 1.md",
-    "Links/KEO/Stofbalance.md",
-    "Notes/KEO/Lecture 1 - masse og energibalancer.md",
-    "Links/P5/Møde 2.md",
-    "Links/KEO/Total massebalance.md",
-    "Attachments/Hydraulik/Stabilitetskriterier.md",
-    "Links/KEO/Steady state.md",
     "Attachments/KEO",
-    "Links/KEO",
-    "Notes/KEO",
+    "Links/P5/Vejledermøde.md",
+    "Links/P5/Møde 2.md",
+    "Total massebalance.md",
+    "Stofbalance.md",
+    "Steady state.md",
+    "MOCs/KEO MOC.md",
+    "Lecture 1 - masse og energibalancer.md",
+    "KEO Opgaveregning 1.md",
+    "Frihedsgrader.md",
+    "Attachments/Hydraulik/Stabilitetskriterier.md",
     "Attachments/Hydraulik/Lecture 9 - CFD.md",
-    "Attachments/Hydraulik/Computational Flow Dynamics CFD.md",
     "Attachments/Hydraulik/Hydraulik Reaktionskinetik.md",
-    "MOCs/Inorganic MOC.md",
-    "MOCs/NMR MOC.md",
-    "Notes/P5/Interace py.md",
-    "MOCs/Hydraulik MOC.md",
-    "Links/Hydraulik/Manning formlen.md",
-    "Notes/Hydraulik/Lecture 7 - Fejlanalyse og reaktionskinetik.md",
-    "Links/Hydraulik/Numeriske skemaer.md",
-    "Links/Hydraulik/Hydraulik Opgaveregning 6.md",
-    "Notes/Hydraulik/Lecture 6 - Stoftransport i porøse medier.md",
+    "Attachments/Hydraulik/Computational Flow Dynamics CFD.md",
     "Links/RPM/Designs.md",
+    "Links/P5/Polymerization-induced phase separation - PIPS.md",
+    "Løbende spørgsmål.md",
+    "Lecture 5 - Stoftransportmodel.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
