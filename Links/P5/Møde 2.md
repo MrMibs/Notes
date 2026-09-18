@@ -19,5 +19,8 @@ Der er backup til fuldt printede membraner.
 
 Farvestof er coomassie brilliant blue
 
+OPFØLGELSE:
+Spacer størrelse samme som membran som udgangspunkt i højde
+
 
 Grønne handsker.
