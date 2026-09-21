@@ -42,3 +42,6 @@ Hvis vores partikel er rund kan vi beregne overfladearealet ift. volumen som:
 $$
 \frac{6}{d_{p}}
 $$
+---
+
+Jeg er træt og confused, se videre fra 16 min tilbage.
