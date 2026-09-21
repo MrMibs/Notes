@@ -5,8 +5,25 @@ Her kan vi være interesserede i hastigheden vores væske kan skældes fra vores
 
 Darcys lov lyder:
 $$
-\frac{\text{d}V}{\text{d}T}=A\cdot \frac{1}{\eta\cdot R}
+\frac{\text{d}V}{\text{d}T}=A\cdot \frac{1}{\eta\cdot R}\cdot \nabla P
 $$
+Hvor:
+- $\eta$ = viskositet
+- R er modstand
+$$
+\nabla P=\frac{P_{ext}}{L}
+$$
+Og sammen med den specifikke modstand for membranen (kagemodstand???)
+
+$$
+R=\alpha(1-\varepsilon)\rho_{s}
+$$
+
+$$
+\epsilon
+$$
+
+
 
 Darcy's lov omskrivning giver os:
 $$
