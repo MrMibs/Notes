@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOCs/KEO MOC.md",
+                "file": "Notes/KEO/Lecture 3 - Filtreringsteori.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "KEO MOC"
+              "title": "Lecture 3 - Filtreringsteori"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOCs/KEO MOC.md",
+                "file": "Notes/KEO/Lecture 3 - Filtreringsteori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,6 +211,9 @@
   },
   "active": "5de10b1dff7d8236",
   "lastOpenFiles": [
+    "Pasted image 20260921135237.png",
+    "MOCs/KEO MOC.md",
+    "Notes/KEO/Lecture 3 - Filtreringsteori.md",
     "Attachments/KEO/Pasted image 20260918094215.png",
     "Notes/KEO/Lecture 2 - Sedimentation og centrifugering.md",
     "Links/KEO/Frihedsgrader.md",
@@ -225,7 +228,6 @@
     "Attachments/KEO/Pasted image 20260918100417.png",
     "Attachments/KEO/Pasted image 20260918100022.png",
     "Links/Hydraulik/Dynamisk viskositet μ eller η.md",
-    "MOCs/KEO MOC.md",
     "Links/KEO/KEO Opgaveregning 1.md",
     "Links/KEO/Stofbalance.md",
     "Notes/KEO/Lecture 1 - masse og energibalancer.md",
@@ -248,7 +250,6 @@
     "Links/Hydraulik/Numeriske skemaer.md",
     "Links/Hydraulik/Hydraulik Opgaveregning 6.md",
     "Notes/Hydraulik/Lecture 6 - Stoftransport i porøse medier.md",
-    "Links/RPM/Designs.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",
