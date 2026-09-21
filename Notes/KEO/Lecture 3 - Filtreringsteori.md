@@ -32,8 +32,13 @@ Som mere kommer igennem bliver kagen tykkere og der kommer mindre igennem. Den s
 $$
 \alpha=k\cdot \frac{(1-\varepsilon)\cdot S^{2}_{O}}{\rho_{s} \varepsilon^{3}}
 $$
-Hvor $S_{O}$ er:
+Hvor K (korzeny konstant) = 5 og $S_{O}$ er:
 $$
-S_{O}=\frac{\text{surface area}}{\text{particle volume}}=\frac{6}{d_{p}}
+S_{O}=\frac{\text{surface area}}{\text{particle volume}}=\frac{6}{d_{partikel}}
 $$
-Hvilket giver mening grundet fi
+Hvilket giver mening grundet friktion
+![[Pasted image 20260921143648.png]]
+Hvis vores partikel er rund kan vi beregne overfladearealet ift. volumen som:
+$$
+\frac{6}{d_{p}}
+$$
