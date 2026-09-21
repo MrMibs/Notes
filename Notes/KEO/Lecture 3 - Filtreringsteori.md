@@ -5,5 +5,8 @@ Her kan vi være interesserede i hastigheden vores væske kan skældes fra vores
 
 Darcy's lov omskrivning giver os:
 $$
-\frac{1}{\eta \alpha(1-\varepsilon)}
+u=\frac{1}{\eta \alpha(1-\varepsilon)}\cdot \frac{P_{ext}}{L}
 $$
+Hvor:
+- $\eta$ = viskositet
+- 
