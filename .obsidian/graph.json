@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#P5 som ud",
+  "search": "#P5",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 99,
-  "scale": 0.6829779840556465,
+  "scale": 0.6647636857092726,
   "close": false
 }
