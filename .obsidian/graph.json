@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#keo",
+  "search": "#KEO",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 99,
-  "scale": 0.6829779840556461,
+  "scale": 0.6829779840556459,
   "close": false
 }
