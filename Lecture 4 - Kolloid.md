@@ -19,4 +19,7 @@ Hvor ladninger er balanceret når vi kommer længere væk. Integralet mellem de 
 
 ![[Kolloid potentiale]]
 
+De bevæger sig væk fra hinanden
 [[Elektrostatisk kraft]]
+Og mod hinanden
+[[Van der waal krafter]]
