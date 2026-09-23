@@ -85,5 +85,27 @@ Hvor:
 Som vi ved:
 ![[Pasted image 20260923124756.png]]
 
-Og i kolloid kemi bruger vi hamaker konstanter, disse er konstante for e.g. vand, materialer 
+Og i kolloid kemi bruger vi hamaker konstanter, disse er konstante for e.g. vand, materialer osv. 
+![[Pasted image 20260923125052.png]]
+I praksis bruger man en effektiv hamaker konstant, hvor 1 er partikel 1, 2 er partikel 2 og 3 er mediet de er i.
 $$A_{132} = (\sqrt{A_1} - \sqrt{A_3})(\sqrt{A_2} - \sqrt{A_3})$$
+Dette indsættes i lignigen fra vdw krafter:
+![[Van der waal krafter]]
+
+
+Sammenlagt for vdw og elektrostatisk:
+$$
+V_{r}=2\pi ea\zeta^{2}\exp(-\kappa d)-\frac{Aa}{12d}
+$$
+Hvor:
+- $V_r$ = Repulsionspotentialet
+- $\pi$ = Pi (≈ 3,14159)
+- $e$ = Elementarladning
+- $a$ = Partikelradius
+- $\zeta$ = Zeta-potentiale
+- $\kappa$ = Debye-Hückel-parameter (invers Debye-længde)
+- $d$ = Afstand mellem partiklernes overflader
+- $A$ = Hamaker-konstanten
+
+KbT kan plottes ift. Vt for at sammenligne kinetisk energi og afstand.
+

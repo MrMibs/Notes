@@ -4,7 +4,7 @@ Trækker kolloider mod hinanden
 
 Dette er beskrevet af
 $$
-\frac{A\cdot a}{12\cdot d}
+v=\frac{A\cdot a}{12\cdot d}
 $$
 Hvor
 - a er radius
