@@ -9,4 +9,4 @@ $$
 Hvor
 - a er radius
 - d er afstand mellem kolloider
-- A er Hamaker konstanten (beskriver dipol dipol, dipol induc)
+- A er Hamaker konstanten altså dipol dipol, dipol induceret dipol og dipol induceret dipol induceret krafter summeret.

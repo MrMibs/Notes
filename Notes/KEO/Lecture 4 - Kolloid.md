@@ -23,3 +23,18 @@ De bevæger sig væk fra hinanden
 [[Elektrostatisk kraft]]
 Og mod hinanden
 [[Van der waal krafter]]
+
+Som udgangspunkt vil vi gerne have 
+$$
+vdw > elektrostatisk
+$$
+da vi gerne vil have vores stoffer klumper sammen.
+![[Pasted image 20260923114818.png]]
+
+Vi vil gerne have dem ned i sammenhængsminimum.
+
+Hvis vi ændre ph så zeta-potentiale bliver mindre eller tilsætter salt bliver de frastødende kræfter mindre. Dette er nødvendigt da vi skal mindske barrieren og vi kan ikke bare tilføje energi da T indgår i ligningerne og bare modvirker det (vist nok øger frastødning).
+
+Opsummering
+
+
