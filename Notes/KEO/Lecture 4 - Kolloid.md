@@ -44,4 +44,18 @@ Video 2
 ## DLVO teori er centralt for kolloid kemi.
 Kolloider er oftest negativt ladede. Dette minder om det fra før tror jeg, her har vi
 IHP (Inner Helmholtz Plane) hvilket er ioner ionbundet til kolloidet. Vi har også OHP lige udenfor, der er positive ioner med vand omkring som også kan have vdw krafter tiltrækkende dem til kolloidet. Disse tilsammen er stern laget.
+![[Pasted image 20260923122957.png]]
 
+Det diffusive lag er defineret som det lag hvor potentialet falder med 64% ift. OHP / stern. Det falder selvfølgelig fortsat.
+![[Pasted image 20260923123433.png]]
+
+For mono valent salt
+$$\psi = \psi_0 \cdot e^{-\kappa x}$$
+
+$$λ_D = \frac{3.04 \text{ Å}}{\sqrt{c_0 \frac{L}{\text{mol}}}}$$
+
+к: [[Debye-Hückel parameter, κ]] (m¯¹) - Afhænger af c｡ (salt koncentration) 
+λ$_D$: Debye length (m) 
+ɛ$_0$: Permittivitet i vacuum (8,85·1012 C2/Nm²) 
+ε: Dielectric constant (Vand: 78) 
+e = 1,602 176 565(35) · 10-19 С
