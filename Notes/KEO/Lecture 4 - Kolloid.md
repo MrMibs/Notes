@@ -109,3 +109,31 @@ Hvor:
 
 KbT kan plottes ift. Vt for at sammenligne kinetisk energi og afstand.
 
+![[Pasted image 20260923130118.png]]
+
+Toppunkt:
+![[Pasted image 20260923130138.png]]
+
+
+Kritisk [[Debye-Hückel parameter, κ]] for aggregering findes som
+$$ \kappa_{crit} = 23 \pi \varepsilon_r \varepsilon_0 e^{-1} \frac{\zeta^2}{A} = 2,3 \cdot 10^{-8} \frac{\zeta^2}{A} $$ 
+Her kender vi zeta potentiale og hammaker konstant. Omskrivning 2 er for vand.
+$$ \kappa = \left( \left( \frac{10^3 \cdot e^2 \cdot N_A}{kT} \right) \cdot \left( \frac{1}{\varepsilon \cdot \varepsilon_0} \right) \cdot (2 \cdot I) \right)^{1/2} $$
+
+Kritisk ionstyrke:
+Iccc = $\frac{1}{2}(24\pi exp[-1])^2 \frac{\epsilon_r^3 \epsilon_0^3 kT \zeta^4}{e^2 N_A A^2}$  (mol/m3)
+Iccc vand 25C = $3.36 \cdot 10^{-35} \frac{\zeta^4}{A^2}$ (mol/L)
+
+Afhængig af valens:
+![[Pasted image 20260923130638.png]]
+
+---
+Video 3:
+
+Hvis vi arbejder med metaller så kan vi blive meget skuffede:
+![[Pasted image 20260923130830.png]]
+Da det ikke bliver så ladet som vi ønsker, da i stedet for at give 3 negativt ladede ioner får ikke det.
+
+![[Pasted image 20260923130951.png]]
+
+
