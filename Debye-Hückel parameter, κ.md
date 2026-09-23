@@ -12,4 +12,4 @@ Hvor:
 - $k_{b}$ er [[Boltzmann konstant, kb]]
 - T er temperatur
 
-Høj I = Høj kappa = 
+Høj I = Høj kappa = Lille debye længde = diffusive lag er tyndt.
