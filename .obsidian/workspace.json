@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 4 - Kolloid.md",
+                "file": "Debye-Hückel parameter, κ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - Kolloid"
+              "title": "Debye-Hückel parameter, κ"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 4 - Kolloid.md",
+                "file": "Debye-Hückel parameter, κ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,8 +211,13 @@
   },
   "active": "dd0d4ddf8b532a0a",
   "lastOpenFiles": [
-    "Potentiale.md",
+    "elementarladning.md",
+    "Debye-Hückel parameter, κ.md",
+    "Kolloid potentiale.md",
+    "Pasted image 20260923103934.png",
     "Lecture 4 - Kolloid.md",
+    "Pasted image 20260923103923.png",
+    "Potentiale.md",
     "Pasted image 20260923103156.png",
     "Pasted image 20260923103150.png",
     "Medion.md",
@@ -235,8 +240,6 @@
     "Links/P5/Masked stereolithography - MSLA.md",
     "Pasted image 20260921150143.png",
     "Pasted image 20260921143648.png",
-    "Pasted image 20260921135237.png",
-    "Attachments/KEO/Pasted image 20260918094215.png",
     "Notes/KEO/Lecture 2 - Sedimentation og centrifugering.md",
     "Links/KEO/Frihedsgrader.md",
     "Links/KEO/Stokes ligning.md",
@@ -244,9 +247,6 @@
     "Links/KEO/KEO Opgaveregning 1.md",
     "Links/KEO/Stofbalance.md",
     "Notes/KEO/Lecture 1 - masse og energibalancer.md",
-    "Links/KEO/Total massebalance.md",
-    "Attachments/Hydraulik/Stabilitetskriterier.md",
-    "Links/KEO/Steady state.md",
     "Attachments/KEO",
     "Links/KEO",
     "Notes/KEO",

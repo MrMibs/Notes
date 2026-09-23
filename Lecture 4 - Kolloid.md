@@ -17,3 +17,4 @@ Hvor ladninger er balanceret når vi kommer længere væk. Integralet mellem de 
 
 ![[Potentiale]]
 
+[[Kolloid potentiale]]
