@@ -37,3 +37,11 @@ Hvis vi ændre ph så zeta-potentiale bliver mindre eller tilsætter salt bliver
 
 Opsummering
 ![[Pasted image 20260923115017.png]]
+
+---
+Video 2
+
+## DLVO teori er centralt for kolloid kemi.
+Kolloider er oftest negativt ladede. Dette minder om det fra før tror jeg, her har vi
+IHP (Inner Helmholtz Plane) hvilket er ioner ionbundet til kolloidet. Vi har også OHP lige udenfor, der er positive ioner med vand omkring som også kan have vdw krafter tiltrækkende dem til kolloidet. Disse tilsammen er stern laget.
+
