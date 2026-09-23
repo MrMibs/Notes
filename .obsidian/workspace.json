@@ -20,21 +20,6 @@
             }
           },
           {
-            "id": "21bec58649575774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elektrisk dobbeltlag.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Elektrisk dobbeltlag"
-            }
-          },
-          {
             "id": "dd0d4ddf8b532a0a",
             "type": "leaf",
             "state": {
@@ -50,7 +35,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +211,16 @@
   },
   "active": "dd0d4ddf8b532a0a",
   "lastOpenFiles": [
-    "Pasted image 20260923102752.png",
-    "Elektrisk dobbeltlag.md",
-    "Pasted image 20260923102701.png",
+    "Potentiale.md",
     "Lecture 4 - Kolloid.md",
+    "Pasted image 20260923103156.png",
+    "Pasted image 20260923103150.png",
+    "Medion.md",
+    "Modion.md",
+    "Elektrisk dobbeltlag.md",
+    "Pasted image 20260923102847.png",
+    "Pasted image 20260923102752.png",
+    "Pasted image 20260923102701.png",
     "Diffusive lag.md",
     "Pasted image 20260923102616.png",
     "Stern lag.md",
@@ -249,10 +240,6 @@
     "Notes/KEO/Lecture 2 - Sedimentation og centrifugering.md",
     "Links/KEO/Frihedsgrader.md",
     "Links/KEO/Stokes ligning.md",
-    "Attachments/KEO/Pasted image 20260918101957.png",
-    "Attachments/KEO/Pasted image 20260918101742.png",
-    "Attachments/KEO/Pasted image 20260918101547.png",
-    "Attachments/KEO/Pasted image 20260918101345.png",
     "Links/Hydraulik/Dynamisk viskositet μ eller η.md",
     "Links/KEO/KEO Opgaveregning 1.md",
     "Links/KEO/Stofbalance.md",
@@ -263,8 +250,6 @@
     "Attachments/KEO",
     "Links/KEO",
     "Notes/KEO",
-    "Attachments/Hydraulik/Lecture 9 - CFD.md",
-    "Attachments/Hydraulik/Computational Flow Dynamics CFD.md",
     "Attachments/RPM",
     "Links/RPM",
     "Notes/RPM",

@@ -8,6 +8,12 @@ Efter det har vi
 ![[Elektrisk dobbeltlag]]
 
 Fordeling ift. afstand fra negativt ladet kolloid
-![[Pasted image 20260923102752.png]]
+![[Pasted image 20260923103156.png]]
 
-Hvor ladninger er balanceret når vi kommer længere væk.
+Hvor ladninger er balanceret når vi kommer længere væk. Integralet mellem de to linjer for + og - ioner giver ladningen af kolloidet, og ligeledes omvendt.
+
+[[Modion]]
+[[Medion]]
+
+![[Potentiale]]
+
