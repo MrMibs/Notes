@@ -17,5 +17,6 @@ I højere end 0,4 (dråbedannelse)
 ---
 
 Hvis gas skal forbi vand kan vi have probelemer med at blæse vandet væk:
-![[Pasted image 20260924134311.png]]
-Her har vi P, hvilket er flow ift. densitet skrevet på mange måder
+![[Pasted image 20260924135517.png]]
+
+Her har vi P, hvilket er flow ift. densitet skrevet på mange måder. P større hvis vandflow øges, mindre hvis gasflow øges. I det nederste er fugtet = blå. Overflade pr vol kolonne er tabelopslag for e.g. træ. Diameteren af kolonnen skal være "en hvis størrelse" for at kunne bruge disse da de ikke tager højde for diameter.
