@@ -60,7 +60,19 @@ Ligning 1 er linært fald til 0.0 via øverste ligning, en approximation men vir
 
 Nogen ting kæmper for deres vand:
 ![[Pasted image 20260924110408.png]]
-Eg. noget med salt vil indstille en ligevægt når det osmotiske tryk bliver for højt osv.
+Eg. noget med salt vil indstille en ligevægt når det osmotiske tryk bliver for højt osv. Opsummering, rigtig god, starter 12:30:
+![[Pasted image 20260924110620.png]]
 
 
+---
+Video 3
 
+Fordampningsskitse:
+![[Pasted image 20260924111037.png]]
+
+Når vi har damp kan det være vådt
+![[Pasted image 20260924111217.png]]
+På denne graf har vi:
+- Temp (horizontale linjer)
+- Tryk (weird nedad man kan se dem)
+- Andel vand (over tyk grøn er det tør damp)
