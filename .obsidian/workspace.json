@@ -33,9 +33,21 @@
               "icon": "lucide-file",
               "title": "Lecture 7 - Filmlagsteori"
             }
+          },
+          {
+            "id": "b5eedd2332b7aa40",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/KEO/Pasted image 20260924112809.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260924112809"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 7 - Filmlagsteori.md",
+                "file": "Attachments/KEO/Pasted image 20260924112809.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,22 +221,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c648710d94c8937d",
+  "active": "b5eedd2332b7aa40",
   "lastOpenFiles": [
+    "Lecture 7 - Filmlagsteori.md",
+    "Pasted image 20260924140424.png",
+    "Pasted image 20260924140215.png",
+    "Pasted image 20260924140106.png",
+    "Pasted image 20260924140020.png",
+    "Pasted image 20260924135836.png",
     "Pasted image 20260924135517.png",
     "Pasted image 20260924134311.png",
     "Pasted image 20260924132435.png",
     "MOCs/KEO MOC.md",
-    "Lecture 7 - Filmlagsteori.md",
     "Attachments/KEO/Pasted image 20260924112809.png",
     "Notes/KEO/Lecture 6 - Molliers diagrammer.md",
     "Attachments/KEO/Pasted image 20260924112618.png",
-    "Attachments/KEO/Pasted image 20260924111843.png",
-    "Attachments/KEO/Pasted image 20260924111643.png",
-    "Attachments/KEO/Pasted image 20260924111217.png",
-    "Attachments/KEO/Pasted image 20260924111037.png",
-    "Attachments/KEO/Pasted image 20260924110620.png",
-    "Attachments/KEO/Pasted image 20260924110408.png",
     "Links/KEO/Tørringshastighedsligning.md",
     "Notes/KEO/Lecture 5 - stationær varmeoverføring.md",
     "Notes/KEO/Lecture 4 - Kolloid.md",
