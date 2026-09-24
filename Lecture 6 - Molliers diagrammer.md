@@ -70,9 +70,16 @@ Video 3
 Fordampningsskitse:
 ![[Pasted image 20260924111037.png]]
 
-Når vi har damp kan det være vådt
+Når vi har damp kan der være vand i det:
 ![[Pasted image 20260924111217.png]]
 På denne graf har vi:
 - Temp (horizontale linjer)
 - Tryk (weird nedad man kan se dem)
-- Andel vand (over tyk grøn er det tør damp)
+- Vand tilstandsform (over tyk grøn er det tør damp)
+
+Vi kan reducere tryk for at ændre entropi:
+![[Pasted image 20260924111643.png]]
+
+Vi kan også kondensere ved at reducere temp
+![[Pasted image 20260924111843.png]]
+
