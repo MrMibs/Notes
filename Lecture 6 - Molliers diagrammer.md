@@ -15,10 +15,30 @@ Random slide.
 Tilbage til mollier diagrammet. Her ser vi at max mængde vand er afhængig af temp (tegnet for 20C og 40C). Her har vi $\varphi = 1$, dette beskriver relativ fugtighed.
 ![[Pasted image 20260924102858.png]]
 
-Partialtryk kan beregnes som:
+Mættet damptryk kan beregnes som:
 ![[Pasted image 20260924103145.png]]
-Men mollier giver bare svaret så idk
+Men mollier giver bare svaret så idk. Relative fugtighed $\varphi$ kan beregnes som:
+$$
+\varphi = \frac{p}{p_{s}}\cdot100\%
+$$
+Hvor:
+- P er partialtryk af vand
+- $P_{s}$ er mættet damptryk
 
-![[Pasted image 20260924103433.png]]
+Vi har også entalpi:
+![[Pasted image 20260924103744.png]]
+Dette kan beregnes som:
+![[Pasted image 20260924103855.png]]
+Hvor X er mængde vand. resten står på slidet.
 
-Det $\varphi$ kan beregnes.
+---
+
+I praksis
+![[Pasted image 20260924104113.png]]
+![[Pasted image 20260924104134.png]]
+
+Hvor det meste varme bruges til at fordampe vandet fra produktet. Vi kan også køle for at fjerne vand:
+![[Pasted image 20260924104317.png]]
+
+Vi kan også øge luftfugtighed kontrolleret:
+![[Pasted image 20260924104430.png]]
