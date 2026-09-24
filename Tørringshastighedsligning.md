@@ -1,7 +1,7 @@
 #KEO 
 
 $$
-R=-\frac{m}{A} \frac{\text{d}y}{\text{d}t}
+R=-\frac{m}{A} \frac{\text{d}y}{\text{d}\tau}
 $$
 Hvor:
 - R: Tørringshastighed (kg vand/(m² s) 
@@ -9,3 +9,6 @@ Hvor:
 - A: Areal (m²) 
 - Y: Fugtighed (kg vand/kg tørstof) 
 - τ: Tid (s)
+
+Tørringshastighed har mange enheder, vi bruger det i kg vand / overflade pr tid. Illustration:
+![[Pasted image 20260924105730.png]]

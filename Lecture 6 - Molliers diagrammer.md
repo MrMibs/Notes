@@ -49,4 +49,18 @@ Vi kan også tørre noget ved at blande ny luft med våd luft? Forstår ikke hel
 ---
 
 Video 2
-[[Tørringshastighedsligning]]
+![[Tørringshastighedsligning]]
+
+![[Pasted image 20260924105815.png]]
+
+Vi kan regne på dette
+![[Pasted image 20260924110037.png]]
+Ligning 1 er linært fald til 0.0 via øverste ligning, en approximation men virker virkelig godt. Hvis alt vand ikke kan fjernes bruges 2.
+![[Pasted image 20260924110312.png]]
+
+Nogen ting kæmper for deres vand:
+![[Pasted image 20260924110408.png]]
+Eg. noget med salt vil indstille en ligevægt når det osmotiske tryk bliver for højt osv.
+
+
+

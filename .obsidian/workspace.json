@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tørringshastighedsligning.md",
+                "file": "Lecture 6 - Molliers diagrammer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tørringshastighedsligning"
+              "title": "Lecture 6 - Molliers diagrammer"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tørringshastighedsligning.md",
+                "file": "Lecture 6 - Molliers diagrammer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,18 +211,19 @@
   },
   "active": "bbc77aad80809701",
   "lastOpenFiles": [
-    "Lecture 6 - Molliers diagrammer.md",
+    "Pasted image 20260924110408.png",
+    "Pasted image 20260924110312.png",
+    "Pasted image 20260924110037.png",
+    "Pasted image 20260924105815.png",
     "Tørringshastighedsligning.md",
+    "Pasted image 20260924105730.png",
+    "Lecture 6 - Molliers diagrammer.md",
     "Pasted image 20260924104600.png",
     "Pasted image 20260924104430.png",
     "Pasted image 20260924104317.png",
     "Pasted image 20260924104134.png",
     "Pasted image 20260924104113.png",
     "Pasted image 20260924103855.png",
-    "Pasted image 20260924103744.png",
-    "Pasted image 20260924103433.png",
-    "Pasted image 20260924103145.png",
-    "Pasted image 20260924102858.png",
     "MOCs/KEO MOC.md",
     "Notes/KEO/Lecture 5 - stationær varmeoverføring.md",
     "Notes/KEO/Lecture 4 - Kolloid.md",
@@ -246,7 +247,6 @@
     "Links/KEO/Modion.md",
     "Links/KEO/Elektrisk dobbeltlag.md",
     "Links/KEO/Diffusive lag.md",
-    "Links/KEO/Stern lag.md",
     "Attachments/KEO",
     "Links/KEO",
     "Notes/KEO",
