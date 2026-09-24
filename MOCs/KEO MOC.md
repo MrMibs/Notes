@@ -4,3 +4,4 @@
 [[Lecture 3 - Filtreringsteori]]
 [[Lecture 4 - Kolloid]]
 [[Lecture 5 - stationær varmeoverføring]]
+[[Lecture 6 - Molliers diagrsmmer]]
