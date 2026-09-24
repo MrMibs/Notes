@@ -13,3 +13,9 @@ Hvor:
 
 I mindre end 0,08 (ikke tilstrækkelig befugtning)
 I højere end 0,4 (dråbedannelse)
+
+---
+
+Hvis gas skal forbi vand kan vi have probelemer med at blæse vandet væk:
+![[Pasted image 20260924134311.png]]
+Her har vi P, hvilket er flow ift. densitet skrevet på mange måder
