@@ -42,3 +42,11 @@ Hvor det meste varme bruges til at fordampe vandet fra produktet. Vi kan også k
 
 Vi kan også øge luftfugtighed kontrolleret:
 ![[Pasted image 20260924104430.png]]
+
+Vi kan også tørre noget ved at blande ny luft med våd luft? Forstår ikke helt pointen med denne her. Men pointen er at når man blander 2 lufte tager man bare et vægtet gennemsnit.
+![[Pasted image 20260924104600.png]]
+
+---
+
+Video 2
+[[Tørringshastighedsligning]]
