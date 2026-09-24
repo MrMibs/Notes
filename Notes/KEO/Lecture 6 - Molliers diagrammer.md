@@ -83,3 +83,7 @@ Vi kan reducere tryk for at ændre entropi:
 Vi kan også kondensere ved at reducere temp
 ![[Pasted image 20260924111843.png]]
 
+Vi kan spawne os et fint tal der omregner teoretisk trykændring til praktisk trykændring
+![[Pasted image 20260924112618.png]]
+![[Pasted image 20260924112809.png]]
+Altså ganger vi virkningsgrader på teorien indtil vi får det rigtige resultat, her har vi også mekanisk fra modstand i turbinen.

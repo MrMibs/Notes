@@ -20,18 +20,15 @@
             }
           },
           {
-            "id": "bbc77aad80809701",
+            "id": "b5eedd2332b7aa40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lecture 6 - Molliers diagrammer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Attachments/KEO/Pasted image 20260924112809.png"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 6 - Molliers diagrammer"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260924112809"
             }
           }
         ],
@@ -110,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 6 - Molliers diagrammer.md",
+                "file": "Attachments/KEO/Pasted image 20260924112809.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,21 +206,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbc77aad80809701",
+  "active": "623d9685add00402",
   "lastOpenFiles": [
-    "Pasted image 20260924111843.png",
-    "Pasted image 20260924111643.png",
-    "Pasted image 20260924111217.png",
-    "Pasted image 20260924111037.png",
-    "Pasted image 20260924110620.png",
-    "Pasted image 20260924110408.png",
-    "Pasted image 20260924110312.png",
-    "Pasted image 20260924110037.png",
-    "Pasted image 20260924105815.png",
-    "Tørringshastighedsligning.md",
-    "Pasted image 20260924105730.png",
-    "Lecture 6 - Molliers diagrammer.md",
-    "Pasted image 20260924104600.png",
+    "Notes/KEO/Lecture 6 - Molliers diagrammer.md",
+    "Attachments/KEO/Pasted image 20260924112809.png",
+    "Attachments/KEO/Pasted image 20260924112618.png",
+    "Attachments/KEO/Pasted image 20260924111843.png",
+    "Attachments/KEO/Pasted image 20260924111643.png",
+    "Attachments/KEO/Pasted image 20260924111217.png",
+    "Attachments/KEO/Pasted image 20260924111037.png",
+    "Attachments/KEO/Pasted image 20260924110620.png",
+    "Attachments/KEO/Pasted image 20260924110408.png",
+    "Attachments/KEO/Pasted image 20260924110312.png",
+    "Attachments/KEO/Pasted image 20260924110037.png",
+    "Links/KEO/Tørringshastighedsligning.md",
     "MOCs/KEO MOC.md",
     "Notes/KEO/Lecture 5 - stationær varmeoverføring.md",
     "Notes/KEO/Lecture 4 - Kolloid.md",
