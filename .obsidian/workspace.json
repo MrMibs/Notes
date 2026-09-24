@@ -20,15 +20,18 @@
             }
           },
           {
-            "id": "b5eedd2332b7aa40",
+            "id": "c648710d94c8937d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/KEO/Pasted image 20260924112809.png"
+                "file": "Lecture 7 - Filmlagsteori.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260924112809"
+              "icon": "lucide-file",
+              "title": "Lecture 7 - Filmlagsteori"
             }
           }
         ],
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/KEO/Pasted image 20260924112809.png",
+                "file": "Lecture 7 - Filmlagsteori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,10 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "623d9685add00402",
+  "active": "c648710d94c8937d",
   "lastOpenFiles": [
-    "Notes/KEO/Lecture 6 - Molliers diagrammer.md",
+    "Pasted image 20260924132435.png",
+    "MOCs/KEO MOC.md",
+    "Lecture 7 - Filmlagsteori.md",
     "Attachments/KEO/Pasted image 20260924112809.png",
+    "Notes/KEO/Lecture 6 - Molliers diagrammer.md",
     "Attachments/KEO/Pasted image 20260924112618.png",
     "Attachments/KEO/Pasted image 20260924111843.png",
     "Attachments/KEO/Pasted image 20260924111643.png",
@@ -220,7 +226,6 @@
     "Attachments/KEO/Pasted image 20260924110312.png",
     "Attachments/KEO/Pasted image 20260924110037.png",
     "Links/KEO/Tørringshastighedsligning.md",
-    "MOCs/KEO MOC.md",
     "Notes/KEO/Lecture 5 - stationær varmeoverføring.md",
     "Notes/KEO/Lecture 4 - Kolloid.md",
     "Links/Hydraulik/Stabilitetskriterier.md",
@@ -242,7 +247,6 @@
     "Links/KEO/Medion.md",
     "Links/KEO/Modion.md",
     "Links/KEO/Elektrisk dobbeltlag.md",
-    "Links/KEO/Diffusive lag.md",
     "Attachments/KEO",
     "Links/KEO",
     "Notes/KEO",

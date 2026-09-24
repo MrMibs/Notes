@@ -5,3 +5,4 @@
 [[Lecture 4 - Kolloid]]
 [[Lecture 5 - stationær varmeoverføring]]
 [[Lecture 6 - Molliers diagrammer]]
+[[Lecture 7 - Filmlagsteori]]
