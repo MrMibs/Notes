@@ -22,6 +22,16 @@ Batches er bedre (kommer senere) dermed køre vi med flere trin kontinuert.
 Flow igennem lagene er ens:
 ![[Pasted image 20261001124753.png]]
 
+Vigtig ligning
+![[Pasted image 20261001124957.png]]
 
 
+Bedre omskrivning for forstærker (op)
+![[Pasted image 20261001125041.png]]
 
+Og ligeledes afdriver (ned)
+![[Pasted image 20261001125120.png]]
+Nederste ligning hedder arbejdslinje eller massebalance. F er fødeblanding mol/s i fødeblanding. Vi vil gerne kunne ændre R. Høj R er god men dyr.
+![[Pasted image 20261001125435.png]]
+![[Pasted image 20261001125522.png]]
+Også ikke brug distillation til ethanol over 85%
