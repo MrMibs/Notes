@@ -44,3 +44,13 @@ Partikler fanges ved at røre ved et filter. Enten er den stor og rør, random o
 ![[Pasted image 20261001130621.png]]
 
 Kolloider er et træls mellemsted hvor de følger flowlinjen (da de er partikler i væskesuspension)
+![[Pasted image 20261001130924.png]]
+Hvis man lyser igennem et kolonne bliver en andel skudt vikelret af interaktioner med partikler. Dette er turbiditet. Dette bruger vi til at måle partikelmængde med.
+
+Partikler der fjernes pr afstand = koncentration gange konstant
+![[Pasted image 20261001131257.png]]
+
+Giver sig selv lidt
+![[Pasted image 20261001131713.png]]
+Note I er andel af partikler der sætter sig fast.
+Dette kan skaleres til kolonnestørrelse
