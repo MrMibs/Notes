@@ -35,3 +35,12 @@ Nederste ligning hedder arbejdslinje eller massebalance. F er fødeblanding mol/
 ![[Pasted image 20261001125435.png]]
 ![[Pasted image 20261001125522.png]]
 Også ikke brug distillation til ethanol over 85%
+
+---
+
+Tror ikke jeg skriver noter til del 3, sorry :(
+ 
+Partikler fanges ved at røre ved et filter. Enten er den stor og rør, random og rammer randomly eller så er der inerti der gør partiklen ikke følger flow-linjen.
+![[Pasted image 20261001130621.png]]
+
+Kolloider er et træls mellemsted hvor de følger flowlinjen (da de er partikler i væskesuspension)
