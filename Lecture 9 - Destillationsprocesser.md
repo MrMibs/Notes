@@ -1,5 +1,5 @@
 #KEO 
-
+FYI TIL FREMTIDIG MIG SÅ SÆT ALPHA = 1 I C = C0... LIGNING SOM UDGANGSPUNKT
 Destillation som batch process
 ![[Pasted image 20261001123742.png]]
 
@@ -54,3 +54,25 @@ Giver sig selv lidt
 ![[Pasted image 20261001131713.png]]
 Note I er andel af partikler der sætter sig fast.
 Dette kan skaleres til kolonnestørrelse
+![[Pasted image 20261001132006.png]]
+C er ud, C0 er ind.
+## Diffusion
+NR er partikel ift. sandkorn / collector. VDW er tiltrækning mellem sand og mol, pecklet er viskositet, og meget andet konstant.
+![[Pasted image 20261001132313.png]]
+
+## Sedimentation
+![[Pasted image 20261001132344.png]]
+
+Ng er densitetsforskel, dp^2 er partikeldiameter vf er vfluid.
+
+## Interception
+![[Pasted image 20261001132442.png]]
+
+FYI TIL FREMTIDIG MIG SÅ SÆT ALPHA = 1 I C = C0... LIGNING SOM UDGANGSPUNKT.
+
+Effekterne ligges samen
+![[Pasted image 20261001132640.png]]
+Ift. partikelstørrelse er forskellige ting dominerende. Men omkring 1 $\mu m$ har vi et problem og dermed skal vi tilsætte flokkuleringsmiddel.
+
+TL;DR
+![[Pasted image 20261001132750.png]]
