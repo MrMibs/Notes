@@ -6,3 +6,4 @@
 [[Lecture 5 - stationær varmeoverføring]]
 [[Lecture 6 - Molliers diagrammer]]
 [[Lecture 7 - Filmlagsteori]]
+[[Lecture 8 - Adsorption og kolonneprocesser]]
