@@ -9,7 +9,17 @@ Vi fjerner ioner ved at have en kolonne med H+ og OH-, så byttes ionerne fra v�
 Vi kan også blødgøre vand ved at fjerne divalente ioner (e.g. relevant i opvaskemaskine for at undgå forkalkning).
 ![[Pasted image 20261001103637.png]]
 
-Dette kan selvfølgelig beskrives matematisk.
+Dette kan selvfølgelig beskrives matematisk. A ind på resin, B ud fra resin.
+![[Pasted image 20261001103732.png]]
 
-A ind på resin, B u
+Aktiviteter er mere korrekte (som vi kender). Dette regnes som $\gamma\cdot c$ hvor c er koncentration. Dog går koefficienterne ud med hinanden ish så vores antagelse er ok. 
+
+Ved multivalente ioner:
+![[Pasted image 20261001104010.png]]
+
+Ved ikke helt om det er politisk korrekt eller om det er sådan den bruges:
+![[Pasted image 20261001104045.png]]
+
+Høj ladning = høj selektivitet = vil gerne sættes på ionbyttermateriale. Samme med lille hydreret volumen (mængde af OH der sætter sig omkring det) da de bliver større og dermed svagere. Samme med polarisering, jo mere ladning vi kan få, jo bedre.
+![[Pasted image 20261001104614.png]]
 
