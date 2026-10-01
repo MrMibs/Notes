@@ -23,3 +23,16 @@ Ved ikke helt om det er politisk korrekt eller om det er sådan den bruges:
 Høj ladning = høj selektivitet = vil gerne sættes på ionbyttermateriale. Samme med lille hydreret volumen (mængde af OH der sætter sig omkring det) da de bliver større og dermed svagere. Samme med polarisering, jo mere ladning vi kan få, jo bedre.
 ![[Pasted image 20261001104614.png]]
 
+Specifik kapacitet er mængde af sites pr masse. meq = mmol. På et tidspunkt bliver vores kolonne træt :(
+![[Pasted image 20261001105001.png]]
+
+Der er der for få sites og vores væske bliver ikke helt rent. Cs beregning:
+![[Pasted image 20261001105214.png]]
+
+$72^{-1}\cdot100 = 14meq/g$
+
+Sådan kan vi teste sites:
+![[Pasted image 20261001105522.png]]
+
+Eksempel fortsat (nsites og cs):
+![[Pasted image 20261001105714.png]]
