@@ -36,3 +36,22 @@ Sådan kan vi teste sites:
 
 Eksempel fortsat (nsites og cs):
 ![[Pasted image 20261001105714.png]]
+
+Næste opgave:
+![[Pasted image 20261001110110.png]]
+Vi regner med alt Na udskiftes med Ca og at vi kan fjerne alt.
+![[Pasted image 20261001110240.png]]
+VI har Cs fra sidste opgave dermed
+![[Pasted image 20261001110350.png]]
+
+---
+
+Sådan laves resin:
+![[Pasted image 20261001110535.png]]
+
+Der findes meget forskelligt, både stærke og svage syre. Fordelen ved svage syre er regenerering.
+![[Pasted image 20261001110630.png]]
+
+De virker ikke under given pH, fordi syren afgives, hvilket er perfekt: 
+![[Pasted image 20261001110713.png]]
+
