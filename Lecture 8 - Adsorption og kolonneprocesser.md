@@ -55,3 +55,14 @@ Der findes meget forskelligt, både stærke og svage syre. Fordelen ved svage sy
 De virker ikke under given pH, fordi syren afgives, hvilket er perfekt: 
 ![[Pasted image 20261001110713.png]]
 
+Vores resin kan have flere former
+![[Pasted image 20261001110900.png]]
+Stregerne er ionbytter, huller er porre. Øverst til højre er hurtigere kinetisk. Så jo større partikler jo hurtigere kommer det igennem, men jo mindre partikler jo kortere skal vores stof før det er færdigbyttet.
+![[Pasted image 20261001111307.png]]
+
+Hvis trykket bliver for højt (tror jeg) eller hvis ting sætter sig i toppen backwasher vi hvilket fjerner rester., hvis vores resin er træt regenerere vi det.
+![[Pasted image 20261001111353.png]]
+Dette vises her:
+![[Pasted image 20261001111446.png]]
+
+Her sætter man typisk et filter inden. Se sidste 10 sekunder for at få et summary.
