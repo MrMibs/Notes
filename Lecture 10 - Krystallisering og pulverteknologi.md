@@ -51,8 +51,8 @@ Og dermed fås:
 Dette er også grunden til omrøring øger kimdannelse da grænselaget bliver mindre grundet strømning.
 ![[Pasted image 20261005141720.png]]
 
-
-
+Ved opløsning er koncentrationen ved overfladen mættet, det giver god mening.
+![[Pasted image 20261005141852.png]]
 
 
 
