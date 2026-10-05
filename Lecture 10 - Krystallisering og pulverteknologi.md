@@ -37,7 +37,21 @@ Der er også en metastabil region hvor vores opløsning kan være lidt overmætt
 
 c/cs = cr/c. Små partikler opløser godt (som vi ser). Dette giver os det metastabile område, da de første kim har en anden opløselighed.
 ![[Pasted image 20261005140643.png]]
-Vores øverste er $^{2}$ nederste er $^{3}$. Jo mere vi tilsætter, jo mere forskyder vi 
+Vores øverste er $^{2}$ nederste er $^{3}$. Jo mere vi tilsætter, jo mere forskyder vi nederste kurve indtil vi når metastabil grænse. Vi kan tvinge det til at lave kim:
+![[Pasted image 20261005140925.png]]
+Og dette kan også kontrollere kimdannelse.
+![[Pasted image 20261005141143.png]]
+
+---
+
+Krystalvækst styrres af diffusion gennem grænselag og binding til krystalgitter. Dermed kan vi se ændring af koncentration inde ved partiklen, dette kan vi beregne som nævnt i filmlagsteori tidligere.
+![[Pasted image 20261005141453.png]]
+Og dermed fås:
+![[Pasted image 20261005141523.png]]
+Dette er også grunden til omrøring øger kimdannelse da grænselaget bliver mindre grundet strømning.
+![[Pasted image 20261005141720.png]]
+
+
 
 
 
