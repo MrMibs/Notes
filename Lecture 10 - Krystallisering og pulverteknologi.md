@@ -32,7 +32,13 @@ Vores SI bliver 0 når stoffet udfælder og kim dannes. Lavpraktisk gør vi dett
 
 Temperaturpåvirkning variere meget:
 ![[Pasted image 20261005135343.png]]
-Der er også en metastabil region hvor vores opløsning kan være lidt overmættet da det er svært at danne kim. Over metastabil grænse så er det doomed either way.
+Der er også en metastabil region hvor vores opløsning kan være lidt overmættet da det er svært at danne kim. Over metastabil grænse så er det doomed either way. Overflader har overfladespænding / grænselagsspænding. Dette koster energi, hvilket giver os det metastabile område. C er opløselighed af store partikler, Cr er opløselighed af kim (højere).
+![[Pasted image 20261005140303.png]]
+
+c/cs = cr/c. Små partikler opløser godt (som vi ser). Dette giver os det metastabile område, da de første kim har en anden opløselighed.
+![[Pasted image 20261005140643.png]]
+Vores øverste er $^{2}$ nederste er $^{3}$. Jo mere vi tilsætter, jo mere forskyder vi 
+
 
 
 
