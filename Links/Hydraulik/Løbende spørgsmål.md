@@ -1,2 +1,3 @@
 #P5 
-Hvor mange sparere skal der være for at der er nok turbulens og for det reelt "spacer" de to lag ud?
+Test mesh 0.002 minimum ting
+
