@@ -25,4 +25,15 @@ For at udkrystallisere noget skal vi bruge en overmætte opløsning. Her har vi 
 $$
 SI=\log\left( \frac{[Mg]\cdot [SO_{4}]}{K_{s}} \right)
 $$
+Altså ved ligevægt er Ks = Mg SO4 og dermed log(1) = 0 alt over 1 det er overmættet. Illustreret:
+![[Pasted image 20261005134911.png]]
+Vores SI bliver 0 når stoffet udfælder og kim dannes. Lavpraktisk gør vi dette:
+![[Pasted image 20261005135159.png]]3. Henviser til pH
+
+Temperaturpåvirkning variere meget:
+![[Pasted image 20261005135343.png]]
+Der er også en metastabil region hvor vores opløsning kan være lidt overmættet da det er svært at danne kim. Over metastabil grænse så er det doomed either way.
+
+
+
 
