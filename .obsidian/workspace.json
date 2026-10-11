@@ -136,7 +136,8 @@
               "title": "Intro"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -312,12 +313,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c075713717dd49",
+  "active": "5fae7d7747d3f373",
   "lastOpenFiles": [
-    "Notes/P5/Intro.md",
-    "Links/P5/Solidworks.md",
-    "Notes/P5/Interace py.md",
+    "Links/KEO/Debye-Hückel parameter, κ.md",
     "Links/Hydraulik/Løbende spørgsmål.md",
+    "Notes/P5/Interace py.md",
+    "Notes/P5/Intro.md",
+    "Links/NMRMS/COSY sequence.md",
+    "Notes/NMRMS/Day 5/Principles of 2D NMR.md",
+    "Notes/NMRMS/Day 5/NMR lesson 5.md",
+    "Links/P5/Solidworks.md",
     "Links/P5/Møde 1.md",
     "Links/P5/Møde 2.md",
     "Pasted image 20261005141852.png",
@@ -346,10 +351,6 @@
     "Links/KEO/Medion.md",
     "Links/KEO/Kolloid potentiale.md",
     "Links/KEO/Kage.md",
-    "Links/KEO/Ionstyrke, I.md",
-    "Links/KEO/Elektrostatisk kraft.md",
-    "Links/KEO/Elektrisk dobbeltlag.md",
-    "Links/KEO/Diffusive lag.md",
     "Notes/KEO",
     "Links/KEO",
     "Attachments/KEO",
