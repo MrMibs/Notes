@@ -23,7 +23,7 @@ G = \int^V_{0} r \; \text{d}V
 $$
 Hvor vi selvfølgelig tager de små volumenbidrag og lægger hver deres reaktionshastighed sammen. Vi har nok måder at regne hastighed ud i specifikke slices af en reaktor eller noget så det er bare hvadend dele vi kan beregne. Dette benyttes som:
 $$
-1 \frac{mol}{m_{3}}
+3 \frac{\text{mol}}{m^{3}\cdot \text{s}} \cdot 1 m^{3}+2\frac{\text{mol}}{m^{3}\cdot \text{s}}\cdot 1m^{3}=5 \frac{\text{mol}}{\text{s}}
 $$
 
 ---
