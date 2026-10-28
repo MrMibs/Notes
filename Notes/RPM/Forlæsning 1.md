@@ -13,7 +13,18 @@ Balanceligning:
 $$
 \frac{\text{d}N}{\text{d}t}=F_{0}-F+G
 $$
-Hvor G er generation.
+Hvor G er generation og resten ses ovenstående. For en ideel reaktor kan vi skrive G som:
+$$
+G=r\cdot V
+$$
+Hvor r er volumetrisk reaktionshastighed (mol pr m$^3$ t) og V er volumen. r kan eksempelvis være et hastighedsudtryk for en 0,1 eller 2 orden reaktion. Hvis den er ikke ideel har vi i stedet:
+$$
+G = \int^V_{0} r \; \text{d}V
+$$
+Hvor vi selvfølgelig tager de små volumenbidrag og lægger hver deres reaktionshastighed sammen. Vi har nok måder at regne hastighed ud i specifikke slices af en reaktor eller noget så det er bare hvadend dele vi kan beregne. Dette benyttes som:
+$$
+1 \frac{mol}{m_{3}}
+$$
 
 ---
 
