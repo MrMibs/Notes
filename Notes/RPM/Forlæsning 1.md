@@ -4,8 +4,16 @@ Modeller har 2 komponenter (mindst):
 **Balanceligning** bestemmer IO af det du holder styr på (ind, ud, dannelse, forbrug)
 **Hastighedsudtryk** (dannelses/forbrugshastighed) hvilket sættes ind i dannelse og forbrug.
 
-Lad os sige vi tilsætter O2 gas til en beholder og dræner noget væske, så skal vi bruge noget kemi til at beskrive hvordan gassen bliver overført til vandet. Dette hedder **transportligninger**.
+Lad os sige vi tilsætter O2 gas til en beholder og dræner noget væske, så skal vi bruge noget kemi til at beskrive hvordan gassen bliver overført til vandet. Også bare tilføjelsen af materiale i sig selv. Dette hedder **transportligninger**.
+![[Pasted image 20261028102010.png]]
 
+
+
+Balanceligning:
+$$
+\frac{\text{d}N}{\text{d}t}=F_{0}-F+G
+$$
+Hvor G er generation.
 
 ---
 
