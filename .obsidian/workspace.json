@@ -20,12 +20,27 @@
             }
           },
           {
+            "id": "ef0131676f8415de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/KEO/Lecture 8 - Adsorption og kolonneprocesser.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 8 - Adsorption og kolonneprocesser"
+            }
+          },
+          {
             "id": "148531635f3ef6cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 11 - Membraner.md",
+                "file": "Notes/KEO/Lecture 11 - Membraner.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture 11 - Membraner.md",
+                "file": "Notes/KEO/Lecture 8 - Adsorption og kolonneprocesser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,23 +224,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "148531635f3ef6cc",
+  "active": "ef0131676f8415de",
   "lastOpenFiles": [
-    "MOCs/KEO MOC.md",
-    "Lecture 11 - Membraner.md",
-    "Lecture 10 - Krystallisering og pulverteknologi.md",
-    "Pasted image 20261005141852.png",
-    "Pasted image 20261005141720.png",
-    "Pasted image 20261005141523.png",
-    "Pasted image 20261005141453.png",
-    "Pasted image 20261005141143.png",
-    "Pasted image 20261005140925.png",
-    "Pasted image 20261005140643.png",
-    "Pasted image 20261005140303.png",
-    "Pasted image 20261005140107.png",
-    "Pasted image 20261005135343.png",
-    "Notes/KEO/Lecture 9 - Destillationsprocesser.md",
+    "RPM MOC.md",
     "Notes/KEO/Lecture 8 - Adsorption og kolonneprocesser.md",
+    "Notes/KEO/Lecture 10 - Krystallisering og pulverteknologi.md",
+    "Attachments/KEO/Pasted image 20261005141852.png",
+    "Notes/KEO/Lecture 11 - Membraner.md",
+    "MOCs/KEO MOC.md",
+    "Attachments/KEO/Pasted image 20261005141720.png",
+    "Attachments/KEO/Pasted image 20261005141523.png",
+    "Attachments/KEO/Pasted image 20261005141453.png",
+    "Attachments/KEO/Pasted image 20261005141143.png",
+    "Attachments/KEO/Pasted image 20261005140925.png",
+    "Attachments/KEO/Pasted image 20261005140643.png",
+    "Attachments/KEO/Pasted image 20261005140303.png",
+    "Attachments/KEO/Pasted image 20261005140107.png",
+    "Attachments/KEO/Pasted image 20261005135343.png",
+    "Notes/KEO/Lecture 9 - Destillationsprocesser.md",
     "Notes/KEO/Lecture 7 - Filmlagsteori.md",
     "Lecture 7 - Filmlagsteori.md",
     "Notes/KEO/Lecture 6 - Molliers diagrammer.md",
@@ -245,8 +261,6 @@
     "elementarladning.md",
     "Links/KEO/Ionstyrke, I.md",
     "Links/KEO/Boltzmann konstant, kb.md",
-    "Links/KEO/relativ permeabilitet tabel.md",
-    "Links/KEO/Kolloid potentiale.md",
     "Attachments/KEO",
     "Links/KEO",
     "Notes/KEO",
