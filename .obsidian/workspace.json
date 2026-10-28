@@ -25,13 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/KEO/Lecture 8 - Adsorption og kolonneprocesser.md",
+                "file": "Notes/RPM/Forlæsning 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 8 - Adsorption og kolonneprocesser"
+              "title": "Forlæsning 1"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/KEO/Lecture 8 - Adsorption og kolonneprocesser.md",
+                "file": "Notes/RPM/Forlæsning 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,8 +226,9 @@
   },
   "active": "ef0131676f8415de",
   "lastOpenFiles": [
-    "RPM MOC.md",
+    "MOCs/RPM MOC.md",
     "Notes/KEO/Lecture 8 - Adsorption og kolonneprocesser.md",
+    "RPM MOC.md",
     "Notes/KEO/Lecture 10 - Krystallisering og pulverteknologi.md",
     "Attachments/KEO/Pasted image 20261005141852.png",
     "Notes/KEO/Lecture 11 - Membraner.md",
