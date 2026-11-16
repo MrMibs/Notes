@@ -8,6 +8,11 @@ Less membrane area på side 2
 Relater CFD til afsnittet før og sig "det bruger man til at optimere geometri". Skriv det sammen med ovenstående. Side 2
 
 
+Mere kritisk omkring de andre, vores er mega godt. Vi har fikset det.
+Slet problemformulering
+
+
+Andersen har lavet en phd hvor han viser crossflow + forskellige typer filtr
 
 
 
