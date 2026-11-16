@@ -12,8 +12,10 @@ Mere kritisk omkring de andre, vores er mega godt. Vi har fikset det.
 Slet problemformulering
 
 
-Andersen har lavet en phd hvor han viser crossflow + forskellige typer filtr
+Andersen har lavet en phd hvor han viser crossflow + forskellige typer filtrering. Det skal vi prøve at finde fra ét navn .-.
 
+
+Kort koncentrationspolarisering ned, fjern alle ubrugte ligninger. Også skriv det sammen med fouling.
 
 
 [[Vejledermøde]]
