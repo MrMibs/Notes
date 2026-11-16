@@ -18,4 +18,10 @@ Andersen har lavet en phd hvor han viser crossflow + forskellige typer filtrerin
 Kort koncentrationspolarisering ned, fjern alle ubrugte ligninger. Også skriv det sammen med fouling.
 
 
+2.4 MSL afsnit: IKKE NÆVN ALTERNATIVER
+
+
+DET HELT STORE SPØRGSMÅL: Hvordan overlever vi teori vs introduktion. Vi burde samle det fra nu af, men ellers gør introduktion meget overfladisk.
+
+
 [[Vejledermøde]]
