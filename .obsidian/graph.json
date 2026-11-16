@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#keo",
+  "search": "#P5",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 99,
-  "scale": 0.4522520987554499,
+  "scale": 0.8889268468696933,
   "close": false
 }

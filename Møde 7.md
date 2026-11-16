@@ -1,0 +1,14 @@
+#P5 
+CIP skal nævnes for at vi ved hvor vi besvare i penge og kemikalier ved at lave de her membran upgrades.
+
+Less membrane area på side 2
+
+"Although vast amounts of space designs are still untested" på side 2 > just to mention a few (den kan vi specifikt ikke lide)
+
+Relater CFD til afsnittet før og sig "det bruger man til at optimere geometri". Skriv det sammen med ovenstående. Side 2
+
+
+
+
+
+[[Vejledermøde]]
